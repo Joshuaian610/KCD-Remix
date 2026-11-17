@@ -1,0 +1,71 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "ScatteredLivesRequestsTier1.21b2ec",
+    "ScatteredLivesRequestsTier2.8daaa9",
+    "ScatteredLivesI.d55d59"
+  ],
+  "ContainedObjects_path": "ScatteredLives.bf4938",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15003385639526539822/166364F4378ABC7BBE615987F08346A66813D946/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Part of the 'Scattered Lives' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "bf4938",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-39.16,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Scattered Lives",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Scattered"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -105.476,
+    "posY": 0.981,
+    "posZ": 17.592,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.67,
+    "scaleY": 0.67,
+    "scaleZ": 0.67
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

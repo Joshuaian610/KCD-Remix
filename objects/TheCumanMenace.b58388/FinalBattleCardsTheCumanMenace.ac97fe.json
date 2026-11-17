@@ -1,0 +1,77 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "UnlikelyAllies.378557",
+    "TreatingtheWounded.36c39f",
+    "TheAttackForce.",
+    "WellProvisioned.",
+    "PoisonintheFood.",
+    "KnowThyEnemy."
+  ],
+  "ContainedObjects_path": "FinalBattleCardsTheCumanMenace.ac97fe",
+  "CustomDeck": {
+    "14": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11977718350377011480/34D46B77A8897271FA6F0B8E3CBF583C4179E694/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14048145679043040395/2496F5772BBC9D97573596C13E9B13B3E1CAB7CA/",
+      "NumHeight": 2,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    1400,
+    1401,
+    1402,
+    1403,
+    1404,
+    1405
+  ],
+  "Description": "Part of the 'The Cuman Menace' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "ac97fe",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Final Battle Cards (The Cuman Menace)",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Cuman"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -73.467,
+    "posY": 1.173,
+    "posZ": 10.824,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 179,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

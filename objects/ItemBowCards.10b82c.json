@@ -1,0 +1,101 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "VillagersBow.c8d491",
+    "VeryLightBow.b9ff18",
+    "DogwoodBow.d8bd0f",
+    "YewLongbow.2f6601",
+    "CompositeBow.24bb16",
+    "LuckyBow.8a99dc",
+    "LightHazelBow.dc5a4f",
+    "Sinew-BackedBow.b655cf",
+    "FineYewBow.65a9de",
+    "ElmArmyBow.eafc29",
+    "Horn-ReinforcedBow.f8f28f",
+    "ForestersBow.faf505",
+    "CumanBow.14ee52",
+    "AshHuntingBow.581400",
+    "AshLongbow.566902",
+    "PoachersBow.dcfd6e",
+    "ElmLongbow.25614f",
+    "HeavyBow.de0f55"
+  ],
+  "ContainedObjects_path": "ItemBowCards.10b82c",
+  "CustomDeck": {
+    "10022": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11269796633169988880/67AD8A99435380065D2F7182E61163731705635A/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12157712896948983038/AC85711BF443395CC31F17FB33BACBC1E1929482/",
+      "NumHeight": 3,
+      "NumWidth": 6,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    1002202,
+    1002200,
+    1002206,
+    1002217,
+    1002216,
+    1002207,
+    1002203,
+    1002215,
+    1002209,
+    1002208,
+    1002212,
+    1002211,
+    1002213,
+    1002204,
+    1002214,
+    1002201,
+    1002205,
+    1002210
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "10b82c",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Item Bow Cards",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ItemBow"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 47.691,
+    "posY": 1.779,
+    "posZ": 0.385,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

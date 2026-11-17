@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"brigandine","name":"Brigandine","deck":"armor","equip":"chest","types":["cuirass"],"draw":{},"succ":{},"slots":[{"kind":"square","attrs":[]},{"kind":"square","attrs":[]}],"effects":[],"lock":1,"buy":6,"sell":4,"dots":{"slots":[null,null],"effects":[],"succ":null,"sboxes":[null,null]}}

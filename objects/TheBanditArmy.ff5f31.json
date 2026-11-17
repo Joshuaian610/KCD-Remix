@@ -1,0 +1,71 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "TheBanditArmyII.cc3428",
+    "BanditsDie.b7f6d1",
+    "TheBanditArmyI.39e9c7"
+  ],
+  "ContainedObjects_path": "TheBanditArmy.ff5f31",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/16997344124054031517/C08865AD5A0FC293C2999EED125A68E42A263E17/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Part of the 'The Bandit Army' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "ff5f31",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-44.4,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "The Bandit Army",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Bandit"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -107.928,
+    "posY": 0.981,
+    "posZ": 22.187,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.67,
+    "scaleY": 0.67,
+    "scaleZ": 0.67
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

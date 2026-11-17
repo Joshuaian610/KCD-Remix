@@ -1,0 +1,87 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 1
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "Bandit.1de20f",
+    "Bandit.e9d6b5",
+    "Bandit.820cbe",
+    "Bandit.12090f",
+    "Bandit.55c35b",
+    "Bandit.ff18ed",
+    "Bandit.366ab1",
+    "Bandit.48f7ce",
+    "Bandit.c48bc4",
+    "Bandit.64fb6d",
+    "Bandit.e584cb",
+    "Bandit.805682",
+    "Bandit.6a395b",
+    "Bandit.95cf7f",
+    "Bandit.98aa99",
+    "Bandit.848aff",
+    "Bandit.706db3",
+    "Bandit.435bd4",
+    "Bandit.d3e36d",
+    "Bandit.a2079a"
+  ],
+  "ContainedObjects_path": "BanditTiles.893dcb",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/13320760427546828713/EC56D06CBCF102F4363D3A478C53434015ABB919/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10238736117339366298/E0953F67A29E47783F9F880278750AFDB0128DFC/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "893dcb",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Bandit Tiles",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "EnemyBox",
+    "EnemyBox_bandit"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -49.372,
+    "posY": 1.186,
+    "posZ": -23.884,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

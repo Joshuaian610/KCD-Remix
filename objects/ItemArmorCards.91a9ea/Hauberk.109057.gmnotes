@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"hauberk","name":"Hauberk","deck":"armor","equip":"chest","types":["cuirass"],"draw":{},"succ":{},"slots":[{"kind":"square","attrs":[{"mode":"add","add":"str","n":1,"active":false}]}],"effects":[],"lock":3,"buy":15,"sell":10,"dots":{"slots":[[0.3794,0.5531]],"effects":[],"succ":null,"sboxes":[null]}}

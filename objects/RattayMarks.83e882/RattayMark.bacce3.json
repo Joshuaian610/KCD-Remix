@@ -1,0 +1,59 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15489815659236466102/9CA5643B3C07C0D00E07CA7D39BB58AC1BB14F4E/",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/13533223835903299052/5D132967C20BFB57BC03B4C59D84BC9AC4957336/",
+    "MaterialIndex": 0,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/14091825421691929113/1CC1348D97CB8BCB04203471FD5176B097BB397D/",
+    "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/13952282479674981354/319BB4F308149AD8800B2A37C01D3B8D2FB3FF7D/",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "bacce3",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Rattay Mark",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Mark",
+    "Mark_Rattay"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 14.003,
+    "posY": 2.602,
+    "posZ": -26.593,
+    "rotX": 0,
+    "rotY": 281,
+    "rotZ": 0,
+    "scaleX": 0.55,
+    "scaleY": 0.55,
+    "scaleZ": 0.55
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

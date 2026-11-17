@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/18172591371578102233/B3A4F885ADFFCCDC76826B16E3792C9675B58E4F/",
+    "MaterialIndex": 1,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/14530275599664055867/3E6A917381429C7E7A9FAAEB664DD8DD20B0A3EB/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "f66d56",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "{\"gen\":0,\"index\":7}",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Movement Cube (Green)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Movement_Green"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -98.823,
+    "posY": 1.503,
+    "posZ": -56.384,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

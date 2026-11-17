@@ -1,0 +1,76 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "SpawnCardS05.200ac7",
+    "SpawnCardS03.ffc6c5",
+    "SpawnCardS04.0895ee",
+    "SpawnCardS02.5fff26",
+    "SpawnCardS01.737c01"
+  ],
+  "ContainedObjects_path": "Deck.c817e3",
+  "CustomDeck": {
+    "7012": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18155527083931925495/0D90FAA98556E574E3EF122AD01B96BB6F2C0D5B/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13701869927533556700/653E4E6B2FB405501552366A3F676165F90DC359/",
+      "NumHeight": 4,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    701219,
+    701217,
+    701218,
+    701216,
+    701215
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "c817e3",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "SpawnCard",
+    "SpawnCard_S"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -115.838,
+    "posY": 1.026,
+    "posZ": 30.614,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 2.21,
+    "scaleY": 1,
+    "scaleZ": 2.21
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

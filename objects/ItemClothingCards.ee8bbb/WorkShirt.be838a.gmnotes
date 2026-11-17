@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"work-shirt","name":"Work Shirt","deck":"clothing","equip":"chest","types":["tunic"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[]},{"kind":"round","attrs":[]}],"effects":[],"lock":2,"buy":7,"sell":5,"per_spot":2,"dots":{"slots":[null,null],"effects":[],"succ":null,"sboxes":[null,null]}}

@@ -1,0 +1,83 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "FlowerTokenWhite.b58c4b",
+    "FlowerTokenWhite.b8b093",
+    "FlowerTokenWhite.1f4ad4",
+    "FlowerTokenWhite.45eda4",
+    "FlowerTokenWhite.20fcc3",
+    "FlowerTokenWhite.4107b3",
+    "FlowerTokenWhite.e5eeb2",
+    "FlowerTokenWhite.ff0172",
+    "FlowerTokenWhite.d7f881",
+    "FlowerTokenWhite.467a5b",
+    "FlowerTokenWhite.1cd481",
+    "FlowerTokenWhite.3a3fc5",
+    "FlowerTokenWhite.39b469",
+    "FlowerTokenWhite.590fe4",
+    "FlowerTokenWhite.359cec",
+    "FlowerTokenWhite.ece6b7"
+  ],
+  "ContainedObjects_path": "FlowersWhite.65703a",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/17235319709341354010/4833912D3C06396EAE842BBA076D114181F3775F/",
+    "MaterialIndex": 1,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/17817777144204533865/9CCA3ADF1F2DE5A29C4E744594776A5A9C7E406C/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "65703a",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Flowers (White)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "FlowerBowl",
+    "FlowerBowl_White"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 74.83,
+    "posY": 1.671,
+    "posZ": 1.735,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 0.35,
+    "scaleY": 0.35,
+    "scaleZ": 0.35
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

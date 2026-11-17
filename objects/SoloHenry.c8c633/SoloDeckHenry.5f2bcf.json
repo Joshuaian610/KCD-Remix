@@ -1,0 +1,101 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard.",
+    "Henry-ActionCard."
+  ],
+  "ContainedObjects_path": "SoloDeckHenry.5f2bcf",
+  "CustomDeck": {
+    "7003": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17373693111261238671/F0AA6296552E7FB8951C1B9979D73C2A7CE966D9/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11712713437367077732/5629716276470302DFC002B5215B91FE68EDC4C3/",
+      "NumHeight": 3,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    700300,
+    700301,
+    700302,
+    700303,
+    700304,
+    700305,
+    700306,
+    700307,
+    700308,
+    700309,
+    700310,
+    700311,
+    700312,
+    700313,
+    700314,
+    700315,
+    700316,
+    700317
+  ],
+  "Description": "Solo game content (Henry)",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "5f2bcf",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Solo Deck (Henry)",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Solo"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -78.1,
+    "posY": 1.191,
+    "posZ": -23.21,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1.75,
+    "scaleY": 1,
+    "scaleZ": 1.75
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

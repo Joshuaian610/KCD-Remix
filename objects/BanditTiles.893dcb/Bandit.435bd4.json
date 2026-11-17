@@ -1,0 +1,59 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/10301957531355384639/67161AA521366096DE227D792B8762F6CACEC7EA/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/15428362114893282223/01A0DCD86974AF08276E246DC1CF8977271F80A7/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "435bd4",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Memo": "",
+  "Name": "Custom_Model",
+  "Nickname": "Bandit",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "BanditTile"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -49.795,
+    "posY": 2.596,
+    "posZ": -24.158,
+    "rotX": 1,
+    "rotY": 180,
+    "rotZ": 183,
+    "scaleX": 2.5,
+    "scaleY": 1,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

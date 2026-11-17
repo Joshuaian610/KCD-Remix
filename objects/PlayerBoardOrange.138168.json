@@ -1,0 +1,1588 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 1.968,
+        "y": 0.079,
+        "z": 0.241
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "CharacterCard",
+        "Character_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.835,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.175,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.515,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 4.855,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 4.195,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 3.535,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 2.875,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 2.215,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.556,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 0.896,
+        "y": 0.079,
+        "z": -3.005
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 180,
+        "z": 0
+      },
+      "Tags": [
+        "Bed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.164,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.623,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.081,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.549,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.007,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.466,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.932,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.392,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.85,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -4.319,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -4.777,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.235,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.702,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.162,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.62,
+        "y": 0.079,
+        "z": -3.044
+      },
+      "Tags": [
+        "Hunger_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": 3.176
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.796,
+        "y": 0.079,
+        "z": 2.779
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": 2.393
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.796,
+        "y": 0.079,
+        "z": 2.012
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": 1.632
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.796,
+        "y": 0.079,
+        "z": 1.248
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": 0.889
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.796,
+        "y": 0.079,
+        "z": 0.492
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": 0.057
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.796,
+        "y": 0.079,
+        "z": -0.263
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": -0.644
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.796,
+        "y": 0.079,
+        "z": -1.027
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -6.893,
+        "y": 0.079,
+        "z": -1.411
+      },
+      "Tags": [
+        "Movement_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.828,
+        "y": 0.079,
+        "z": -1.312
+      },
+      "Tags": [
+        "Universal_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.456,
+        "y": 0.079,
+        "z": -1.416
+      },
+      "Tags": [
+        "Universal_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.081,
+        "y": 0.079,
+        "z": -1.526
+      },
+      "Tags": [
+        "Universal_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.705,
+        "y": 0.079,
+        "z": -1.636
+      },
+      "Tags": [
+        "Universal_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.333,
+        "y": 0.079,
+        "z": -1.741
+      },
+      "Tags": [
+        "Universal_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.828,
+        "y": 0.079,
+        "z": -0.515
+      },
+      "Tags": [
+        "Strength_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.456,
+        "y": 0.079,
+        "z": -0.62
+      },
+      "Tags": [
+        "Strength_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.081,
+        "y": 0.079,
+        "z": -0.73
+      },
+      "Tags": [
+        "Strength_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.705,
+        "y": 0.079,
+        "z": -0.84
+      },
+      "Tags": [
+        "Strength_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.333,
+        "y": 0.079,
+        "z": -0.944
+      },
+      "Tags": [
+        "Strength_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.828,
+        "y": 0.079,
+        "z": 0.288
+      },
+      "Tags": [
+        "Perception_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.456,
+        "y": 0.079,
+        "z": 0.183
+      },
+      "Tags": [
+        "Perception_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.081,
+        "y": 0.079,
+        "z": 0.073
+      },
+      "Tags": [
+        "Perception_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.705,
+        "y": 0.079,
+        "z": -0.037
+      },
+      "Tags": [
+        "Perception_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.333,
+        "y": 0.079,
+        "z": -0.141
+      },
+      "Tags": [
+        "Perception_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.828,
+        "y": 0.079,
+        "z": 1.094
+      },
+      "Tags": [
+        "Dexterity_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.456,
+        "y": 0.079,
+        "z": 0.99
+      },
+      "Tags": [
+        "Dexterity_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.081,
+        "y": 0.079,
+        "z": 0.879
+      },
+      "Tags": [
+        "Dexterity_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.705,
+        "y": 0.079,
+        "z": 0.769
+      },
+      "Tags": [
+        "Dexterity_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.333,
+        "y": 0.079,
+        "z": 0.665
+      },
+      "Tags": [
+        "Dexterity_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.828,
+        "y": 0.079,
+        "z": 1.9
+      },
+      "Tags": [
+        "Speech_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.456,
+        "y": 0.079,
+        "z": 1.796
+      },
+      "Tags": [
+        "Speech_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 6.081,
+        "y": 0.079,
+        "z": 1.686
+      },
+      "Tags": [
+        "Speech_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.705,
+        "y": 0.079,
+        "z": 1.575
+      },
+      "Tags": [
+        "Speech_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.333,
+        "y": 0.079,
+        "z": 1.471
+      },
+      "Tags": [
+        "Speech_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.357,
+        "y": 0.157,
+        "z": -1.428
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -4.152,
+        "y": 0.157,
+        "z": -1.082
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.367,
+        "y": 0.157,
+        "z": -0.136
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -4.157,
+        "y": 0.157,
+        "z": 0.293
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.362,
+        "y": 0.157,
+        "z": 1.254
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -4.152,
+        "y": 0.157,
+        "z": 1.668
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.362,
+        "y": 0.157,
+        "z": 2.61
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -4.147,
+        "y": 0.157,
+        "z": 3
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.108,
+        "y": 0.157,
+        "z": -1.428
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.878,
+        "y": 0.157,
+        "z": -1.082
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.108,
+        "y": 0.157,
+        "z": -0.145
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.907,
+        "y": 0.157,
+        "z": 0.284
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.113,
+        "y": 0.157,
+        "z": 1.249
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.898,
+        "y": 0.157,
+        "z": 1.668
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.108,
+        "y": 0.157,
+        "z": 2.605
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.903,
+        "y": 0.157,
+        "z": 3
+      },
+      "Tags": [
+        "Inventory_Orange",
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.612,
+        "y": 0.157,
+        "z": 1.317
+      },
+      "Tags": [
+        "Overload_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.401,
+        "y": 0.157,
+        "z": 1.659
+      },
+      "Tags": [
+        "Overload_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.621,
+        "y": 0.157,
+        "z": 2.658
+      },
+      "Tags": [
+        "Overload_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.411,
+        "y": 0.157,
+        "z": 2.975
+      },
+      "Tags": [
+        "Overload_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": 4.156,
+        "y": 0.157,
+        "z": -0.736
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "Head_Orange",
+        "SlotHead"
+      ]
+    },
+    {
+      "Position": {
+        "x": 4.119,
+        "y": 0.157,
+        "z": 2.139
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "Chest_Orange",
+        "SlotChest"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.124,
+        "y": 0.157,
+        "z": -0.738
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "Weapon_Orange",
+        "SlotWeapon"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.832,
+        "y": 0.157,
+        "z": -0.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "Bow_Orange",
+        "SlotBow"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.137,
+        "y": 0.157,
+        "z": 2.124
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "Legs_Orange",
+        "SlotLegs"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.758,
+        "y": 0.157,
+        "z": -0.588
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemCard",
+        "InventorySlot_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.756,
+        "y": 0.157,
+        "z": 2.133
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemCard",
+        "InventorySlot_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.5,
+        "y": 0.157,
+        "z": -0.593
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemCard",
+        "InventorySlot_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.505,
+        "y": 0.157,
+        "z": 2.13
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemCard",
+        "InventorySlot_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.011,
+        "y": 0.157,
+        "z": 2.152
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemCard",
+        "OverloadSlot_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.755,
+        "y": 0.157,
+        "z": -1.255
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.755,
+        "y": 0.157,
+        "z": -1.255
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.762,
+        "y": 0.157,
+        "z": 0.079
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.762,
+        "y": 0.157,
+        "z": 0.079
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.757,
+        "y": 0.157,
+        "z": 1.461
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.757,
+        "y": 0.157,
+        "z": 1.461
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.755,
+        "y": 0.157,
+        "z": 2.805
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -3.755,
+        "y": 0.157,
+        "z": 2.805
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.493,
+        "y": 0.157,
+        "z": -1.255
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.493,
+        "y": 0.157,
+        "z": -1.255
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.508,
+        "y": 0.157,
+        "z": 0.069
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.508,
+        "y": 0.157,
+        "z": 0.069
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.505,
+        "y": 0.157,
+        "z": 1.459
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.505,
+        "y": 0.157,
+        "z": 1.459
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.505,
+        "y": 0.157,
+        "z": 2.802
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "InventoryHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -5.505,
+        "y": 0.157,
+        "z": 2.802
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.007,
+        "y": 0.157,
+        "z": 1.488
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "OverloadHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.007,
+        "y": 0.157,
+        "z": 1.488
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.016,
+        "y": 0.157,
+        "z": 2.817
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "OverloadHalf_Orange",
+        "AnimalTile"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.016,
+        "y": 0.157,
+        "z": 2.817
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "WoundToken",
+        "WoundHalf_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.616,
+        "y": 0.157,
+        "z": 1.326
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "InventoryRed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.41,
+        "y": 0.157,
+        "z": 1.676
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "InventoryRed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -1.625,
+        "y": 0.157,
+        "z": 2.633
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "InventoryRed_Orange"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.399,
+        "y": 0.157,
+        "z": 2.976
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "InventoryRed_Orange"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/14543829293944992043/3C450796D11356D8634EF064D325B3AADAEB4023/",
+    "Convex": false,
+    "CustomShader": {
+      "FresnelStrength": 0,
+      "SpecularColor": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "SpecularIntensity": 0,
+      "SpecularSharpness": 2
+    },
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12865198765555820588/04F5B91D611B45B7EBBD2A0273D9215ECE3E7F58/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/9352411748242447632/3F902F73655486F5595FD44A8FF2DC4422321D0E/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "CustomUIAssets": [
+    {
+      "Name": "th_str",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/10484429345184340586/8263CC3A7A98F0EA731D4B0C3DDD2EBED115B394/"
+    },
+    {
+      "Name": "th_per",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/13544952565241243899/3CCB5870DF31261AE8F79751A99ACC2C77993D3A/"
+    },
+    {
+      "Name": "th_dex",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15186343687489271874/C7BB2FB220F4BD105C8008F8D66DF39A0A4C3F4F/"
+    },
+    {
+      "Name": "th_spe",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/14361429217182001056/4F7BED80DA4EA50E376E62D024B0E0B25DC46D98/"
+    },
+    {
+      "Name": "th_herb",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9995910685357355447/DE90A9E2540616AFA979E7A23A0A760E179B40B6/"
+    },
+    {
+      "Name": "th_any",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/10897653328315859608/11EADC051198FEC94329CAF72F6BE14BA6DCCCA0/"
+    }
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "138168",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Player Board (Orange)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": 122.25,
+    "posY": 1.031,
+    "posZ": -49.46,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.18,
+    "scaleY": 2.18,
+    "scaleZ": 2.18
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

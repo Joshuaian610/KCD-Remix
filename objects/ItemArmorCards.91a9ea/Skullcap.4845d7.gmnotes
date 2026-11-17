@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"skullcap","name":"Skullcap","deck":"armor","equip":"head","types":["helmet"],"draw":{},"succ":{},"slots":[{"kind":"square","attrs":[]}],"effects":[],"lock":1,"buy":3,"sell":2,"dots":{"slots":[null],"effects":[],"succ":null,"sboxes":[null]}}

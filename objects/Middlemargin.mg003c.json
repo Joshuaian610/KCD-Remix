@@ -1,0 +1,59 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/11299636164773496320/1221D12913EFA8EF389FA8D142DD10D53167FF41/",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12000880184553946709/D25CF9435BB0E55F42EA95E7569055A0F39B2820/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/11299636164773496320/1221D12913EFA8EF389FA8D142DD10D53167FF41/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "trayMargin:3:3:18:12",
+  "GUID": "mg003c",
+  "Grid": false,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState_path": "Middlemargin.mg003c.luascriptstate",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Middle: margin",
+  "Snap": false,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable",
+    "TrayMargin_Middle"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": 25.2,
+    "posY": 0.94,
+    "posZ": 21,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

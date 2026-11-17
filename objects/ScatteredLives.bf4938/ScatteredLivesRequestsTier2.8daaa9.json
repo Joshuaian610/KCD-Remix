@@ -1,0 +1,81 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "BeggarsFeast.c8e674",
+    "BuriedProperty.29f059",
+    "AvengeSkalitz.535b6f",
+    "SpecialRemedies.3cfa1e",
+    "SpecialRemedies.c18d36",
+    "BuriedProperty.af81d4",
+    "BeggarsFeast.cf52fd",
+    "AvengeSkalitz.1e974f"
+  ],
+  "ContainedObjects_path": "ScatteredLivesRequestsTier2.8daaa9",
+  "CustomDeck": {
+    "13": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18103644248194115879/22690803B3F4AD99B942B5FC44269FB05434D157/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18040125750713870869/42B8302C881FF56599B592A792468BE93FD4DA50/",
+      "NumHeight": 4,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    1315,
+    1314,
+    1313,
+    1312,
+    1311,
+    1310,
+    1309,
+    1308
+  ],
+  "Description": "Part of the 'Scattered Lives' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "8daaa9",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Scattered Lives Requests (Tier 2)",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Scattered"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 171.909,
+    "posY": 2.069,
+    "posZ": -8.277,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

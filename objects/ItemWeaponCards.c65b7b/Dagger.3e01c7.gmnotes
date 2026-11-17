@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"dagger","name":"Dagger","deck":"weapon","equip":"weapon","types":[],"draw":{"combat":2},"succ":{},"slots":[],"effects":[{"from":"dex","mode":"as","to":"str","conds":["combat"],"active":false}],"lock":3,"buy":14,"sell":9,"dots":{"slots":[],"effects":[[0.8838,0.7988]],"succ":null,"eboxes":[[0.1212,0.7858,0.8938,0.9628]]}}

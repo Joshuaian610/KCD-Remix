@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12364172992977880660/84D2CAB12994AD2261DF3DF2F2D3020CEC5E1D6C/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/17435446091594111798/40C3919F8CAB8AC329C46DBA95E44694ACC8113C/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "56c8b8",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Toggle Overlay",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "MapOverlayButton"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -65.8,
+    "posY": 1.25,
+    "posZ": -29.4,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.73,
+    "scaleY": 1,
+    "scaleZ": 0.73
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

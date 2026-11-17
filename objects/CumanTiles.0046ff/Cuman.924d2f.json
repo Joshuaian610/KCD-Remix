@@ -1,0 +1,59 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/18310662647592069882/7F5A124EB6BAEDA59B9075154F70874E43497DD6/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/14165438885071056322/7BA49AA7C4A37193A7E4333944E5AA9FBFC2045C/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "924d2f",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Memo": "",
+  "Name": "Custom_Model",
+  "Nickname": "Cuman",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "CumanTile"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -43.199,
+    "posY": 2.415,
+    "posZ": -23.434,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 179,
+    "scaleX": 2.5,
+    "scaleY": 1,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

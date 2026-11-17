@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"long-cuman-tunic","name":"Long Cuman Tunic","deck":"special","equip":"chest","types":["tunic"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[]},{"kind":"round","attrs":[],"bottom":true}],"effects":[],"lock":2,"buy":7,"sell":5,"dots":{"slots":[null,null],"effects":[],"succ":null,"sboxes":[null,null]}}

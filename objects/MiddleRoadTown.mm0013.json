@@ -1,0 +1,76 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": -0.02,
+        "y": 0.146,
+        "z": 1.985
+      }
+    },
+    {
+      "Position": {
+        "x": -0.02,
+        "y": 0.146,
+        "z": -2.025
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/17701849603775032293/5F2F3CE16CAD09F81CB1AD114F34A3ACC9A35703/",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12000880184553946709/D25CF9435BB0E55F42EA95E7569055A0F39B2820/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/16854523076536956791/7D3A2C3D6C962A904D3D652FF5CC90468DDD4885/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "trayGrid:2:3:ROAD_TOWN",
+  "GUID": "mm0013",
+  "Grid": false,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState_path": "MiddleRoadTown.mm0013.luascriptstate",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Middle: Road Town",
+  "Snap": false,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable",
+    "TrayGrid",
+    "TrayGrid_Middle"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -40.6,
+    "posY": 0.94,
+    "posZ": 18.2,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

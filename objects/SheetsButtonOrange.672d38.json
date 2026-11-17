@@ -1,0 +1,59 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/16324058789662702622/726C66A053C255CFAB2BB9EBB9C5AE54B98EE792/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/13084141685554373248/36F1E30C68F5C0C868D6C538E28298EA85E0F481/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "672d38",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "{\"combat\":{\"guid\":\"0982c4\",\"shown\":false},\"ref\":{\"guid\":\"50f29d\",\"shown\":false}}",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Sheets Button (Orange)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "SheetsButton",
+    "SheetsButton_Orange"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 111.826,
+    "posY": 1.696,
+    "posZ": -39.32,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.68,
+    "scaleY": 0.93,
+    "scaleZ": 0.68
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

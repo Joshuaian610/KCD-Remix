@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"blackened-coif","name":"Blackened Coif","deck":"clothing","equip":"head","types":["hat"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[{"mode":"add","add":"dex","n":1,"active":false}]},{"kind":"square","attrs":[]}],"effects":[],"lock":4,"buy":19,"sell":12,"dots":{"slots":[[0.3831,0.2901],null],"effects":[],"succ":null,"sboxes":[null,null]}}

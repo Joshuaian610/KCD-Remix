@@ -1,0 +1,185 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": -0.686,
+        "y": 0.1,
+        "z": 0.245
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemCard",
+        "HorseSlot"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.686,
+        "y": 0.1,
+        "z": -0.297
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "AnimalTile",
+        "HorseMedium"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.686,
+        "y": 0.1,
+        "z": 0.833
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 90,
+        "z": 0
+      },
+      "Tags": [
+        "Tile",
+        "AnimalTile",
+        "HorseMedium"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.536,
+        "y": 0.1,
+        "z": -0.444
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "HorseInventory"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.834,
+        "y": 0.1,
+        "z": -0.147
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "HorseInventory"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.536,
+        "y": 0.1,
+        "z": 0.661
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "HorseInventory"
+      ]
+    },
+    {
+      "Position": {
+        "x": -0.834,
+        "y": 0.1,
+        "z": 1.004
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "MeatToken",
+        "MushroomToken",
+        "FlowerToken",
+        "HorseInventory"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "CardID": 1000811,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "10008": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10411117695929921942/DCA51134934CC442F939F954EE752C7C2EF2B564/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14186033938331096071/A8C3A27D64901B951C7FE5F4297C373C49B6A0E6/",
+      "NumHeight": 3,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "02d1cd",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Warhorse Jenda",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "HorseTile"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 76.268,
+    "posY": 1.913,
+    "posZ": 4.245,
+    "rotX": 0,
+    "rotY": 270,
+    "rotZ": 179,
+    "scaleX": 2.4,
+    "scaleY": 1,
+    "scaleZ": 2.4
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

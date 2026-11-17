@@ -1,0 +1,69 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": -0.003,
+        "y": 0.146,
+        "z": -0.007
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12000880184553946709/D25CF9435BB0E55F42EA95E7569055A0F39B2820/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/13207429344807320027/4100DE69437497891FE89178B3ABFC26DF9A75DE/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "trayGrid:1:1:SHIELD",
+  "GUID": "mm0008",
+  "Grid": false,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState_path": "MiddleShield.mm0008.luascriptstate",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Middle: Shield",
+  "Snap": false,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable",
+    "TrayGrid",
+    "TrayGrid_Middle"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -16.8,
+    "posY": 0.94,
+    "posZ": 26.6,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

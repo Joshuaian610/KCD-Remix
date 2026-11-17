@@ -1,0 +1,55 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 700317,
+  "CustomDeck": {
+    "7003": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17373693111261238671/F0AA6296552E7FB8951C1B9979D73C2A7CE966D9/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11712713437367077732/5629716276470302DFC002B5215B91FE68EDC4C3/",
+      "NumHeight": 3,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "Description": "Solo game content (Henry)",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "",
+  "Grid": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Henry - Action Card",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Solo"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 71.057,
+    "posY": 2.3,
+    "posZ": 150.541,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.75,
+    "scaleY": 1,
+    "scaleZ": 1.75
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

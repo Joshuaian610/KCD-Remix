@@ -1,0 +1,50 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "a": 0.75,
+    "b": 0.25,
+    "g": 0.25,
+    "r": 0.25
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "FogColor": "Black",
+  "FogHidePointers": false,
+  "FogReverseHiding": false,
+  "FogSeethrough": true,
+  "GMNotes": "",
+  "GUID": "88b5cf",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "FogOfWarTrigger",
+  "Nickname": "",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 0,
+    "posY": -4.05,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 131.8,
+    "scaleY": 3.9,
+    "scaleZ": 4.78
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

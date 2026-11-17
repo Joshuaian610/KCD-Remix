@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"piercer","name":"Piercer","deck":"weapon","equip":"weapon","types":["sword"],"draw":{"combat":4},"succ":{},"slots":[{"kind":"square","attrs":[]}],"effects":[],"lock":5,"buy":30,"sell":20,"dots":{"slots":[null],"effects":[],"succ":null,"sboxes":[null]}}

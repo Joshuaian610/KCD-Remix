@@ -1,0 +1,60 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.1,
+      "Type": 2
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/10878351032196269908/E72794882F2CBC868AA5C0C21043AE47FAB750BF/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/10878351032196269908/E72794882F2CBC868AA5C0C21043AE47FAB750BF/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "27570e",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "{\"i\":1}",
+  "MeasureMovement": false,
+  "Name": "Custom_Tile",
+  "Nickname": "Day Token",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "DayToken"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -74.524,
+    "posY": 1.326,
+    "posZ": -4.866,
+    "rotX": 0,
+    "rotY": 90,
+    "rotZ": 0,
+    "scaleX": 0.92,
+    "scaleY": 1,
+    "scaleZ": 0.92
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

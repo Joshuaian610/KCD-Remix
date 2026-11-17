@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"padded-coif","name":"Padded Coif","deck":"clothing","equip":"head","types":["hat"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[]},{"kind":"square","attrs":[]}],"effects":[],"lock":2,"buy":9,"sell":6,"dots":{"slots":[null,null],"effects":[],"succ":null,"sboxes":[null,null]}}

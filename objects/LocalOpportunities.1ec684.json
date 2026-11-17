@@ -1,0 +1,75 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "ATrustedAssistant.0497b6",
+    "ATrueConnoisseur.8473c4",
+    "EyesandEars.6c1b26",
+    "AWorthyStudent.2a35a0",
+    "TalesandAles.2e0705",
+    "ATasteoftheWorld.fd5cda"
+  ],
+  "ContainedObjects_path": "LocalOpportunities.1ec684",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/14467783429977655323/C77516DA20BC2806367BF0A9786AFDEAF59C9C7C/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "1ec684",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "[{\"l\":false,\"n\":\"A Trusted Assistant\",\"p\":[-53,1.3,44],\"r\":[0,180,0]},{\"l\":false,\"n\":\"A Worthy Student\",\"p\":[-50.4,1.3,44],\"r\":[0,180,0]},{\"l\":false,\"n\":\"Eyes and Ears\",\"p\":[-47.8,1.3,44],\"r\":[0,180,0]},{\"l\":false,\"n\":\"A Taste of the World\",\"p\":[-45.2,1.3,44],\"r\":[0,180,0]},{\"l\":false,\"n\":\"A True Connoisseur\",\"p\":[-42.6,1.3,44],\"r\":[0,180,0]},{\"l\":false,\"n\":\"Tales and Ales\",\"p\":[-40,1.3,44],\"r\":[0,180,0]}]",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Local Opportunities",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "SmallBox",
+    "SmallBox_LocalOpp",
+    "StoryCardBox"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -112.625,
+    "posY": 0.981,
+    "posZ": 14.046,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

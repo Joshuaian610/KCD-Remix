@@ -1,0 +1,114 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 700667,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "7006": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10504346887506248193/3DD8536B9A5E866CB2A2B0BC9361E77ACB19261F/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14504624681965396862/2E9D83C5B2DC3A8ACB75EC017E7BCE5C6717AA7F/",
+      "NumHeight": 7,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "CustomUIAssets": [
+    {
+      "Name": "cfdot_green",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/16130106344178578123/3CAB5F7310850686F0AFA160BCC1D979C1ABF7DD/"
+    },
+    {
+      "Name": "cfdot_red",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9900467040476590899/318625CB97BE9BBFA8D53D8E36C5D204FA4CE860/"
+    },
+    {
+      "Name": "cfdot_yellow",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9806358440465352450/483AEFCCCBD2E5640843FD3720978864A806DBB6/"
+    },
+    {
+      "Name": "cfdot_blue",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15929448116267269121/8579354522FF19B4E76B087C98319BF9B1D24085/"
+    },
+    {
+      "Name": "cfdot_grey",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9423001389016944159/068CEDE72234516AD39D0D3752BF2390A424A526/"
+    },
+    {
+      "Name": "cfdot_hand",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17752160459140135502/D3B4E9727DD50E5F8B29307ECA0E9F500E1EA698/"
+    },
+    {
+      "Name": "cfdot_mouse",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/13437959983260950885/73E8B228C6EA6D381169817F668D4F7CED7D7442/"
+    },
+    {
+      "Name": "cfwhite",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9901694122520222007/E23F63675A925C76401C96B968DB634FDBB36D94/"
+    },
+    {
+      "Name": "cfuse",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/16438150843128356718/75145AA75F3FF85A56A9A1446B772FF228606C76/"
+    },
+    {
+      "Name": "cfusered",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/14701628529111870111/B05EC9835207C3062624009099DFEDE3F636BA4B/"
+    }
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "e2d8b9",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "{\"def\":false,\"done\":[],\"emb\":[],\"mid\":\"\",\"seat\":\"Blue\",\"uses\":[],\"where\":\"hand\"}",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Feeling His Presence",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "CardFrames",
+    "Set18Card"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -31.984,
+    "posY": 4.072,
+    "posZ": 4.054,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.3,
+    "scaleY": 1,
+    "scaleZ": 2.3
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

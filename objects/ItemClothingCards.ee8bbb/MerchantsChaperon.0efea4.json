@@ -1,0 +1,63 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 1002532,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "5987": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9463506978056857188/B8A295E617A4E8041149F5F691C7A2B281EED194/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11925584481865545100/1DDE862F101CC4D5A46B62A818D88AF8D1A2727E/",
+      "NumHeight": 5,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes_path": "ItemClothingCards.ee8bbb/MerchantsChaperon.0efea4.gmnotes",
+  "GUID": "0efea4",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Merchant's Chaperon",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ItemCard",
+    "ItemClothing",
+    "SlotHead"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 33.41,
+    "posY": 1.018,
+    "posZ": -0.69,
+    "rotX": 0,
+    "rotY": 270,
+    "rotZ": 180,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

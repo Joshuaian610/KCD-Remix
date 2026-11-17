@@ -1,0 +1,50 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "a": 0.5098,
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "ce943a",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "ScriptingTrigger",
+  "Nickname": "Coin count (Blue)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "CoinCountZone",
+    "CoinCountZone_Blue"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -30.95,
+    "posY": 2.346,
+    "posZ": -37.17,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 11.78,
+    "scaleY": 2.2,
+    "scaleZ": 3.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

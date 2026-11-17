@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"quiet-dark-shoes","name":"Quiet Dark Shoes","deck":"clothing","equip":"legs","types":["boots"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[]},{"kind":"round","attrs":[{"mode":"add","add":"dex","n":1,"active":false}]}],"effects":[],"lock":3,"buy":14,"sell":9,"dots":{"slots":[null,[0.3853,0.5206]],"effects":[],"succ":null,"sboxes":[null,null]}}

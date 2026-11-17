@@ -1,0 +1,87 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 1
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "Cuman.924d2f",
+    "Cuman.c58d58",
+    "Cuman.29c2bb",
+    "Cuman.f1fc3d",
+    "Cuman.f4f8f7",
+    "Cuman.e5189b",
+    "Cuman.0d37e6",
+    "Cuman.400ad0",
+    "Cuman.277fa8",
+    "Cuman.a90f7f",
+    "Cuman.d4bb20",
+    "Cuman.03d338",
+    "Cuman.5657f1",
+    "Cuman.d2a447",
+    "Cuman.af83f2",
+    "Cuman.c73426",
+    "Cuman.de8396",
+    "Cuman.c2f9a1",
+    "Cuman.18bb5e",
+    "Cuman.1ff6b8"
+  ],
+  "ContainedObjects_path": "CumanTiles.0046ff",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12474641392098771321/3D4CBF95684338DF119B3AFDDF220F1F1EF060E1/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10238736117339366298/E0953F67A29E47783F9F880278750AFDB0128DFC/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "0046ff",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Cuman Tiles",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "EnemyBox",
+    "EnemyBox_cuman"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -43.644,
+    "posY": 1.186,
+    "posZ": -23.884,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

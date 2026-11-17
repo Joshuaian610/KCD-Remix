@@ -1,0 +1,62 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 700102,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "7001": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/11874591486587055660/0E8E6803D2B26FFFE6A41E9DBE0CF014DB74018A/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16625597616365499596/D2BF519C039B64E797FFC85944360581CAE35312/",
+      "NumHeight": 7,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Local Opportunity",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "6c1b26",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Eyes and Ears",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "LocalOpportunity",
+    "Set23Card"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 118.6,
+    "posY": 2.024,
+    "posZ": 76.3,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.52,
+    "scaleY": 1,
+    "scaleZ": 2.52
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12503461214250986556/8B614BC8F24823BA916E3FE886DB28F580A6ED39/",
+    "MaterialIndex": 1,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/13425197779627279009/0224DA5E36C640C71B5BF700F650751FE75F9567/",
+    "NormalURL": "https://steamusercontent-a.akamaihd.net/ugc/17927848414913108066/52BDC27FBD15B0927EB15E954CD1927307E8BB8B/",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "14c7eb",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Bed (Green)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Bed_Green"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -124.434,
+    "posY": 1.204,
+    "posZ": -42.908,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,197 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 8.85,
+        "y": 0.3,
+        "z": -2.85
+      },
+      "Tags": [
+        "AdvancedSkillDeck_Red",
+        "AdvancedSkill_Red"
+      ]
+    },
+    {
+      "Position": {
+        "x": 8.85,
+        "y": 0.3,
+        "z": 6.39
+      },
+      "Tags": [
+        "AdvancedSkill_Red"
+      ]
+    },
+    {
+      "Position": {
+        "x": 8.85,
+        "y": 0.12,
+        "z": -8.22
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": 2.95,
+        "y": 0.3,
+        "z": -2.85
+      },
+      "Tags": [
+        "AdvancedSkillDeck_Green",
+        "AdvancedSkill_Green"
+      ]
+    },
+    {
+      "Position": {
+        "x": 2.95,
+        "y": 0.3,
+        "z": 6.39
+      },
+      "Tags": [
+        "AdvancedSkill_Green"
+      ]
+    },
+    {
+      "Position": {
+        "x": 2.95,
+        "y": 0.12,
+        "z": -8.22
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.95,
+        "y": 0.3,
+        "z": -2.85
+      },
+      "Tags": [
+        "AdvancedSkillDeck_Brown",
+        "AdvancedSkill_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.95,
+        "y": 0.3,
+        "z": 6.39
+      },
+      "Tags": [
+        "AdvancedSkill_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.95,
+        "y": 0.12,
+        "z": -8.22
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": -8.85,
+        "y": 0.3,
+        "z": -2.85
+      },
+      "Tags": [
+        "AdvancedSkillDeck_Blue",
+        "AdvancedSkill_Blue"
+      ]
+    },
+    {
+      "Position": {
+        "x": -8.85,
+        "y": 0.3,
+        "z": 6.39
+      },
+      "Tags": [
+        "AdvancedSkill_Blue"
+      ]
+    },
+    {
+      "Position": {
+        "x": -8.85,
+        "y": 0.12,
+        "z": -8.22
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/13122697038620645781/8EBA67F9DB2D677EA0E976FFD54717E54364B4B5/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/15994754042224917550/165E4EA1065A13478CF95ADE55C682E2262E607D/",
+    "NormalURL": "",
+    "TypeIndex": 4
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "2e0856",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Card Stand",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "CardStandBoard",
+    "Noninteractable"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -50.4,
+    "posY": 1.065,
+    "posZ": -1.4,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

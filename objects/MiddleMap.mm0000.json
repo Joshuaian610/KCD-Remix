@@ -1,0 +1,90 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedDecals": [
+    {
+      "CustomDecal": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/14356154023075174369/6757ABB088A540BB0BB7AF5C4186DD212C63A775/",
+        "Name": "TrayModules",
+        "Size": 1
+      },
+      "OwnerSteamID": 0,
+      "Transform": {
+        "posX": 28.3,
+        "posY": 0.325,
+        "posZ": 15.7,
+        "rotX": 90,
+        "rotY": 0,
+        "rotZ": 0,
+        "scaleX": 0.9,
+        "scaleY": 0.9,
+        "scaleZ": 1
+      }
+    }
+  ],
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0,
+        "y": 0.096,
+        "z": 0
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/12133266329607322658/31370DA1BD5906D75ABC272BCF689BA2C3121D05/",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12000880184553946709/D25CF9435BB0E55F42EA95E7569055A0F39B2820/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/17141923381754875692/E61646B68508B353A7A9CB0FB48ED46E5DCC99B1/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "trayGrid:21:12:MAP",
+  "GUID": "mm0000",
+  "Grid": false,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState_path": "MiddleMap.mm0000.luascriptstate",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Middle: Map",
+  "Snap": false,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable",
+    "TrayGrid",
+    "TrayGrid_Middle"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": 0,
+    "posY": 0.94,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

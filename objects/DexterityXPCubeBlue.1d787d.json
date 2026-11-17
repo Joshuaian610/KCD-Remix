@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/17334836350117434928/30E54C84395AE40071FD1276436C900D665B238C/",
+    "MaterialIndex": 1,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/14530275599664055867/3E6A917381429C7E7A9FAAEB664DD8DD20B0A3EB/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "1d787d",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "{\"gen\":0,\"index\":2}",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Dexterity XP Cube (Blue)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Dexterity_Blue"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -49.224,
+    "posY": 1.503,
+    "posZ": -51.617,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

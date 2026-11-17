@@ -1,0 +1,86 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/14606213213735287739/CE2D28B45646B16F40F332E2E2862FB2E3D02363/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10655147000758921806/C1D9E67624E024ED25A1A58F66B64FCAC8157B0D/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "CustomUIAssets": [
+    {
+      "Name": "rs_grain_field_1090x118_v2",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/17303415289061059757/DABCDE8B200432CCC947C04D2BADF376E78977B8/"
+    },
+    {
+      "Name": "rs_grain_input_744x86_v2",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/9396620337151224850/976B4BA9A25B5127C944B09DC93B18CA05170D51/"
+    },
+    {
+      "Name": "rs_grain_results_1180x800_v2",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/13742150305857972743/6C3655726F1EB65B747D653E2C8F1550A512E4F8/"
+    },
+    {
+      "Name": "rs_grain_hit_1156x132_v2",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/16818758891390274682/B86741DA237EAAD1406CC05673DB14D9BF5D7D4A/"
+    },
+    {
+      "Name": "rs_grain_btn_180x80_v2",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/10248087276745706741/3295F70786161C2EC65CDCA2093DF848749F10C6/"
+    }
+  ],
+  "Description": "Click to search the rulebook.",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "c6c721",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "{\"per\":5,\"sort\":1}",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Rulebook Search (Brown)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "RuleSearch",
+    "RuleSearch_Brown"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 37.18,
+    "posY": 1.696,
+    "posZ": -39.32,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.68,
+    "scaleY": 0.93,
+    "scaleZ": 0.68
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

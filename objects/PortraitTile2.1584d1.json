@@ -1,0 +1,65 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15202920603288916820/D03440F6520E20F493422493894E8984BB7DC85B/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/15613997786145417116/A8ED2F9605C0B5CB6EBFFA3FF33A9CB27E8647BB/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "CustomUIAssets": [
+    {
+      "Name": "ptBtn",
+      "Type": 0,
+      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15824942332891035712/BA1462123F8BD4193BA2A4555CAF082CF16C3BB2/"
+    }
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "1584d1",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Portrait Tile 2",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "PortraitTile"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -97.983,
+    "posY": 1.016,
+    "posZ": -3.952,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.61,
+    "scaleY": 1,
+    "scaleZ": 2.61
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

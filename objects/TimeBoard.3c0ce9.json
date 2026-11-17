@@ -1,0 +1,95 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 1.387,
+        "y": 0.035,
+        "z": -0.69
+      }
+    },
+    {
+      "Position": {
+        "x": 0.812,
+        "y": 0.035,
+        "z": -1.331
+      }
+    },
+    {
+      "Position": {
+        "x": -0.004,
+        "y": 0.035,
+        "z": -1.557
+      }
+    },
+    {
+      "Position": {
+        "x": -0.84,
+        "y": 0.035,
+        "z": -1.322
+      }
+    },
+    {
+      "Position": {
+        "x": -1.414,
+        "y": 0.035,
+        "z": -0.689
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11345665397187710341/9EFED167928A1222C3932281F9FD451397C9B77D/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/11389240035991239497/F943611AD70CFB47687A1C2B83D2A7D14415773C/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "3c0ce9",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Time Board",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "TimeBoard"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -72.8,
+    "posY": 1.256,
+    "posZ": -1.4,
+    "rotX": 0,
+    "rotY": 90,
+    "rotZ": 0,
+    "scaleX": 2.5,
+    "scaleY": 2,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

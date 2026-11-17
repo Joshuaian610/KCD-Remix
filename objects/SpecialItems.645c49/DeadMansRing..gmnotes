@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"dead-mans-ring","name":"Dead Man's Ring","deck":"special","equip":"","types":[],"draw":{},"succ":{},"slots":[],"effects":[{"mode":"add","add":"","active":false,"conds":["steal"],"text":"When stealing, do not gain [bad card]."}],"lock":2,"buy":11,"sell":7,"dots":{"slots":[],"effects":[[0.7741,0.7919]],"succ":null,"eboxes":[[0.233,0.7789,0.7841,0.935]]}}

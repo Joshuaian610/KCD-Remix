@@ -1,0 +1,73 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "MoneyforOldRopeToken01.c10bf4",
+    "MoneyforOldRopeI.5e208b",
+    "MoneyforOldRopeSentenceCards.25d9ce",
+    "ExecutionersSword.63c14a",
+    "MoneyforOldRopeHermannsQuests.4d190b"
+  ],
+  "ContainedObjects_path": "MoneyforOldRope.6b5410",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/16134777966910019592/4A6CBA5C1288DF41F9C4CE5B743E4F1187DE7B4D/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Part of the 'Money for Old Rope' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "6b5410",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-36.54,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Money for Old Rope",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Rope"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -107.928,
+    "posY": 0.981,
+    "posZ": 17.592,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.67,
+    "scaleY": 0.67,
+    "scaleZ": 0.67
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

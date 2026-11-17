@@ -1,0 +1,85 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "MakingaName.911c07",
+    "SafeRoads.0a3ab1",
+    "WhereYouHangYourHat.f44368",
+    "OldGrudge.4aa6c9",
+    "WhateverIsNeeded.b8d024",
+    "StillDeciding.15d1ca",
+    "WorthyAlly.d135b3",
+    "TheBetterThief.0b8a26",
+    "AlchemistsApprentice.1322f3",
+    "AHelpingHand.76f557"
+  ],
+  "ContainedObjects_path": "StartingQuests.7023f9",
+  "CustomDeck": {
+    "7009": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15526174577995092129/9894B7DB135374AE87A380BDFE45FBB66B9219C7/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15227519760612806126/962E4AB4F4B983C405F824530CCB37234682EF54/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    700901,
+    700908,
+    700903,
+    700907,
+    700904,
+    700900,
+    700906,
+    700902,
+    700905,
+    700909
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "7023f9",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Starting Quests",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Set16Card"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -82.451,
+    "posY": 1.255,
+    "posZ": 20.962,
+    "rotX": 0,
+    "rotY": 90,
+    "rotZ": 0,
+    "scaleX": 2.3,
+    "scaleY": 1,
+    "scaleZ": 2.3
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

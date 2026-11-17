@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"work-boots","name":"Work Boots","deck":"clothing","equip":"legs","types":["boots"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[]},{"kind":"square","attrs":[],"bottom":true}],"effects":[],"lock":1,"buy":6,"sell":4,"dots":{"slots":[null,null],"effects":[],"succ":null,"sboxes":[null,null]}}

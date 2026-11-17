@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"light-leather-greaves","name":"Light Leather Greaves","deck":"armor","equip":"legs","types":["chausses"],"draw":{},"succ":{},"slots":[{"kind":"square","attrs":[{"mode":"add","add":"mov","n":1,"active":false}]}],"effects":[],"lock":2,"buy":9,"sell":6,"dots":{"slots":[[0.3816,0.5489]],"effects":[],"succ":null,"sboxes":[null]}}

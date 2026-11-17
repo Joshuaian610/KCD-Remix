@@ -1,0 +1,79 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "Building01.8fcff1",
+    "Building07.23c676",
+    "Building02.5ff80a",
+    "Building04.2729a5",
+    "FromtheAshesI.280e08",
+    "Pribyslavitz.5c7738",
+    "FromtheAshesII.5b5da0",
+    "Building03.339dd3",
+    "Building06.c57708",
+    "Building05.efd162",
+    "Building08.d172b0"
+  ],
+  "ContainedObjects_path": "FromtheAshes.a142d2",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/18149866085326298342/7DCB75E7BB75D37E1C3B1464681D6AE8C495828F/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Part of the 'From The Ashes' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "a142d2",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-54.88,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "From the Ashes",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Ashes"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -105.476,
+    "posY": 0.981,
+    "posZ": 12.997,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.67,
+    "scaleY": 0.67,
+    "scaleZ": 0.67
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

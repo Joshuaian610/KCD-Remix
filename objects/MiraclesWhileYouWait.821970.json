@@ -1,0 +1,73 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "MiraclesWhileYouWaitI.da8e32",
+    "MiraclesWhileYouWaitII.ea776b",
+    "MiraclesWhileYouWaitHauntingTasks.b323ee",
+    "MiraclesWhileYouWaitCharlatansQuests.82f261",
+    "MiraclesWhileYouWaitToken01.98d19e"
+  ],
+  "ContainedObjects_path": "MiraclesWhileYouWait.821970",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12454375627591458206/CE2F97ED3BA636A82598A3E81568684322D58C3C/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Part of the 'Miracles While You Wait' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "821970",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-49.64,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Miracles While You Wait",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Miracles"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -103.024,
+    "posY": 0.981,
+    "posZ": 22.187,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.67,
+    "scaleY": 0.67,
+    "scaleZ": 0.67
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

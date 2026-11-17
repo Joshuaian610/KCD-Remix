@@ -1,0 +1,76 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "SiegeofTalmbergToken01.10e945",
+    "SiegeofTalmbergI.c9bcde",
+    "KonradKyeser.411cc9",
+    "SiegeofTalmbergIII.f36940",
+    "SiegeofTalmbergII.3f6e2e",
+    "KonradKyeser.8f2579",
+    "KonradKyeser.666f48",
+    "SiegeofTalmbergTile01.429865"
+  ],
+  "ContainedObjects_path": "SiegeofTalmberg.4bccd6",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/17713317192608986267/08181DF758D76A444C90DE01974933786913E646/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Part of the 'Siege of Talmberg' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "4bccd6",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-52.26,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Siege of Talmberg",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Siege"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -107.928,
+    "posY": 0.981,
+    "posZ": 12.997,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.67,
+    "scaleY": 0.67,
+    "scaleZ": 0.67
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

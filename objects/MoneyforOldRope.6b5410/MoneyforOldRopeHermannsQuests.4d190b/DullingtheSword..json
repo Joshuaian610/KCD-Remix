@@ -1,0 +1,55 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 701109,
+  "CustomDeck": {
+    "7011": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14876294477113903445/46DF6FE4F09F592B948FF42D24CCC404E50E214C/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11813438962355826624/0C6C0C27675ED6F220C26800FB2BD0203244CD08/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Part of the 'Money for Old Rope' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "",
+  "Grid": true,
+  "GridProjection": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Dulling the Sword",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Rope"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 71.057,
+    "posY": 2.3,
+    "posZ": 150.541,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.43,
+    "scaleY": 1,
+    "scaleZ": 2.43
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

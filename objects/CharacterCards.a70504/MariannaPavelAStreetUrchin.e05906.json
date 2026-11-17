@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 701008,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "7010": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13025462645055824924/C140112B9CA089DC1E4E431A15ACA1358B718E23/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18269040912599849720/3D652A2B2D37356E8456681420F6649291744A70/",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "e05906",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Marianna / Pavel – A Street Urchin",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Set13Card"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -80.181,
+    "posY": 1.321,
+    "posZ": -1.783,
+    "rotX": 0,
+    "rotY": 90,
+    "rotZ": 0,
+    "scaleX": 2.43,
+    "scaleY": 1,
+    "scaleZ": 2.43
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

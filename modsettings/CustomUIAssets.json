@@ -1,0 +1,702 @@
+[
+  {
+    "Name": "rs_grain_back_660x58_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18059221363998884840/D25845ACFD4B92B0F1CB02189D1D4E2315770C9E/"
+  },
+  {
+    "Name": "intro_mote",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9679996836245066913/162DD3986D70BE2CA348D995423E4CE83359E8E9/"
+  },
+  {
+    "Name": "intro_logo_setup",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13078733035150516069/30BC9C8B50F876F3D7208CB8F0FA0DCC8FCC33AA/"
+  },
+  {
+    "Name": "intro_glow3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11242533177192668333/984CD4E210C325451862948774B397C027BE9CE5/"
+  },
+  {
+    "Name": "intro_bg4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13728121845858547454/0BFFE8DC88D74F14D9537892B30DE6DA1372275F/"
+  },
+  {
+    "Name": "intro_clouds4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17348625775493070154/8FF326A77F636411DADD69EB5761041A4801C5D8/"
+  },
+  {
+    "Name": "intro_bird4_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9389194317463813483/6B01AB0506F461F65D8EA620AA2C438C55CAE9E6/"
+  },
+  {
+    "Name": "intro_bird4_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14172443192907882659/C7DB38E08A60C72653127ADDFBBC402E41E7F715/"
+  },
+  {
+    "Name": "intro_bird4_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11169308763187165514/836FFF2A7E9C879566C67C07B0884EA34BA1E08D/"
+  },
+  {
+    "Name": "intro_egret4_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13809512113914437268/0FB38DEB948BCC22C0D86D9BB0036A90C089782A/"
+  },
+  {
+    "Name": "intro_egret4_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12479709480000643365/6EBDFD9F38450FBDFAF0497AB3BCE4CF2225DCC5/"
+  },
+  {
+    "Name": "intro_egret4_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13898416765214889230/4E139CC213A9273087674465A7483192092F32DF/"
+  },
+  {
+    "Name": "intro_swans4_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13684273081468752039/FE39C87FB892228084950A9C00657174B1A3FD04/"
+  },
+  {
+    "Name": "intro_swans4_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18438218330472103522/917D9CC5C8BAAF3834C83864225B073946FED28C/"
+  },
+  {
+    "Name": "intro_swans4_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13879794029163574546/7501CF90AF35865BC8631C6020C84D9103D74CDB/"
+  },
+  {
+    "Name": "intro_cart4_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14793944963602690658/C5DCD3676A7A51D34D3F6EEB4836A8429FC93DD6/"
+  },
+  {
+    "Name": "intro_cart4_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11970994403378801079/1DE81F7C3E16795CDACB8E27EE9F55E7056CCAB8/"
+  },
+  {
+    "Name": "intro_grass5_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16837187348111659347/8805A7614FA0598BB1859C0437B2824BA64D8FD4/"
+  },
+  {
+    "Name": "intro_grass5_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10325889470815903273/CDD5D563B852A096BD2D3632265FFCC923CC0AE7/"
+  },
+  {
+    "Name": "intro_grass5_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17488475505990381908/92284E665A5F5E6FEBDC0923F22D070F87CC26DF/"
+  },
+  {
+    "Name": "intro_grass5_4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9762011476617909775/AFCF7F9BABDD5D190C274477DEF29D3318E32706/"
+  },
+  {
+    "Name": "intro_grass5_5",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14835586674223468470/74922E8236D6AFC10CD41ABEEEC9A5B6C176D3F0/"
+  },
+  {
+    "Name": "intro_grass5_6",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11962718907406789393/F0592B1541D4BCDC6B4566E294662AF790A00678/"
+  },
+  {
+    "Name": "intro_grass5_7",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12104625308798572847/0CE267B9388DD2F67730BB4274201588F172387B/"
+  },
+  {
+    "Name": "intro_grass5_8",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13168415231435423012/7449CAB10A2AD58F1D2C4CB07D6742AA86B499AE/"
+  },
+  {
+    "Name": "intro_grass5_9",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11762945417966262659/98C4B3A4B621CDF7E1DE89C9363DA9DC385846C3/"
+  },
+  {
+    "Name": "intro_grass5_10",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14781718617706407557/CE2F33DDDD7BD1D1D49279848C510FFB029C6419/"
+  },
+  {
+    "Name": "intro_grass5_11",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17259010187035576959/985CA4CE3F7B8C7F83CDEC81979F722363B9CA4E/"
+  },
+  {
+    "Name": "intro_grass5_12",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12382041085716421450/28CDFC29AEDD1432ED5F890230530F0166413699/"
+  },
+  {
+    "Name": "intro_flare_hex",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12763969019559356322/18AA7D2B5960B25998F5C3391BF3ED8CE412CF6F/"
+  },
+  {
+    "Name": "intro_flare_ring",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16577513548967603709/159D081EB01B47CE4936978E9E5C3C0CBCE04BDE/"
+  },
+  {
+    "Name": "intro_flare_disc",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15621259450092410255/588897C1E4A957EFC2F2B776D0D8B9361BF85CE8/"
+  },
+  {
+    "Name": "setup_3D6C2AA142C194B062DD14E397DD799D811C9A4C",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11499015382243738638/3D6C2AA142C194B062DD14E397DD799D811C9A4C/"
+  },
+  {
+    "Name": "setup_7091F990B3F2692550BE5AB9EDD299C5D1DADF69",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12815630682585004058/7091F990B3F2692550BE5AB9EDD299C5D1DADF69/"
+  },
+  {
+    "Name": "setup_prog_wheel_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14322699936839199709/6736B4290256B97C82A31D52DB81CEF9547F9B6E/"
+  },
+  {
+    "Name": "setup_prog_done_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17811271310119983996/83B81985CB239F418EE8D2A43B53BC0BE4E72FDE/"
+  },
+  {
+    "Name": "setup_prog_wait_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17056723545937222983/B42F8A18CB0862FC45C888DBE88B604D57408E20/"
+  },
+  {
+    "Name": "setup_prog_fail_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17460450248022580100/DB5BCC540F079395D8B880259F652B4BBC0011BC/"
+  },
+  {
+    "Name": "setup_prog_backdrop_1260x640_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9805028655894800548/73A22688B80243DD9E7965B009EDC13B4482C774/"
+  },
+  {
+    "Name": "setup_ov_fill_1556x400_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9375310766610571574/CCD88CFC8609D400B44B43A4100047B5AFF2808C/"
+  },
+  {
+    "Name": "setup_ov_fill_700x400_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18189631820215599727/457D96FC93F48DEA606D1360009BD365F7B668B0/"
+  },
+  {
+    "Name": "setup_ov_frame_724x424_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10467385409263854956/99957FB2773046A65AF619E223945B9F5067C67C/"
+  },
+  {
+    "Name": "setup_ov_fill_729x106_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18307784093727598656/4635B5A29BF3BDC04C314E3DAEDB0E2E4FA558CE/"
+  },
+  {
+    "Name": "setup_ov_frame_745x122_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10727062693734303702/E424C980823895C62098942D96CA6DC15A942647/"
+  },
+  {
+    "Name": "setup_ov_dia_25_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16010550197177641334/5A1F994520E298E52C67915A94D56F8F77272676/"
+  },
+  {
+    "Name": "setup_ov_fill_620x106_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16127958906597482710/AAE597EA4FEE111261F3A1233F106CF4AA49BE71/"
+  },
+  {
+    "Name": "setup_ov_frame_636x122_v2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17853969352426353245/E9FF05D9B74B4E634F43FF457791BE095D569DF6/"
+  },
+  {
+    "Name": "setup_pt_on190x46c12_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11122095042202759668/31996159ABF9CAF5959E1B6BA6CCF9FF956D89B7/"
+  },
+  {
+    "Name": "setup_pt_on108x34c8_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13101210152448872410/42FB140ED3281A63812751D60218897D1A6EF357/"
+  },
+  {
+    "Name": "setup_pt_off108x34c8_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15824942332891035712/BA1462123F8BD4193BA2A4555CAF082CF16C3BB2/"
+  },
+  {
+    "Name": "setup_pt_on180x38c10_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10305416896164557922/76D3185CCD9B276730027B8036A9DB69143D382B/"
+  },
+  {
+    "Name": "setup_pt_off180x38c10_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15041658959851587497/C9357FFE709CFDEA3519AE10B6FBCED9B2BB6945/"
+  },
+  {
+    "Name": "setup_pt_on38x38c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18244597196621046130/E6A1DB712C893416A9851AF333520D86CFB1F294/"
+  },
+  {
+    "Name": "setup_pt_off38x38c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12178286424578337590/AB29A101FED0875A0F3C94B4F8837EFFE50BAC70/"
+  },
+  {
+    "Name": "setup_pt_red38x38c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11602252951241035801/6D16375F9EB6F8C596C9F4A2808861E40AD53563/"
+  },
+  {
+    "Name": "setup_pt_wip260x46c12_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10607330324827514653/7F0048638397DF43347C936841D410863EB0405D/"
+  },
+  {
+    "Name": "setup_story_Talmberg_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16847686903867385671/8A114E566AC07183BCB8FCFF7910842A59007DFE/"
+  },
+  {
+    "Name": "setup_story_Talmberg_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13620917807502234936/08019ED58E5106A59648A36C77C76E0623224915/"
+  },
+  {
+    "Name": "setup_story_Talmberg_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17796551586429141105/CD7B03D9B3652D18D31111708A2B9C91C6E1ED06/"
+  },
+  {
+    "Name": "setup_story_Talmberg_4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9674250487712680093/3393364C13817F68D7AB80DAB80D120E38129C5E/"
+  },
+  {
+    "Name": "setup_shield_Talmberg",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10124076097580024330/1BC73BAC0B3A480338420466075ECEBBF1147C1E/"
+  },
+  {
+    "Name": "setup_trim_Talmberg",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14658464721302626559/B7E488315A09D5C8441C90418E4E418D2159014E/"
+  },
+  {
+    "Name": "setup_band_Talmberg",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11239061134087561499/6983191412AF2E50B415CD8CB5E83BB9BD9F1216/"
+  },
+  {
+    "Name": "setup_story_Sasau_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16855263618703799593/9BC41176D0E428545F7E8785F0FA9BEE769C9253/"
+  },
+  {
+    "Name": "setup_story_Sasau_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14617906586355258361/536EAC49D25045FD607305E4980D5DB9EEA642FC/"
+  },
+  {
+    "Name": "setup_story_Sasau_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10021942641894667251/77AB627DD13956D2D122D52B3DE451F8EE7FE788/"
+  },
+  {
+    "Name": "setup_story_Sasau_4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12766172465329899344/3A6BD0E3135C52C6D453E3A37D8205EA3F7089EC/"
+  },
+  {
+    "Name": "setup_shield_Sasau",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14477145186894328060/53F909EBED25160F7C19407476A8D0FA6B231CA1/"
+  },
+  {
+    "Name": "setup_trim_Sasau",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9853550571587606391/79A6ACF6FD7C6B1BFC47A4179FDC8FEE2655D90C/"
+  },
+  {
+    "Name": "setup_band_Sasau",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10707606179231971516/6B0FD6D8A3AE08E15ABCB9368629376368D83832/"
+  },
+  {
+    "Name": "setup_story_Rattay_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11953685236176410567/1FDFF36C02F4BD54A58DD32FDFD4F853AA20D3CE/"
+  },
+  {
+    "Name": "setup_story_Rattay_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15966540754141725051/FCA36532544B6DAD6E20E8F63EF472BB5CDC8306/"
+  },
+  {
+    "Name": "setup_story_Rattay_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13505911661977605329/2118077C08649CB3D84006D6A8D19DE4185FD93F/"
+  },
+  {
+    "Name": "setup_story_Rattay_4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14936596378929331924/AF3D31C7A1C7FE8BAADBBB6EFE715FFB8D22531E/"
+  },
+  {
+    "Name": "setup_shield_Rattay",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10245323702031297249/99B1467E5A22E6654AE159598C901EBA2E208AC7/"
+  },
+  {
+    "Name": "setup_trim_Rattay",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11318176047889638263/BFE6900E1EC9A62BBDED5314D8E51EF6ECBFB11D/"
+  },
+  {
+    "Name": "setup_band_Rattay",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12617718332867135084/11C7021F7AD423A3CDB2D59FC1491DF7F624933C/"
+  },
+  {
+    "Name": "setup_lo_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14458255236165408038/6EA10713A48CA3C394EF2A9AD748CE65D8F01334/"
+  },
+  {
+    "Name": "setup_lo_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17917297166856258059/7319DCE397D0E1B893DD628EEFA2EBC6721F5906/"
+  },
+  {
+    "Name": "setup_lo_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13394013452612798183/6CEB298445F8C118672F961F8E08342F2B802192/"
+  },
+  {
+    "Name": "setup_lo_4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10708252695482100753/1B677D743C1BE7D4EAF63E496F708CCC9CD94900/"
+  },
+  {
+    "Name": "setup_lo_5",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13667570971597761026/DB6EAF74B365674FC2E03366941A764D6585721E/"
+  },
+  {
+    "Name": "setup_lo_6",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9246446333629290031/D972E2EC7887444D366987A60FCFCA570E2C001B/"
+  },
+  {
+    "Name": "setup_pt_on293x28c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15152971027533752785/AD8FBBD3670977466F4617C70BFE113C5D3B9CA6/"
+  },
+  {
+    "Name": "setup_pt_off293x28c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18210369454271816215/8F8B92E9DCA38F8029360852EDFE8348D325D63D/"
+  },
+  {
+    "Name": "setup_info_cuman",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15687440811112225700/C344FA5DC336BB419F94042A7247CD1850B92FB1/"
+  },
+  {
+    "Name": "setup_dia_info22_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11979877054268128164/715595F9ABD09644B52C34BB1321101BC114A2A3/"
+  },
+  {
+    "Name": "setup_info_story",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11460157338299541083/FFFA4AE7B7A52C18B4600A3B8A3EED49DBDE635E/"
+  },
+  {
+    "Name": "setup_dia_info26_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11601234910342329665/8C1B1C38965DCBBA86C673DBDF666A74C5D91C0C/"
+  },
+  {
+    "Name": "setup_pt_on278x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18288007508306813687/5B8084F842F2DD9C1E49EDB12F6395E96389040A/"
+  },
+  {
+    "Name": "setup_pt_off278x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13075663174054288535/A0FA7EA3B21EC1A87C7037FF417AAC4555FE1CF8/"
+  },
+  {
+    "Name": "setup_pt_on251x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/13332650705605187549/5A7ECCEB05F9E4ABEA1B6F8CA27B3B2D093D1540/"
+  },
+  {
+    "Name": "setup_pt_off251x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17607472357954114190/817F629A4AC19F564E4A68C8F589136056EAF5A4/"
+  },
+  {
+    "Name": "setup_dia_info24_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12123276716933757900/6D50924613E0AFBD44E561769447E9CA2F7F37C6/"
+  },
+  {
+    "Name": "setup_pt_on24x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10160211590822084925/DCE52741A7A0BB472C5FD1DBA888962F771F5C85/"
+  },
+  {
+    "Name": "setup_pt_off24x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11099560176123479755/F9868E572EB86220EE0CFD4E280465F851BEEBAC/"
+  },
+  {
+    "Name": "setup_pt_on195x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18301484269268652536/E68078E42B8E51AB95AEC52656484C3579BEC7B6/"
+  },
+  {
+    "Name": "setup_pt_off195x34c0_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10536192288213607229/195568F8DB936C4BB3A6292765049EF1B9D1AC48/"
+  },
+  {
+    "Name": "setup_char_1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12680021075213817184/BFD09F18DB60D21BF8F3DF642B25082F645980C6/"
+  },
+  {
+    "Name": "setup_char_2",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9726086778900982692/A7AF4EA8451197627A66E42B8185B8C53357E121/"
+  },
+  {
+    "Name": "setup_char_3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15092225773319535053/E89C61DC884AD352D75F707B9F53D6B140BB716A/"
+  },
+  {
+    "Name": "setup_char_4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16752141369667572672/9D01A88F08BD0A8EF17B74405C912856EAE0B8C5/"
+  },
+  {
+    "Name": "setup_char_5",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10660259321549897078/7926773F0C9D5DC9D1383E6F86A78DB4D87832B2/"
+  },
+  {
+    "Name": "setup_char_6",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12013913785816853843/7D9158D0E6630B975E5C02A222827CC9591BAF8E/"
+  },
+  {
+    "Name": "setup_char_7",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16626058703136828387/D7C56097B19688056486ECFC1497A73506A1E76A/"
+  },
+  {
+    "Name": "setup_char_8",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16427510167225668423/F8E5830D7698B075F1EB2EEBC23F87221401113B/"
+  },
+  {
+    "Name": "setup_char_9",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14825340356247469493/FE64522F78F5612FEA8666CAC5754BFA8026EBC3/"
+  },
+  {
+    "Name": "setup_char_10",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17119209670686527456/7CC2CDED91CA78D3A873BABDC6D10141BA3CC120/"
+  },
+  {
+    "Name": "setup_char_11",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12951384700964704772/4610001FBC7B6A157CFD896DD83732AD82318C1B/"
+  },
+  {
+    "Name": "setup_char_12",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16222966013251588308/BA3FB6377495A36D52B40CFDF5161298879695E6/"
+  },
+  {
+    "Name": "setup_char_13",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14276310604653897076/5146EFD8F649313DB550CE4443E126CFC5BBF155/"
+  },
+  {
+    "Name": "setup_char_14",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15384174306614517626/77F79930B20A1962FA174B8F31F3C234B731B6A1/"
+  },
+  {
+    "Name": "setup_pt_on160x36c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9451109903667650259/51D7A3A0F9DDE95996897CAB141147DCF0D499E9/"
+  },
+  {
+    "Name": "setup_pt_off160x36c9_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16825648666508128040/CBBC39F387A6F0BB5442AD657BE70BF4DD6F5623/"
+  },
+  {
+    "Name": "setup_pt_charpick1181x524c14_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14063066797920587570/0D3B60B23A375B0210C9A545F606453097270809/"
+  },
+  {
+    "Name": "setup_pt_hostframe440x119c10_v3",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17307193829928844348/7E7B92240AA17A51162FC8FBBAC512C1523D3E93/"
+  },
+  {
+    "Name": "setup_flag_en_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10685334636019301106/05565981AB5C8B9FD0781D95D0458943B95795A1/"
+  },
+  {
+    "Name": "setup_flag_de_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15089543613319004778/AE26962F3126D4BD9C3FEDDEC4BD8E0997B6EC6C/"
+  },
+  {
+    "Name": "setup_flag_es_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16295087408590257926/FCCAA6FA680F3907A14414385464DBFA215056A5/"
+  },
+  {
+    "Name": "setup_flag_ru_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/18445947043376102938/40A5816123F8755049FF3F753729AC7784DF4239/"
+  },
+  {
+    "Name": "setup_flag_fr_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/9689553896817364226/75A8D5DFE05DD2135BF4F39110F1B26BDC3469DC/"
+  },
+  {
+    "Name": "setup_flag_zh_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10905935769411370613/19F26D077637C0EAC58AD69A50330561DC657FD0/"
+  },
+  {
+    "Name": "kcd_log_p1_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12396885885697431035/BEB6DAAD5AA71E91FACC2D25961E9F4A28B67B25/"
+  },
+  {
+    "Name": "kcd_log_p2_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14432554732359484070/D5BBF90D78FA7B48DE718DA8D441F8D9FA1C035F/"
+  },
+  {
+    "Name": "kcd_log_p3_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15750165714021773191/CD5D23EB08EC178BF3C1350DDB1D851DF42B3A6C/"
+  },
+  {
+    "Name": "kcd_log_p4_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10022858745788207436/DC49C4BFC7B5873A1875729D7837CC25B9F3B39F/"
+  },
+  {
+    "Name": "kcd_log_p5_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16561307040848622114/AC83CE17AFEBD5BCDE02149D524A885B72FBA22A/"
+  },
+  {
+    "Name": "kcd_log_p6_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11494149789524755156/793F9395083381B9677485536733211BAC308CCA/"
+  },
+  {
+    "Name": "kcd_news_p1_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10368464389493214184/4A1F0C4C30AE1D4A63D94215F1C7F2D6EFD2F1CA/"
+  },
+  {
+    "Name": "kcd_shot_scripted_action_selection_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16400897593096766624/C4B66D4EC33DC1029DF33B39294064E076F521F0/"
+  },
+  {
+    "Name": "kcd_shot_fully_scripted_equipment_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14719458813047523707/C0472C51F0FDD34CD74ABE1BA4AF6DB89839A800/"
+  },
+  {
+    "Name": "kcd_shot_success_and_stat_module_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/17492905974819508525/A7D0B621AEA2E3942E111FFA72377DBEA69B5F2D/"
+  },
+  {
+    "Name": "kcd_shot_combat_battle_module_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/12241476508634166785/608392112E146736DC96DD16EDA16A05D9568C4F/"
+  },
+  {
+    "Name": "kcd_shot_fully_scripted_cards_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14113066315042623322/6EBFD78B9D34DB3A7B4AE5D6DEB8938804939057/"
+  },
+  {
+    "Name": "kcd_thumb_scripted_action_selection_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11242370123484373020/1E5E36C8C16468A6CBD0718B0AF459AADF9A502B/"
+  },
+  {
+    "Name": "kcd_thumb_fully_scripted_equipment_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/10281823434875911783/93462BADDCA837D92E9D7E27E361EB72784ED381/"
+  },
+  {
+    "Name": "kcd_thumb_success_and_stat_module_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/11383515277287302854/7499926C7AB1A358180D3B14A5FF4402ADD2A73A/"
+  },
+  {
+    "Name": "kcd_thumb_combat_battle_module_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/16584404395792814262/C75A3849C38A270C28A8BD0116856738F127E14F/"
+  },
+  {
+    "Name": "kcd_thumb_fully_scripted_cards_v4",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/14063538595718372240/E13034C3B857889953464234BAFE745B8B9A3279/"
+  },
+  {
+    "Name": "setup_line_fix_v1",
+    "Type": 0,
+    "URL": "https://steamusercontent-a.akamaihd.net/ugc/15789123642931897333/64E32BDD9A6EFD108C70A5B9F7840A8E3E97E9C9/"
+  }
+]

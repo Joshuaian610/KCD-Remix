@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 700401,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "7004": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/15255869776115153731/CF3D9BCF82882781713160E5B51355EDA65E726D/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18160954518482051694/8D77930CF19A4CB394EE52C25FC302C333694B6C/",
+      "NumHeight": 4,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "Part of the 'From The Ashes' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "5c7738",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Pribyslavitz",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Ashes"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 128,
+    "posY": 2.024,
+    "posZ": 38,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.1,
+    "scaleY": 1,
+    "scaleZ": 1.1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

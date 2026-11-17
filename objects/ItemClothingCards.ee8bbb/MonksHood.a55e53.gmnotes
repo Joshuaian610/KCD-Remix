@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"monks-hood","name":"Monk's Hood","deck":"clothing","equip":"head","types":["hat"],"draw":{},"succ":{},"slots":[{"kind":"round","attrs":[]},{"kind":"round","attrs":[],"bottom":true}],"effects":[],"lock":3,"buy":13,"sell":8,"dots":{"slots":[null,null],"effects":[],"succ":null,"sboxes":[null,null]}}

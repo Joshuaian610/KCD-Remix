@@ -1,0 +1,15 @@
+{
+  "DisableInteractions": false,
+  "Enable": false,
+  "PassTurns": true,
+  "Reverse": false,
+  "SkipEmpty": false,
+  "TurnColor": "",
+  "TurnOrder": [
+    "Green",
+    "Blue",
+    "Brown",
+    "Orange"
+  ],
+  "Type": 1
+}

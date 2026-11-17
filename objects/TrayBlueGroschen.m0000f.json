@@ -1,0 +1,333 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ChildObjects": [
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomMesh": {
+        "CastShadows": true,
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15430278277432559228/B14C1539C98868FAD456D309FD4D959307630B73/",
+        "Convex": true,
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15008415437292304584/621F3690F83C359A99B557A8AC4708283214E8CA/",
+        "MaterialIndex": 3,
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/16717650843312811984/C09511CC60842688945342C6D7446A20144B12F5/",
+        "NormalURL": "",
+        "TypeIndex": 0
+      },
+      "Description": "rail|N4:rail_unit_ss",
+      "DragSelectable": true,
+      "GMNotes": "rail|N4:rail_unit_ss",
+      "GUID": "d29cbb",
+      "Grid": false,
+      "GridProjection": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Memo": "rail|N4:rail_unit_ss",
+      "Name": "Custom_Model",
+      "Nickname": "rail|N4:rail_unit_ss",
+      "Snap": false,
+      "Sticky": true,
+      "Tooltip": false,
+      "Transform": {
+        "posX": 5.6,
+        "posY": 0,
+        "posZ": 2.8,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    },
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomMesh": {
+        "CastShadows": true,
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15430278277432559228/B14C1539C98868FAD456D309FD4D959307630B73/",
+        "Convex": true,
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15008415437292304584/621F3690F83C359A99B557A8AC4708283214E8CA/",
+        "MaterialIndex": 3,
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/16717650843312811984/C09511CC60842688945342C6D7446A20144B12F5/",
+        "NormalURL": "",
+        "TypeIndex": 0
+      },
+      "Description": "rail|N3:rail_unit_ss",
+      "DragSelectable": true,
+      "GMNotes": "rail|N3:rail_unit_ss",
+      "GUID": "82ae36",
+      "Grid": false,
+      "GridProjection": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Memo": "rail|N3:rail_unit_ss",
+      "Name": "Custom_Model",
+      "Nickname": "rail|N3:rail_unit_ss",
+      "Snap": false,
+      "Sticky": true,
+      "Tooltip": false,
+      "Transform": {
+        "posX": 2.8,
+        "posY": 0,
+        "posZ": 2.8,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    },
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomMesh": {
+        "CastShadows": true,
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15430278277432559228/B14C1539C98868FAD456D309FD4D959307630B73/",
+        "Convex": true,
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15008415437292304584/621F3690F83C359A99B557A8AC4708283214E8CA/",
+        "MaterialIndex": 3,
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/16717650843312811984/C09511CC60842688945342C6D7446A20144B12F5/",
+        "NormalURL": "",
+        "TypeIndex": 0
+      },
+      "Description": "rail|N0:rail_unit_ss",
+      "DragSelectable": true,
+      "GMNotes": "rail|N0:rail_unit_ss",
+      "GUID": "33953a",
+      "Grid": false,
+      "GridProjection": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Memo": "rail|N0:rail_unit_ss",
+      "Name": "Custom_Model",
+      "Nickname": "rail|N0:rail_unit_ss",
+      "Snap": false,
+      "Sticky": true,
+      "Tooltip": false,
+      "Transform": {
+        "posX": -5.6,
+        "posY": 0,
+        "posZ": 2.8,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    },
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomMesh": {
+        "CastShadows": true,
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15430278277432559228/B14C1539C98868FAD456D309FD4D959307630B73/",
+        "Convex": true,
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15008415437292304584/621F3690F83C359A99B557A8AC4708283214E8CA/",
+        "MaterialIndex": 3,
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/16717650843312811984/C09511CC60842688945342C6D7446A20144B12F5/",
+        "NormalURL": "",
+        "TypeIndex": 0
+      },
+      "Description": "rail|N1:rail_unit_ss",
+      "DragSelectable": true,
+      "GMNotes": "rail|N1:rail_unit_ss",
+      "GUID": "bb8656",
+      "Grid": false,
+      "GridProjection": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Memo": "rail|N1:rail_unit_ss",
+      "Name": "Custom_Model",
+      "Nickname": "rail|N1:rail_unit_ss",
+      "Snap": false,
+      "Sticky": true,
+      "Tooltip": false,
+      "Transform": {
+        "posX": -2.8,
+        "posY": 0,
+        "posZ": 2.8,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    },
+    {
+      "AltLookAngle": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Autoraise": true,
+      "ColorDiffuse": {
+        "b": 1,
+        "g": 1,
+        "r": 1
+      },
+      "CustomMesh": {
+        "CastShadows": true,
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15430278277432559228/B14C1539C98868FAD456D309FD4D959307630B73/",
+        "Convex": true,
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15008415437292304584/621F3690F83C359A99B557A8AC4708283214E8CA/",
+        "MaterialIndex": 3,
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/16717650843312811984/C09511CC60842688945342C6D7446A20144B12F5/",
+        "NormalURL": "",
+        "TypeIndex": 0
+      },
+      "Description": "rail|N2:rail_unit_ss",
+      "DragSelectable": true,
+      "GMNotes": "rail|N2:rail_unit_ss",
+      "GUID": "88c7cb",
+      "Grid": false,
+      "GridProjection": false,
+      "IgnoreFoW": false,
+      "LayoutGroupSortIndex": 0,
+      "Locked": true,
+      "LuaScript": "",
+      "LuaScriptState": "",
+      "MeasureMovement": false,
+      "Memo": "rail|N2:rail_unit_ss",
+      "Name": "Custom_Model",
+      "Nickname": "rail|N2:rail_unit_ss",
+      "Snap": false,
+      "Sticky": true,
+      "Tooltip": false,
+      "Transform": {
+        "posX": 0,
+        "posY": 0,
+        "posZ": 2.8,
+        "rotX": 0,
+        "rotY": 180,
+        "rotZ": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "scaleZ": 1
+      },
+      "Value": 0,
+      "XmlUI": ""
+    }
+  ],
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/18379309240893938170/C3D7ED239E86D829204F1B5B79302AA8C26888F8/",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/15904058478282011550/73D47698C10E8B1622D7AB33C4BC10606F35D4DC/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/11035777166386014973/1B13A38E4FDB44E154632926DE19D86A40DEC196/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "trayGrid:5:2:GROSCHEN",
+  "GUID": "m0000f",
+  "Grid": false,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState_path": "TrayBlueGroschen.m0000f.luascriptstate",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Tray (Blue): Groschen",
+  "Snap": false,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable",
+    "PlayerTray_Blue",
+    "TrayGrid",
+    "TrayGrid_Blue"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -30.95,
+    "posY": 0.946,
+    "posZ": -37.92,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

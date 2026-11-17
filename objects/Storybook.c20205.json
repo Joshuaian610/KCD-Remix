@@ -1,0 +1,54 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomPDF": {
+    "PDFPage": 0,
+    "PDFPageOffset": 0,
+    "PDFPassword": "",
+    "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/13633596876608459399/EEE6C83C52B97AE8095924DCFEF7B683ACF71EC9/"
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "c20205",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_PDF",
+  "Nickname": "Storybook",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Storybook"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 40.689,
+    "posY": 23.2,
+    "posZ": 47.9,
+    "rotX": 68,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 12,
+    "scaleY": 1,
+    "scaleZ": 12
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

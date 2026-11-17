@@ -1,0 +1,89 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "Rocinante.9c3ed3",
+    "AlBuraq.602c74",
+    "Kelpie.c8fbb7",
+    "Boxer.d0de31",
+    "Epona.5b99ce",
+    "Shadowmere.2b4405",
+    "Roach.36478e",
+    "Kanthaka.fc9bea",
+    "Bucephalus.92d6c7",
+    "Chollima.2c70e2",
+    "Pebbles.95c8d0",
+    "WarhorseJenda.02d1cd"
+  ],
+  "ContainedObjects_path": "HorseTiles.6c6f42",
+  "CustomDeck": {
+    "10008": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10411117695929921942/DCA51134934CC442F939F954EE752C7C2EF2B564/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14186033938331096071/A8C3A27D64901B951C7FE5F4297C373C49B6A0E6/",
+      "NumHeight": 3,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    1000802,
+    1000807,
+    1000803,
+    1000801,
+    1000805,
+    1000810,
+    1000804,
+    1000806,
+    1000809,
+    1000808,
+    1000800,
+    1000811
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "6c6f42",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Horse Tiles",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "HorseTile"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 53.239,
+    "posY": 1.75,
+    "posZ": 15.334,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 2.4,
+    "scaleY": 1,
+    "scaleZ": 2.4
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

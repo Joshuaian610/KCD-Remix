@@ -1,0 +1,544 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 13.454,
+        "y": 0.3,
+        "z": -8.199
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": 9.509,
+        "y": 0.3,
+        "z": -8.199
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.585,
+        "y": 0.3,
+        "z": -8.199
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.674,
+        "y": 0.3,
+        "z": -8.199
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.268,
+        "y": 0.3,
+        "z": -8.199
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": 13.454,
+        "y": 0.3,
+        "z": -1.8
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemBow"
+      ]
+    },
+    {
+      "Position": {
+        "x": 9.509,
+        "y": 0.3,
+        "z": -1.8
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemBow"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.585,
+        "y": 0.3,
+        "z": -1.8
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemBow"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.674,
+        "y": 0.3,
+        "z": -1.8
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.268,
+        "y": 0.3,
+        "z": -1.8
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemMarket"
+      ]
+    },
+    {
+      "Position": {
+        "x": 13.454,
+        "y": 0.3,
+        "z": 4.47
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemArmor"
+      ]
+    },
+    {
+      "Position": {
+        "x": 9.509,
+        "y": 0.3,
+        "z": 4.47
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemArmor"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.585,
+        "y": 0.3,
+        "z": 4.47
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemArmor"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.674,
+        "y": 0.3,
+        "z": 4.47
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemArmor"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.268,
+        "y": 0.3,
+        "z": 4.47
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemArmor"
+      ]
+    },
+    {
+      "Position": {
+        "x": 13.454,
+        "y": 0.3,
+        "z": 10.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemWeapon"
+      ]
+    },
+    {
+      "Position": {
+        "x": 9.509,
+        "y": 0.3,
+        "z": 10.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemWeapon"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.585,
+        "y": 0.3,
+        "z": 10.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemWeapon"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.674,
+        "y": 0.3,
+        "z": 10.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemWeapon"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.268,
+        "y": 0.3,
+        "z": 10.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemWeapon"
+      ]
+    },
+    {
+      "Position": {
+        "x": 13.454,
+        "y": 0.3,
+        "z": 17.223
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemClothing"
+      ]
+    },
+    {
+      "Position": {
+        "x": 9.509,
+        "y": 0.3,
+        "z": 17.223
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemClothing"
+      ]
+    },
+    {
+      "Position": {
+        "x": 5.585,
+        "y": 0.3,
+        "z": 17.223
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemClothing"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.674,
+        "y": 0.3,
+        "z": 17.223
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemClothing"
+      ]
+    },
+    {
+      "Position": {
+        "x": -2.268,
+        "y": 0.3,
+        "z": 17.223
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ItemClothing"
+      ]
+    },
+    {
+      "Position": {
+        "x": 16.65,
+        "y": 0.12,
+        "z": -16.725
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": 16.65,
+        "y": 0.12,
+        "z": -8.199
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": 16.65,
+        "y": 0.12,
+        "z": -1.8
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": 16.65,
+        "y": 0.12,
+        "z": 4.47
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": 16.65,
+        "y": 0.12,
+        "z": 10.74
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    },
+    {
+      "Position": {
+        "x": 16.65,
+        "y": 0.12,
+        "z": 17.223
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "RefreshToken_Orange",
+        "RefreshToken_Green",
+        "RefreshToken_Blue",
+        "RefreshToken_Brown"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": false,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11080674355567376682/06D26776C74DA104153053E105A531E814AF8F32/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/13977532667286893360/F07C89F5365AB5E4930962829063E7BD0942B742/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "d26293",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState_path": "ShopBoard.d26293.luascriptstate",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Shop Board",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Noninteractable",
+    "ShopBoard"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 61.145,
+    "posY": 1.191,
+    "posZ": -1.415,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

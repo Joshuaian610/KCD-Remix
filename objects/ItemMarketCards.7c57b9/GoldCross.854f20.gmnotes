@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"gold-cross","name":"Gold Cross","deck":"market","equip":"","types":[],"draw":{},"succ":{},"slots":[],"effects":[{"mode":"add","add":"","active":false,"text":"Add [Universal] for every [Good card] in the test."}],"lock":3,"buy":13,"sell":8,"dots":{"slots":[],"effects":[[0.8154,0.7905]],"succ":null,"eboxes":[[0.1531,0.7775,0.8254,0.9558]]}}

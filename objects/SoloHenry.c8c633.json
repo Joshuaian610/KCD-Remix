@@ -1,0 +1,80 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "MiraclesWhileYouWaitHenry.188d81",
+    "TheBanditArmyHenry.d04203",
+    "FromtheAshesHenry.a4ab3b",
+    "AtYourServiceMyLadyHenry.733c71",
+    "TheCumanMenaceHenry.cd3724",
+    "LocalOpportunityHenry.0f9cd6",
+    "SoloDeckHenry.5f2bcf",
+    "NeuhofMassacreHenry.e3b93d",
+    "ScatteredLivesHenry.18aa63",
+    "PlagueInfectionHenry.e5103d",
+    "SiegeofTalmbergHenry.a8a046",
+    "MoneyforOldRopeHenry.b8a9e0"
+  ],
+  "ContainedObjects_path": "SoloHenry.c8c633",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/10764919449721766898/1886910F0CC05F5177DB9B569B603D6425600E06/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/11489660330021009663/6C6C9F1A9011DC6BD4A451281A0E5E1330123FD5/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Solo game content (Henry)",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "c8c633",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-30.42,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Solo: Henry",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "StoryBox",
+    "StoryBox_Solo"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -94.731,
+    "posY": 0.981,
+    "posZ": 17.989,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

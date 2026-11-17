@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/12507951827454254866/FE639172AE579EBAE0D57468491E8C2380B69397/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/14590543353994778472/94673D5EED485CA40141C69D1389B772EE4587C7/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "Part of the 'Siege of Talmberg' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "10e945",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Siege of Talmberg Token 01",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Siege"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 125,
+    "posY": 2.045,
+    "posZ": 50,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.5,
+    "scaleY": 1,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"knife","name":"Knife","deck":"weapon","equip":"weapon","types":[],"draw":{"combat":2},"succ":{},"slots":[{"kind":"square","attrs":[]}],"effects":[],"lock":2,"buy":7,"sell":5,"dots":{"slots":[null],"effects":[],"succ":null,"sboxes":[null]}}

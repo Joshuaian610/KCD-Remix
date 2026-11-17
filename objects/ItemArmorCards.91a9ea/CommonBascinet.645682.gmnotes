@@ -1,0 +1,1 @@
+{"kcd":"item","v":1,"key":"common-bascinet","name":"Common Bascinet","deck":"armor","equip":"head","types":["helmet"],"draw":{},"succ":{},"slots":[{"kind":"square","attrs":[{"mode":"add","add":"str","n":1,"active":false}]}],"effects":[],"lock":2,"buy":11,"sell":7,"dots":{"slots":[[0.3816,0.5517]],"effects":[],"succ":null,"sboxes":[null]}}

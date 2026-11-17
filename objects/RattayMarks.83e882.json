@@ -1,0 +1,65 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "RattayMark.bacce3"
+  ],
+  "ContainedObjects_path": "RattayMarks.83e882",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/11180984685612770287/4861CE173552195E92027C01F1F2B560DDE59AFB/",
+    "MaterialIndex": 1,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/17544522338444762778/C978F0F7AA2146614533FF7741C08E7A2DABD524/",
+    "NormalURL": "",
+    "TypeIndex": 7
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "83e882",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Infinite_Bag",
+  "Nickname": "Rattay Marks",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "MarksBowl",
+    "MarksBowl_Rattay"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 14.003,
+    "posY": 1.086,
+    "posZ": -26.593,
+    "rotX": 0,
+    "rotY": 169,
+    "rotZ": 0,
+    "scaleX": 0.33,
+    "scaleY": 0.33,
+    "scaleZ": 0.33
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

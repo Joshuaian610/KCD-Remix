@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomImage": {
+    "CustomToken": {
+      "MergeDistancePixels": 15,
+      "Stackable": false,
+      "StandUp": false,
+      "Thickness": 0.1
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/13452236248457578343/2E6A1F24D721B6CB9EA00DA6B8E589E4156B7D62/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "50f29d",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Token",
+  "Nickname": "Reference Sheet",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "PlayerSheet",
+    "PlayerSheet_Orange"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 110.323,
+    "posY": 1.031,
+    "posZ": 17.305,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 8.77,
+    "scaleY": 1,
+    "scaleZ": 8.77
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

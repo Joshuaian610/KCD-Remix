@@ -1,0 +1,75 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "MandrakeKindOf.",
+    "BurialShroud.",
+    "CatsPawTalisman.",
+    "TheTopping-Out.",
+    "ProcopiussTooth."
+  ],
+  "ContainedObjects_path": "MiraclesWhileYouWaitCharlatansQuests.82f261",
+  "CustomDeck": {
+    "7011": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14876294477113903445/46DF6FE4F09F592B948FF42D24CCC404E50E214C/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11813438962355826624/0C6C0C27675ED6F220C26800FB2BD0203244CD08/",
+      "NumHeight": 3,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    701118,
+    701119,
+    701120,
+    701121,
+    701122
+  ],
+  "Description": "Part of the 'Miracles While You Wait' Storyline",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "82f261",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Miracles While You Wait Charlatan's Quests",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "Story_Miracles"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 37.345,
+    "posY": 0.991,
+    "posZ": 55.939,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.43,
+    "scaleY": 1,
+    "scaleZ": 2.43
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

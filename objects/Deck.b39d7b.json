@@ -91,12 +91,12 @@
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -58.81,
-    "posY": 1.203,
-    "posZ": 27.98,
+    "posX": -119.727,
+    "posY": 1.98,
+    "posZ": 24.846,
     "rotX": 0,
-    "rotY": 90,
-    "rotZ": 180,
+    "rotY": 180,
+    "rotZ": 356,
     "scaleX": 2.3,
     "scaleY": 1,
     "scaleZ": 2.3

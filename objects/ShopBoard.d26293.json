@@ -392,10 +392,10 @@
         "z": 0
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -410,10 +410,10 @@
         "z": 0
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -428,10 +428,10 @@
         "z": 0
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -446,10 +446,10 @@
         "z": 0
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -464,10 +464,10 @@
         "z": 0
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -482,10 +482,10 @@
         "z": 0
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     }
   ],
@@ -527,16 +527,16 @@
     "Noninteractable",
     "ShopBoard"
   ],
-  "Tooltip": true,
+  "Tooltip": false,
   "Transform": {
-    "posX": 61.145,
-    "posY": 1.191,
-    "posZ": -1.415,
+    "posX": 52.999,
+    "posY": 0.817,
+    "posZ": 10.5,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
     "scaleX": 1,
-    "scaleY": 1,
+    "scaleY": 2,
     "scaleZ": 1
   },
   "Value": 0,

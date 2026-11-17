@@ -17,8 +17,8 @@
         "z": 0
       },
       "Tags": [
-        "Character_Brown",
-        "CharacterCard"
+        "CharacterCard",
+        "Character_Brown"
       ]
     },
     {
@@ -708,10 +708,10 @@
         "z": -1.428
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -721,10 +721,10 @@
         "z": -1.082
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -734,10 +734,10 @@
         "z": -0.136
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -747,10 +747,10 @@
         "z": 0.293
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -760,10 +760,10 @@
         "z": 1.254
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -773,10 +773,10 @@
         "z": 1.668
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -786,10 +786,10 @@
         "z": 2.61
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -799,10 +799,10 @@
         "z": 3
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -812,10 +812,10 @@
         "z": -1.428
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -825,10 +825,10 @@
         "z": -1.082
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -838,10 +838,10 @@
         "z": -0.145
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -851,10 +851,10 @@
         "z": 0.284
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -864,10 +864,10 @@
         "z": 1.249
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -877,10 +877,10 @@
         "z": 1.668
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -890,10 +890,10 @@
         "z": 2.605
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -903,10 +903,10 @@
         "z": 3
       },
       "Tags": [
-        "Inventory_Brown",
         "MeatToken",
         "MushroomToken",
-        "FlowerToken"
+        "FlowerToken",
+        "Inventory_Brown"
       ]
     },
     {
@@ -961,8 +961,8 @@
         "z": 0
       },
       "Tags": [
-        "Head_Brown",
-        "SlotHead"
+        "SlotHead",
+        "Head_Brown"
       ]
     },
     {
@@ -977,24 +977,8 @@
         "z": 0
       },
       "Tags": [
-        "Chest_Brown",
-        "SlotChest"
-      ]
-    },
-    {
-      "Position": {
-        "x": -0.124,
-        "y": 0.157,
-        "z": -0.738
-      },
-      "Rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "Tags": [
-        "Weapon_Brown",
-        "SlotWeapon"
+        "SlotChest",
+        "Chest_Brown"
       ]
     },
     {
@@ -1009,8 +993,8 @@
         "z": 0
       },
       "Tags": [
-        "Bow_Brown",
-        "SlotBow"
+        "SlotBow",
+        "Bow_Brown"
       ]
     },
     {
@@ -1025,8 +1009,8 @@
         "z": 0
       },
       "Tags": [
-        "Legs_Brown",
-        "SlotLegs"
+        "SlotLegs",
+        "Legs_Brown"
       ]
     },
     {
@@ -1121,9 +1105,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1154,9 +1138,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1187,9 +1171,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1220,9 +1204,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1253,9 +1237,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1286,9 +1270,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1319,9 +1303,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1352,9 +1336,9 @@
         "z": 0
       },
       "Tags": [
-        "InventoryHalf_Brown",
         "Tile",
-        "AnimalTile"
+        "AnimalTile",
+        "InventoryHalf_Brown"
       ]
     },
     {
@@ -1386,8 +1370,8 @@
       },
       "Tags": [
         "Tile",
-        "OverloadHalf_Brown",
-        "AnimalTile"
+        "AnimalTile",
+        "OverloadHalf_Brown"
       ]
     },
     {
@@ -1419,8 +1403,8 @@
       },
       "Tags": [
         "Tile",
-        "OverloadHalf_Brown",
-        "AnimalTile"
+        "AnimalTile",
+        "OverloadHalf_Brown"
       ]
     },
     {
@@ -1490,6 +1474,18 @@
         "FlowerToken",
         "InventoryRed_Brown"
       ]
+    },
+    {
+      "Position": {
+        "x": -0.124,
+        "y": 0.157,
+        "z": -0.596
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
     }
   ],
   "Autoraise": true,
@@ -1552,7 +1548,7 @@
   ],
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "",
+  "GMNotes": "Brown",
   "GUID": "1b0851",
   "Grid": true,
   "GridProjection": false,
@@ -1573,14 +1569,14 @@
   ],
   "Tooltip": false,
   "Transform": {
-    "posX": 43.55,
-    "posY": 1.031,
-    "posZ": -49.46,
+    "posX": 30.001,
+    "posY": 1.206,
+    "posZ": -31,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.18,
-    "scaleY": 2.18,
+    "scaleY": 4,
     "scaleZ": 2.18
   },
   "Value": 0,

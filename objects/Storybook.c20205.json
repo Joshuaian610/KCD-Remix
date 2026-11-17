@@ -6,9 +6,9 @@
   },
   "Autoraise": true,
   "ColorDiffuse": {
-    "b": 1,
-    "g": 1,
-    "r": 1
+    "b": 0.09,
+    "g": 0.231,
+    "r": 0.443
   },
   "CustomPDF": {
     "PDFPage": 0,
@@ -39,10 +39,10 @@
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": 40.689,
-    "posY": 23.2,
-    "posZ": 47.9,
-    "rotX": 68,
+    "posX": -8.96,
+    "posY": 20.898,
+    "posZ": 66.838,
+    "rotX": 60,
     "rotY": 180,
     "rotZ": 0,
     "scaleX": 12,

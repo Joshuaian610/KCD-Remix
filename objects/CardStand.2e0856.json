@@ -33,10 +33,10 @@
         "z": -8.22
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -67,10 +67,10 @@
         "z": -8.22
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -101,10 +101,10 @@
         "z": -8.22
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     },
     {
@@ -135,10 +135,10 @@
         "z": -8.22
       },
       "Tags": [
-        "RefreshToken_Orange",
         "RefreshToken_Green",
+        "RefreshToken_Brown",
         "RefreshToken_Blue",
-        "RefreshToken_Brown"
+        "RefreshToken_Orange"
       ]
     }
   ],
@@ -182,14 +182,14 @@
   ],
   "Tooltip": false,
   "Transform": {
-    "posX": -50.4,
-    "posY": 1.065,
-    "posZ": -1.4,
+    "posX": -48,
+    "posY": 0.619,
+    "posZ": 19.501,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
     "scaleX": 1,
-    "scaleY": 1,
+    "scaleY": 2,
     "scaleZ": 1
   },
   "Value": 0,

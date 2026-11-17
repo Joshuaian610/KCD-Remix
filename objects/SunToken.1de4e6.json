@@ -6,15 +6,15 @@
   },
   "Autoraise": true,
   "ColorDiffuse": {
-    "b": 1,
-    "g": 1,
-    "r": 1
+    "b": 0.172,
+    "g": 0.898,
+    "r": 0.905
   },
   "CustomImage": {
     "CustomTile": {
       "Stackable": false,
       "Stretch": true,
-      "Thickness": 0.02,
+      "Thickness": 0.40400207,
       "Type": 2
     },
     "ImageScalar": 1,
@@ -45,15 +45,15 @@
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -72.774,
-    "posY": 1.285,
-    "posZ": -8.016,
+    "posX": -56.316,
+    "posY": 0.9,
+    "posZ": -3.985,
     "rotX": 0,
-    "rotY": 90,
-    "rotZ": 356,
-    "scaleX": 1.38,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.7,
     "scaleY": 1,
-    "scaleZ": 1.38
+    "scaleZ": 1.7
   },
   "Value": 0,
   "XmlUI": ""

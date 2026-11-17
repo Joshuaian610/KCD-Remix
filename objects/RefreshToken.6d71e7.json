@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.09,
+    "g": 0.231,
+    "r": 0.443
+  },
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.40400207,
+      "Type": 2
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/16339538953860742032/12382AFCCAB79BDA043666ACB10E3F6E4B82B35F/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/16339538953860742032/12382AFCCAB79BDA043666ACB10E3F6E4B82B35F/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Brown",
+  "GUID": "6d71e7",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Tile",
+  "Nickname": "Refresh Token",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "RefreshToken",
+    "RefreshToken_Brown"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 14.547,
+    "posY": 1.206,
+    "posZ": -18.35,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.22,
+    "scaleY": 1,
+    "scaleZ": 1.22
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

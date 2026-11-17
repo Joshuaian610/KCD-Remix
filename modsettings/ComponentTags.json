@@ -1,104 +1,268 @@
 {
   "labels": [
     {
-      "displayed": "HungerCube",
-      "normalized": "hungercube"
+      "displayed": "Noninteractable",
+      "normalized": "noninteractable"
     },
     {
-      "displayed": "Hunger_Brown",
-      "normalized": "hunger_brown"
+      "displayed": "Trainer",
+      "normalized": "trainer"
     },
     {
-      "displayed": "Universal_Brown",
-      "normalized": "universal_brown"
+      "displayed": "Trainer_green",
+      "normalized": "trainer_green"
     },
     {
-      "displayed": "Strength_Brown",
-      "normalized": "strength_brown"
+      "displayed": "Trainer_brown",
+      "normalized": "trainer_brown"
     },
     {
-      "displayed": "Perception_Brown",
-      "normalized": "perception_brown"
+      "displayed": "Trainer_rainbow",
+      "normalized": "trainer_rainbow"
     },
     {
-      "displayed": "Dexterity_Brown",
-      "normalized": "dexterity_brown"
+      "displayed": "Trainer_blue",
+      "normalized": "trainer_blue"
     },
     {
-      "displayed": "Speech_Brown",
-      "normalized": "speech_brown"
+      "displayed": "PlayerFigure",
+      "normalized": "playerfigure"
     },
     {
-      "displayed": "Movement_Brown",
-      "normalized": "movement_brown"
+      "displayed": "PlayerFigure_Blue",
+      "normalized": "playerfigure_blue"
     },
     {
-      "displayed": "Bed_Brown",
-      "normalized": "bed_brown"
+      "displayed": "PlayerFigure_Orange",
+      "normalized": "playerfigure_orange"
     },
     {
-      "displayed": "Inventory_Brown",
-      "normalized": "inventory_brown"
+      "displayed": "PlayerFigure_Green",
+      "normalized": "playerfigure_green"
     },
     {
-      "displayed": "Overload_Brown",
-      "normalized": "overload_brown"
+      "displayed": "PlayerFigure_Brown",
+      "normalized": "playerfigure_brown"
     },
     {
-      "displayed": "BedPreview",
-      "normalized": "bedpreview"
+      "displayed": "MarksBowl",
+      "normalized": "marksbowl"
     },
     {
-      "displayed": "Character_Brown",
-      "normalized": "character_brown"
+      "displayed": "MarksBowl_Sasau",
+      "normalized": "marksbowl_sasau"
+    },
+    {
+      "displayed": "MushroomBowl",
+      "normalized": "mushroombowl"
+    },
+    {
+      "displayed": "MeatBowl",
+      "normalized": "meatbowl"
+    },
+    {
+      "displayed": "DirtBowl",
+      "normalized": "dirtbowl"
+    },
+    {
+      "displayed": "CoinBowl",
+      "normalized": "coinbowl"
+    },
+    {
+      "displayed": "MarksBowl_Rattay",
+      "normalized": "marksbowl_rattay"
+    },
+    {
+      "displayed": "ShieldBowl",
+      "normalized": "shieldbowl"
+    },
+    {
+      "displayed": "MarksBowl_Talmberg",
+      "normalized": "marksbowl_talmberg"
+    },
+    {
+      "displayed": "RefreshToken",
+      "normalized": "refreshtoken"
+    },
+    {
+      "displayed": "RefreshToken_Green",
+      "normalized": "refreshtoken_green"
     },
     {
       "displayed": "CharacterCard",
       "normalized": "charactercard"
     },
     {
-      "displayed": "Head_Brown",
-      "normalized": "head_brown"
+      "displayed": "Character_Green",
+      "normalized": "character_green"
+    },
+    {
+      "displayed": "Bed_Green",
+      "normalized": "bed_green"
+    },
+    {
+      "displayed": "Hunger_Green",
+      "normalized": "hunger_green"
+    },
+    {
+      "displayed": "Movement_Green",
+      "normalized": "movement_green"
+    },
+    {
+      "displayed": "Universal_Green",
+      "normalized": "universal_green"
+    },
+    {
+      "displayed": "Strength_Green",
+      "normalized": "strength_green"
+    },
+    {
+      "displayed": "Perception_Green",
+      "normalized": "perception_green"
+    },
+    {
+      "displayed": "Dexterity_Green",
+      "normalized": "dexterity_green"
+    },
+    {
+      "displayed": "Speech_Green",
+      "normalized": "speech_green"
+    },
+    {
+      "displayed": "Inventory_Green",
+      "normalized": "inventory_green"
+    },
+    {
+      "displayed": "MeatToken",
+      "normalized": "meattoken"
+    },
+    {
+      "displayed": "MushroomToken",
+      "normalized": "mushroomtoken"
+    },
+    {
+      "displayed": "FlowerToken",
+      "normalized": "flowertoken"
+    },
+    {
+      "displayed": "Overload_Green",
+      "normalized": "overload_green"
+    },
+    {
+      "displayed": "Head_Green",
+      "normalized": "head_green"
+    },
+    {
+      "displayed": "SlotHead",
+      "normalized": "slothead"
+    },
+    {
+      "displayed": "Chest_Green",
+      "normalized": "chest_green"
+    },
+    {
+      "displayed": "SlotChest",
+      "normalized": "slotchest"
+    },
+    {
+      "displayed": "Weapon_Green",
+      "normalized": "weapon_green"
+    },
+    {
+      "displayed": "SlotWeapon",
+      "normalized": "slotweapon"
+    },
+    {
+      "displayed": "Bow_Green",
+      "normalized": "bow_green"
+    },
+    {
+      "displayed": "SlotBow",
+      "normalized": "slotbow"
+    },
+    {
+      "displayed": "Legs_Green",
+      "normalized": "legs_green"
+    },
+    {
+      "displayed": "SlotLegs",
+      "normalized": "slotlegs"
     },
     {
       "displayed": "ItemCard",
       "normalized": "itemcard"
     },
     {
-      "displayed": "Chest_Brown",
-      "normalized": "chest_brown"
+      "displayed": "InventorySlot_Green",
+      "normalized": "inventoryslot_green"
     },
     {
-      "displayed": "Weapon_Brown",
-      "normalized": "weapon_brown"
-    },
-    {
-      "displayed": "Bow_Brown",
-      "normalized": "bow_brown"
-    },
-    {
-      "displayed": "Legs_Brown",
-      "normalized": "legs_brown"
-    },
-    {
-      "displayed": "InventorySlot_Brown",
-      "normalized": "inventoryslot_brown"
-    },
-    {
-      "displayed": "OverloadSlot_Brown",
-      "normalized": "overloadslot_brown"
-    },
-    {
-      "displayed": "InventoryHalf_Brown",
-      "normalized": "inventoryhalf_brown"
+      "displayed": "OverloadSlot_Green",
+      "normalized": "overloadslot_green"
     },
     {
       "displayed": "Tile",
       "normalized": "tile"
     },
     {
-      "displayed": "OverloadHalf_Brown",
-      "normalized": "overloadhalf_brown"
+      "displayed": "InventoryHalf_Green",
+      "normalized": "inventoryhalf_green"
+    },
+    {
+      "displayed": "AnimalTile",
+      "normalized": "animaltile"
+    },
+    {
+      "displayed": "WoundToken",
+      "normalized": "woundtoken"
+    },
+    {
+      "displayed": "WoundHalf_Green",
+      "normalized": "woundhalf_green"
+    },
+    {
+      "displayed": "OverloadHalf_Green",
+      "normalized": "overloadhalf_green"
+    },
+    {
+      "displayed": "InventoryRed_Green",
+      "normalized": "inventoryred_green"
+    },
+    {
+      "displayed": "CubeBowl",
+      "normalized": "cubebowl"
+    },
+    {
+      "displayed": "CubeBowl_Green",
+      "normalized": "cubebowl_green"
+    },
+    {
+      "displayed": "PlayerTray_Green",
+      "normalized": "playertray_green"
+    },
+    {
+      "displayed": "SeatMeetingTile",
+      "normalized": "seatmeetingtile"
+    },
+    {
+      "displayed": "SeatMeetingTile_Green",
+      "normalized": "seatmeetingtile_green"
+    },
+    {
+      "displayed": "SeatBlackTile",
+      "normalized": "seatblacktile"
+    },
+    {
+      "displayed": "SeatBlackTile_Green",
+      "normalized": "seatblacktile_green"
+    },
+    {
+      "displayed": "CardFrames",
+      "normalized": "cardframes"
+    },
+    {
+      "displayed": "Set18Card",
+      "normalized": "set18card"
     },
     {
       "displayed": "Character_Blue",
@@ -177,92 +341,184 @@
       "normalized": "inventoryhalf_blue"
     },
     {
+      "displayed": "WoundHalf_Blue",
+      "normalized": "woundhalf_blue"
+    },
+    {
       "displayed": "OverloadHalf_Blue",
       "normalized": "overloadhalf_blue"
     },
     {
-      "displayed": "Character_Green",
-      "normalized": "character_green"
+      "displayed": "InventoryRed_Blue",
+      "normalized": "inventoryred_blue"
     },
     {
-      "displayed": "Bed_Green",
-      "normalized": "bed_green"
+      "displayed": "CubeBowl_Blue",
+      "normalized": "cubebowl_blue"
     },
     {
-      "displayed": "Hunger_Green",
-      "normalized": "hunger_green"
+      "displayed": "PlayerTray_Blue",
+      "normalized": "playertray_blue"
     },
     {
-      "displayed": "Movement_Green",
-      "normalized": "movement_green"
+      "displayed": "SeatMeetingTile_Blue",
+      "normalized": "seatmeetingtile_blue"
     },
     {
-      "displayed": "Universal_Green",
-      "normalized": "universal_green"
+      "displayed": "SeatBlackTile_Blue",
+      "normalized": "seatblacktile_blue"
     },
     {
-      "displayed": "Strength_Green",
-      "normalized": "strength_green"
+      "displayed": "RefreshToken_Brown",
+      "normalized": "refreshtoken_brown"
     },
     {
-      "displayed": "Perception_Green",
-      "normalized": "perception_green"
+      "displayed": "SeatMeetingTile_Brown",
+      "normalized": "seatmeetingtile_brown"
     },
     {
-      "displayed": "Dexterity_Green",
-      "normalized": "dexterity_green"
+      "displayed": "SeatBlackTile_Brown",
+      "normalized": "seatblacktile_brown"
     },
     {
-      "displayed": "Speech_Green",
-      "normalized": "speech_green"
+      "displayed": "Character_Brown",
+      "normalized": "character_brown"
     },
     {
-      "displayed": "Inventory_Green",
-      "normalized": "inventory_green"
+      "displayed": "Bed_Brown",
+      "normalized": "bed_brown"
     },
     {
-      "displayed": "Overload_Green",
-      "normalized": "overload_green"
+      "displayed": "Hunger_Brown",
+      "normalized": "hunger_brown"
     },
     {
-      "displayed": "Head_Green",
-      "normalized": "head_green"
+      "displayed": "Movement_Brown",
+      "normalized": "movement_brown"
     },
     {
-      "displayed": "Chest_Green",
-      "normalized": "chest_green"
+      "displayed": "Universal_Brown",
+      "normalized": "universal_brown"
     },
     {
-      "displayed": "Weapon_Green",
-      "normalized": "weapon_green"
+      "displayed": "Strength_Brown",
+      "normalized": "strength_brown"
     },
     {
-      "displayed": "Bow_Green",
-      "normalized": "bow_green"
+      "displayed": "Perception_Brown",
+      "normalized": "perception_brown"
     },
     {
-      "displayed": "Legs_Green",
-      "normalized": "legs_green"
+      "displayed": "Dexterity_Brown",
+      "normalized": "dexterity_brown"
     },
     {
-      "displayed": "InventorySlot_Green",
-      "normalized": "inventoryslot_green"
+      "displayed": "Speech_Brown",
+      "normalized": "speech_brown"
     },
     {
-      "displayed": "OverloadSlot_Green",
-      "normalized": "overloadslot_green"
+      "displayed": "Inventory_Brown",
+      "normalized": "inventory_brown"
     },
     {
-      "displayed": "InventoryHalf_Green",
-      "normalized": "inventoryhalf_green"
+      "displayed": "Overload_Brown",
+      "normalized": "overload_brown"
     },
     {
-      "displayed": "OverloadHalf_Green",
-      "normalized": "overloadhalf_green"
+      "displayed": "Head_Brown",
+      "normalized": "head_brown"
     },
     {
-      "displayed": "Character_Orange",
-      "normalized": "character_orange"
+      "displayed": "Chest_Brown",
+      "normalized": "chest_brown"
+    },
+    {
+      "displayed": "Weapon_Brown",
+      "normalized": "weapon_brown"
+    },
+    {
+      "displayed": "Bow_Brown",
+      "normalized": "bow_brown"
+    },
+    {
+      "displayed": "Legs_Brown",
+      "normalized": "legs_brown"
+    },
+    {
+      "displayed": "InventorySlot_Brown",
+      "normalized": "inventoryslot_brown"
+    },
+    {
+      "displayed": "OverloadSlot_Brown",
+      "normalized": "overloadslot_brown"
+    },
+    {
+      "displayed": "InventoryHalf_Brown",
+      "normalized": "inventoryhalf_brown"
+    },
+    {
+      "displayed": "WoundHalf_Brown",
+      "normalized": "woundhalf_brown"
+    },
+    {
+      "displayed": "OverloadHalf_Brown",
+      "normalized": "overloadhalf_brown"
+    },
+    {
+      "displayed": "InventoryRed_Brown",
+      "normalized": "inventoryred_brown"
+    },
+    {
+      "displayed": "CubeBowl_Brown",
+      "normalized": "cubebowl_brown"
+    },
+    {
+      "displayed": "PlayerTray_Brown",
+      "normalized": "playertray_brown"
+    },
+    {
+      "displayed": "RefreshToken_Blue",
+      "normalized": "refreshtoken_blue"
+    },
+    {
+      "displayed": "RefreshToken_Orange",
+      "normalized": "refreshtoken_orange"
+    },
+    {
+      "displayed": "SeatMeetingTile_Orange",
+      "normalized": "seatmeetingtile_orange"
+    },
+    {
+      "displayed": "SeatBlackTile_Orange",
+      "normalized": "seatblacktile_orange"
+    },
+    {
+      "displayed": "CubeBowl_Orange",
+      "normalized": "cubebowl_orange"
+    },
+    {
+      "displayed": "PlayerTray_Orange",
+      "normalized": "playertray_orange"
+    },
+    {
+      "displayed": "Speech_Orange",
+      "normalized": "speech_orange"
+    },
+    {
+      "displayed": "Dexterity_Orange",
+      "normalized": "dexterity_orange"
+    },
+    {
+      "displayed": "Perception_Orange",
+      "normalized": "perception_orange"
+    },
+    {
+      "displayed": "Strength_Orange",
+      "normalized": "strength_orange"
+    },
+    {
+      "displayed": "Universal_Orange",
+      "normalized": "universal_orange"
     },
     {
       "displayed": "Bed_Orange",
@@ -273,28 +529,12 @@
       "normalized": "hunger_orange"
     },
     {
+      "displayed": "Character_Orange",
+      "normalized": "character_orange"
+    },
+    {
       "displayed": "Movement_Orange",
       "normalized": "movement_orange"
-    },
-    {
-      "displayed": "Universal_Orange",
-      "normalized": "universal_orange"
-    },
-    {
-      "displayed": "Strength_Orange",
-      "normalized": "strength_orange"
-    },
-    {
-      "displayed": "Perception_Orange",
-      "normalized": "perception_orange"
-    },
-    {
-      "displayed": "Dexterity_Orange",
-      "normalized": "dexterity_orange"
-    },
-    {
-      "displayed": "Speech_Orange",
-      "normalized": "speech_orange"
     },
     {
       "displayed": "Inventory_Orange",
@@ -337,252 +577,28 @@
       "normalized": "inventoryhalf_orange"
     },
     {
+      "displayed": "WoundHalf_Orange",
+      "normalized": "woundhalf_orange"
+    },
+    {
       "displayed": "OverloadHalf_Orange",
       "normalized": "overloadhalf_orange"
     },
     {
-      "displayed": "RefSheetButton",
-      "normalized": "refsheetbutton"
-    },
-    {
-      "displayed": "RefSheetButton_Brown",
-      "normalized": "refsheetbutton_brown"
-    },
-    {
-      "displayed": "ReferenceSheet",
-      "normalized": "referencesheet"
-    },
-    {
-      "displayed": "SheetsButton",
-      "normalized": "sheetsbutton"
-    },
-    {
-      "displayed": "SheetsButton_Brown",
-      "normalized": "sheetsbutton_brown"
-    },
-    {
-      "displayed": "SheetsButton_Blue",
-      "normalized": "sheetsbutton_blue"
-    },
-    {
-      "displayed": "SheetsButton_Green",
-      "normalized": "sheetsbutton_green"
-    },
-    {
-      "displayed": "SheetsButton_Orange",
-      "normalized": "sheetsbutton_orange"
+      "displayed": "InventoryRed_Orange",
+      "normalized": "inventoryred_orange"
     },
     {
       "displayed": "PlayerSheet",
       "normalized": "playersheet"
     },
     {
-      "displayed": "PlayerSheet_Brown",
-      "normalized": "playersheet_brown"
-    },
-    {
-      "displayed": "PlayerSheet_Blue",
-      "normalized": "playersheet_blue"
-    },
-    {
-      "displayed": "PlayerSheet_Green",
-      "normalized": "playersheet_green"
-    },
-    {
       "displayed": "PlayerSheet_Orange",
       "normalized": "playersheet_orange"
     },
     {
-      "displayed": "StorylineDeckTest",
-      "normalized": "storylinedecktest"
-    },
-    {
-      "displayed": "DisplayTile",
-      "normalized": "displaytile"
-    },
-    {
       "displayed": "ShopBoard",
       "normalized": "shopboard"
-    },
-    {
-      "displayed": "CumanTile",
-      "normalized": "cumantile"
-    },
-    {
-      "displayed": "BanditTile",
-      "normalized": "bandittile"
-    },
-    {
-      "displayed": "RuleSearchProbe",
-      "normalized": "rulesearchprobe"
-    },
-    {
-      "displayed": "RuleSearch",
-      "normalized": "rulesearch"
-    },
-    {
-      "displayed": "RuleSearch_Brown",
-      "normalized": "rulesearch_brown"
-    },
-    {
-      "displayed": "RuleSearch_Blue",
-      "normalized": "rulesearch_blue"
-    },
-    {
-      "displayed": "RuleSearch_Green",
-      "normalized": "rulesearch_green"
-    },
-    {
-      "displayed": "RuleSearch_Orange",
-      "normalized": "rulesearch_orange"
-    },
-    {
-      "displayed": "Set1Card",
-      "normalized": "set1card"
-    },
-    {
-      "displayed": "Set2Card",
-      "normalized": "set2card"
-    },
-    {
-      "displayed": "Set3Card",
-      "normalized": "set3card"
-    },
-    {
-      "displayed": "Set4Card",
-      "normalized": "set4card"
-    },
-    {
-      "displayed": "Set5Card",
-      "normalized": "set5card"
-    },
-    {
-      "displayed": "Set6Card",
-      "normalized": "set6card"
-    },
-    {
-      "displayed": "Set7Card",
-      "normalized": "set7card"
-    },
-    {
-      "displayed": "Set8Card",
-      "normalized": "set8card"
-    },
-    {
-      "displayed": "Set9Card",
-      "normalized": "set9card"
-    },
-    {
-      "displayed": "Set10Card",
-      "normalized": "set10card"
-    },
-    {
-      "displayed": "Set11Card",
-      "normalized": "set11card"
-    },
-    {
-      "displayed": "Set12Card",
-      "normalized": "set12card"
-    },
-    {
-      "displayed": "Set13Card",
-      "normalized": "set13card"
-    },
-    {
-      "displayed": "Set14Card",
-      "normalized": "set14card"
-    },
-    {
-      "displayed": "Set15Card",
-      "normalized": "set15card"
-    },
-    {
-      "displayed": "Set16Card",
-      "normalized": "set16card"
-    },
-    {
-      "displayed": "Set17Card",
-      "normalized": "set17card"
-    },
-    {
-      "displayed": "Set18Card",
-      "normalized": "set18card"
-    },
-    {
-      "displayed": "BlackTile",
-      "normalized": "blacktile"
-    },
-    {
-      "displayed": "WheelTile",
-      "normalized": "wheeltile"
-    },
-    {
-      "displayed": "SeatMeetingTile",
-      "normalized": "seatmeetingtile"
-    },
-    {
-      "displayed": "SeatMeetingTile_Brown",
-      "normalized": "seatmeetingtile_brown"
-    },
-    {
-      "displayed": "SeatBlackTile",
-      "normalized": "seatblacktile"
-    },
-    {
-      "displayed": "SeatBlackTile_Brown",
-      "normalized": "seatblacktile_brown"
-    },
-    {
-      "displayed": "SeatMeetingTile_Blue",
-      "normalized": "seatmeetingtile_blue"
-    },
-    {
-      "displayed": "SeatBlackTile_Blue",
-      "normalized": "seatblacktile_blue"
-    },
-    {
-      "displayed": "SeatMeetingTile_Green",
-      "normalized": "seatmeetingtile_green"
-    },
-    {
-      "displayed": "SeatBlackTile_Green",
-      "normalized": "seatblacktile_green"
-    },
-    {
-      "displayed": "SeatMeetingTile_Orange",
-      "normalized": "seatmeetingtile_orange"
-    },
-    {
-      "displayed": "SeatBlackTile_Orange",
-      "normalized": "seatblacktile_orange"
-    },
-    {
-      "displayed": "WhiteTile",
-      "normalized": "whitetile"
-    },
-    {
-      "displayed": "SetupController",
-      "normalized": "setupcontroller"
-    },
-    {
-      "displayed": "CoinBowl",
-      "normalized": "coinbowl"
-    },
-    {
-      "displayed": "Coin",
-      "normalized": "coin"
-    },
-    {
-      "displayed": "RaubritterTile",
-      "normalized": "raubrittertile"
-    },
-    {
-      "displayed": "SpecialEnemyTile",
-      "normalized": "specialenemytile"
-    },
-    {
-      "displayed": "HorseTile",
-      "normalized": "horsetile"
     },
     {
       "displayed": "ItemMarket",
@@ -605,376 +621,8 @@
       "normalized": "itemclothing"
     },
     {
-      "displayed": "GuardTrack",
-      "normalized": "guardtrack"
-    },
-    {
-      "displayed": "GuardTrack_talmberg",
-      "normalized": "guardtrack_talmberg"
-    },
-    {
-      "displayed": "GuardTrack_sasau",
-      "normalized": "guardtrack_sasau"
-    },
-    {
-      "displayed": "GuardTrack_rattay",
-      "normalized": "guardtrack_rattay"
-    },
-    {
-      "displayed": "TmpMarker",
-      "normalized": "tmpmarker"
-    },
-    {
-      "displayed": "AnimalBox",
-      "normalized": "animalbox"
-    },
-    {
-      "displayed": "AnimalTile",
-      "normalized": "animaltile"
-    },
-    {
-      "displayed": "AnimalTile_pheasant",
-      "normalized": "animaltile_pheasant"
-    },
-    {
-      "displayed": "AnimalTile_stag",
-      "normalized": "animaltile_stag"
-    },
-    {
-      "displayed": "AnimalTile_hare",
-      "normalized": "animaltile_hare"
-    },
-    {
-      "displayed": "AnimalTile_unknown",
-      "normalized": "animaltile_unknown"
-    },
-    {
-      "displayed": "AnimalTile_roe",
-      "normalized": "animaltile_roe"
-    },
-    {
-      "displayed": "AnimalTile_boar",
-      "normalized": "animaltile_boar"
-    },
-    {
-      "displayed": "HerbBox",
-      "normalized": "herbbox"
-    },
-    {
-      "displayed": "HerbTile",
-      "normalized": "herbtile"
-    },
-    {
-      "displayed": "HerbTile_herb",
-      "normalized": "herbtile_herb"
-    },
-    {
-      "displayed": "HerbTile_unknown",
-      "normalized": "herbtile_unknown"
-    },
-    {
-      "displayed": "TownEntrance",
-      "normalized": "townentrance"
-    },
-    {
-      "displayed": "TownEntrance_1",
-      "normalized": "townentrance_1"
-    },
-    {
-      "displayed": "TownEntrance_2",
-      "normalized": "townentrance_2"
-    },
-    {
-      "displayed": "TownEntrance_3",
-      "normalized": "townentrance_3"
-    },
-    {
-      "displayed": "TownEntrance_4",
-      "normalized": "townentrance_4"
-    },
-    {
-      "displayed": "TownEntrance_5",
-      "normalized": "townentrance_5"
-    },
-    {
-      "displayed": "TownEntrance_6",
-      "normalized": "townentrance_6"
-    },
-    {
-      "displayed": "Trainer",
-      "normalized": "trainer"
-    },
-    {
-      "displayed": "Trainer_brown",
-      "normalized": "trainer_brown"
-    },
-    {
-      "displayed": "Trainer_blue",
-      "normalized": "trainer_blue"
-    },
-    {
-      "displayed": "Trainer_red",
-      "normalized": "trainer_red"
-    },
-    {
-      "displayed": "Trainer_green",
-      "normalized": "trainer_green"
-    },
-    {
-      "displayed": "Trainer_rainbow",
-      "normalized": "trainer_rainbow"
-    },
-    {
-      "displayed": "TroughLid",
-      "normalized": "troughlid"
-    },
-    {
-      "displayed": "TroughLid_1",
-      "normalized": "troughlid_1"
-    },
-    {
-      "displayed": "TroughLid_2",
-      "normalized": "troughlid_2"
-    },
-    {
-      "displayed": "TroughLid_3",
-      "normalized": "troughlid_3"
-    },
-    {
-      "displayed": "Storyline",
-      "normalized": "storyline"
-    },
-    {
-      "displayed": "Storyline_Talmberg",
-      "normalized": "storyline_talmberg"
-    },
-    {
-      "displayed": "StorylineLocalOpportunity",
-      "normalized": "storylinelocalopportunity"
-    },
-    {
-      "displayed": "Storyline_Sasau",
-      "normalized": "storyline_sasau"
-    },
-    {
-      "displayed": "Storyline_Rattay",
-      "normalized": "storyline_rattay"
-    },
-    {
-      "displayed": "LocalOpportunity",
-      "normalized": "localopportunity"
-    },
-    {
-      "displayed": "Set23Card",
-      "normalized": "set23card"
-    },
-    {
-      "displayed": "SpawnDeck",
-      "normalized": "spawndeck"
-    },
-    {
-      "displayed": "SpawnDeck_S",
-      "normalized": "spawndeck_s"
-    },
-    {
-      "displayed": "SpawnDeck_12",
-      "normalized": "spawndeck_12"
-    },
-    {
-      "displayed": "SpawnDeck_34",
-      "normalized": "spawndeck_34"
-    },
-    {
-      "displayed": "SpawnCard",
-      "normalized": "spawncard"
-    },
-    {
-      "displayed": "SpawnCard_S",
-      "normalized": "spawncard_s"
-    },
-    {
-      "displayed": "SpawnCard_12",
-      "normalized": "spawncard_12"
-    },
-    {
-      "displayed": "SpawnCard_34",
-      "normalized": "spawncard_34"
-    },
-    {
-      "displayed": "SpawnDeckBuilt",
-      "normalized": "spawndeckbuilt"
-    },
-    {
-      "displayed": "EnemyBox",
-      "normalized": "enemybox"
-    },
-    {
-      "displayed": "EnemyBox_bandit",
-      "normalized": "enemybox_bandit"
-    },
-    {
-      "displayed": "EnemyBox_cuman",
-      "normalized": "enemybox_cuman"
-    },
-    {
-      "displayed": "EnemyBox_raubritter",
-      "normalized": "enemybox_raubritter"
-    },
-    {
-      "displayed": "SpawnCheckTool",
-      "normalized": "spawnchecktool"
-    },
-    {
-      "displayed": "GuardToken",
-      "normalized": "guardtoken"
-    },
-    {
-      "displayed": "GuardTokenStandIn",
-      "normalized": "guardtokenstandin"
-    },
-    {
-      "displayed": "DirtBowl",
-      "normalized": "dirtbowl"
-    },
-    {
-      "displayed": "DirtToken",
-      "normalized": "dirttoken"
-    },
-    {
-      "displayed": "MeatBowl",
-      "normalized": "meatbowl"
-    },
-    {
-      "displayed": "MeatToken",
-      "normalized": "meattoken"
-    },
-    {
-      "displayed": "WoundDeck",
-      "normalized": "wounddeck"
-    },
-    {
-      "displayed": "WoundToken",
-      "normalized": "woundtoken"
-    },
-    {
-      "displayed": "MeatBowlVariant",
-      "normalized": "meatbowlvariant"
-    },
-    {
-      "displayed": "TimeBoard",
-      "normalized": "timeboard"
-    },
-    {
-      "displayed": "GuardTokenBox",
-      "normalized": "guardtokenbox"
-    },
-    {
-      "displayed": "SunToken",
-      "normalized": "suntoken"
-    },
-    {
-      "displayed": "RefreshToken",
-      "normalized": "refreshtoken"
-    },
-    {
-      "displayed": "RefreshToken_Orange",
-      "normalized": "refreshtoken_orange"
-    },
-    {
-      "displayed": "RefreshToken_Green",
-      "normalized": "refreshtoken_green"
-    },
-    {
-      "displayed": "RefreshToken_Blue",
-      "normalized": "refreshtoken_blue"
-    },
-    {
-      "displayed": "RefreshToken_Red",
-      "normalized": "refreshtoken_red"
-    },
-    {
-      "displayed": "RefreshToken_Brown",
-      "normalized": "refreshtoken_brown"
-    },
-    {
-      "displayed": "AdvancedSkillDeck",
-      "normalized": "advancedskilldeck"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Red",
-      "normalized": "advancedskilldeck_red"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Green",
-      "normalized": "advancedskilldeck_green"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Brown",
-      "normalized": "advancedskilldeck_brown"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Blue",
-      "normalized": "advancedskilldeck_blue"
-    },
-    {
-      "displayed": "PlayerDeck_Green",
-      "normalized": "playerdeck_green"
-    },
-    {
-      "displayed": "PlayerDeck_Brown",
-      "normalized": "playerdeck_brown"
-    },
-    {
-      "displayed": "AdvancedSkill",
-      "normalized": "advancedskill"
-    },
-    {
-      "displayed": "AdvancedSkill_Red",
-      "normalized": "advancedskill_red"
-    },
-    {
-      "displayed": "AdvancedSkill_Green",
-      "normalized": "advancedskill_green"
-    },
-    {
-      "displayed": "AdvancedSkill_Brown",
-      "normalized": "advancedskill_brown"
-    },
-    {
-      "displayed": "AdvancedSkill_Blue",
-      "normalized": "advancedskill_blue"
-    },
-    {
-      "displayed": "PortraitTile",
-      "normalized": "portraittile"
-    },
-    {
-      "displayed": "MushroomToken",
-      "normalized": "mushroomtoken"
-    },
-    {
-      "displayed": "StartingPlayerToken",
-      "normalized": "startingplayertoken"
-    },
-    {
-      "displayed": "PlayerFigure",
-      "normalized": "playerfigure"
-    },
-    {
-      "displayed": "PlayerFigure_Brown",
-      "normalized": "playerfigure_brown"
-    },
-    {
-      "displayed": "PlayerFigure_Blue",
-      "normalized": "playerfigure_blue"
-    },
-    {
-      "displayed": "PlayerFigure_Green",
-      "normalized": "playerfigure_green"
-    },
-    {
-      "displayed": "PlayerFigure_Orange",
-      "normalized": "playerfigure_orange"
+      "displayed": "HorseTile",
+      "normalized": "horsetile"
     },
     {
       "displayed": "FlowerBowl",
@@ -989,288 +637,16 @@
       "normalized": "flowerbowl_orange"
     },
     {
-      "displayed": "FlowerToken",
-      "normalized": "flowertoken"
-    },
-    {
-      "displayed": "FlowerToken_White",
-      "normalized": "flowertoken_white"
-    },
-    {
       "displayed": "FlowerBowl_Yellow",
       "normalized": "flowerbowl_yellow"
-    },
-    {
-      "displayed": "FlowerToken_Orange",
-      "normalized": "flowertoken_orange"
     },
     {
       "displayed": "FlowerBowl_Red",
       "normalized": "flowerbowl_red"
     },
     {
-      "displayed": "FlowerToken_Yellow",
-      "normalized": "flowertoken_yellow"
-    },
-    {
       "displayed": "FlowerBowl_Blue",
       "normalized": "flowerbowl_blue"
-    },
-    {
-      "displayed": "FlowerToken_Red",
-      "normalized": "flowertoken_red"
-    },
-    {
-      "displayed": "FlowerToken_Blue",
-      "normalized": "flowertoken_blue"
-    },
-    {
-      "displayed": "CardStandDisplay",
-      "normalized": "cardstanddisplay"
-    },
-    {
-      "displayed": "IntroPlayer",
-      "normalized": "introplayer"
-    },
-    {
-      "displayed": "PlayerDeck_Orange",
-      "normalized": "playerdeck_orange"
-    },
-    {
-      "displayed": "Story_Service",
-      "normalized": "story_service"
-    },
-    {
-      "displayed": "StoryBox",
-      "normalized": "storybox"
-    },
-    {
-      "displayed": "StoryBox_Service",
-      "normalized": "storybox_service"
-    },
-    {
-      "displayed": "Story_Ashes",
-      "normalized": "story_ashes"
-    },
-    {
-      "displayed": "StoryBox_Ashes",
-      "normalized": "storybox_ashes"
-    },
-    {
-      "displayed": "Story_Siege",
-      "normalized": "story_siege"
-    },
-    {
-      "displayed": "StoryBox_Siege",
-      "normalized": "storybox_siege"
-    },
-    {
-      "displayed": "Story_Neuhof",
-      "normalized": "story_neuhof"
-    },
-    {
-      "displayed": "Story_Plague",
-      "normalized": "story_plague"
-    },
-    {
-      "displayed": "Story_Bandit",
-      "normalized": "story_bandit"
-    },
-    {
-      "displayed": "StoryBox_Neuhof",
-      "normalized": "storybox_neuhof"
-    },
-    {
-      "displayed": "StoryBox_Scattered",
-      "normalized": "storybox_scattered"
-    },
-    {
-      "displayed": "StoryBox_Rope",
-      "normalized": "storybox_rope"
-    },
-    {
-      "displayed": "StoryBox_Plague",
-      "normalized": "storybox_plague"
-    },
-    {
-      "displayed": "StoryBox_Bandit",
-      "normalized": "storybox_bandit"
-    },
-    {
-      "displayed": "StoryBox_Miracles",
-      "normalized": "storybox_miracles"
-    },
-    {
-      "displayed": "Story_Rope",
-      "normalized": "story_rope"
-    },
-    {
-      "displayed": "Story_Scattered",
-      "normalized": "story_scattered"
-    },
-    {
-      "displayed": "Story_Charlatan",
-      "normalized": "story_charlatan"
-    },
-    {
-      "displayed": "Story_Heinz",
-      "normalized": "story_heinz"
-    },
-    {
-      "displayed": "Story_Miracles",
-      "normalized": "story_miracles"
-    },
-    {
-      "displayed": "Story_Cuman",
-      "normalized": "story_cuman"
-    },
-    {
-      "displayed": "HenryCard",
-      "normalized": "henrycard"
-    },
-    {
-      "displayed": "Story_LocalOpp",
-      "normalized": "story_localopp"
-    },
-    {
-      "displayed": "Story_Solo",
-      "normalized": "story_solo"
-    },
-    {
-      "displayed": "StoryBox_Cuman",
-      "normalized": "storybox_cuman"
-    },
-    {
-      "displayed": "StoryBox_Solo",
-      "normalized": "storybox_solo"
-    },
-    {
-      "displayed": "ShieldBowl",
-      "normalized": "shieldbowl"
-    },
-    {
-      "displayed": "ShieldToken",
-      "normalized": "shieldtoken"
-    },
-    {
-      "displayed": "DayToken",
-      "normalized": "daytoken"
-    },
-    {
-      "displayed": "InnQuestCard",
-      "normalized": "innquestcard"
-    },
-    {
-      "displayed": "MushroomBowl",
-      "normalized": "mushroombowl"
-    },
-    {
-      "displayed": "SmallBox",
-      "normalized": "smallbox"
-    },
-    {
-      "displayed": "SmallBox_Lids",
-      "normalized": "smallbox_lids"
-    },
-    {
-      "displayed": "SmallBox_Knives",
-      "normalized": "smallbox_knives"
-    },
-    {
-      "displayed": "SmallBox_Refresh",
-      "normalized": "smallbox_refresh"
-    },
-    {
-      "displayed": "SmallBox_Quests",
-      "normalized": "smallbox_quests"
-    },
-    {
-      "displayed": "SmallBox_InnQuests",
-      "normalized": "smallbox_innquests"
-    },
-    {
-      "displayed": "SmallBox_Entrances",
-      "normalized": "smallbox_entrances"
-    },
-    {
-      "displayed": "SmallBox_Portraits",
-      "normalized": "smallbox_portraits"
-    },
-    {
-      "displayed": "SmallBox_BasicSkills",
-      "normalized": "smallbox_basicskills"
-    },
-    {
-      "displayed": "SmallBox_GuardTracks",
-      "normalized": "smallbox_guardtracks"
-    },
-    {
-      "displayed": "SmallBox_Trainers",
-      "normalized": "smallbox_trainers"
-    },
-    {
-      "displayed": "SmallBox_CharCards",
-      "normalized": "smallbox_charcards"
-    },
-    {
-      "displayed": "SmallBox_Spawn",
-      "normalized": "smallbox_spawn"
-    },
-    {
-      "displayed": "StoryCardBox",
-      "normalized": "storycardbox"
-    },
-    {
-      "displayed": "SmallBox_LocalOpp",
-      "normalized": "smallbox_localopp"
-    },
-    {
-      "displayed": "SmallBox_StorySasau",
-      "normalized": "smallbox_storysasau"
-    },
-    {
-      "displayed": "SmallBox_StoryTalmberg",
-      "normalized": "smallbox_storytalmberg"
-    },
-    {
-      "displayed": "SmallBox_StoryRattay",
-      "normalized": "smallbox_storyrattay"
-    },
-    {
-      "displayed": "TrashBin",
-      "normalized": "trashbin"
-    },
-    {
-      "displayed": "TrashBin_Brown",
-      "normalized": "trashbin_brown"
-    },
-    {
-      "displayed": "TrashBin_Blue",
-      "normalized": "trashbin_blue"
-    },
-    {
-      "displayed": "TrashBin_Green",
-      "normalized": "trashbin_green"
-    },
-    {
-      "displayed": "TrashBin_Orange",
-      "normalized": "trashbin_orange"
-    },
-    {
-      "displayed": "MarksBowl",
-      "normalized": "marksbowl"
-    },
-    {
-      "displayed": "MarksBowl_Rattay",
-      "normalized": "marksbowl_rattay"
-    },
-    {
-      "displayed": "MarksBowl_Talmberg",
-      "normalized": "marksbowl_talmberg"
-    },
-    {
-      "displayed": "MarksBowl_Sasau",
-      "normalized": "marksbowl_sasau"
     },
     {
       "displayed": "Mark",
@@ -1281,312 +657,252 @@
       "normalized": "mark_rattay"
     },
     {
-      "displayed": "Mark_Talmberg",
-      "normalized": "mark_talmberg"
-    },
-    {
-      "displayed": "Mark_Sasau",
-      "normalized": "mark_sasau"
-    },
-    {
-      "displayed": "LoadTest",
-      "normalized": "loadtest"
-    },
-    {
       "displayed": "Storybook",
       "normalized": "storybook"
-    },
-    {
-      "displayed": "UploadHelper",
-      "normalized": "uploadhelper"
-    },
-    {
-      "displayed": "SpawnDeckCuman",
-      "normalized": "spawndeckcuman"
-    },
-    {
-      "displayed": "CubeBowl",
-      "normalized": "cubebowl"
-    },
-    {
-      "displayed": "CubeBowl_Blue",
-      "normalized": "cubebowl_blue"
-    },
-    {
-      "displayed": "CubeBowl_Green",
-      "normalized": "cubebowl_green"
-    },
-    {
-      "displayed": "CubeBowl_Orange",
-      "normalized": "cubebowl_orange"
-    },
-    {
-      "displayed": "CubeBowl_Brown",
-      "normalized": "cubebowl_brown"
-    },
-    {
-      "displayed": "PlaceKit",
-      "normalized": "placekit"
     },
     {
       "displayed": "CardStandBoard",
       "normalized": "cardstandboard"
     },
     {
-      "displayed": "BtnTest",
-      "normalized": "btntest"
+      "displayed": "AdvancedSkillDeck_Red",
+      "normalized": "advancedskilldeck_red"
     },
     {
-      "displayed": "MoneyBowlTest",
-      "normalized": "moneybowltest"
+      "displayed": "AdvancedSkill_Red",
+      "normalized": "advancedskill_red"
     },
     {
-      "displayed": "PlayerTray",
-      "normalized": "playertray"
+      "displayed": "AdvancedSkillDeck_Green",
+      "normalized": "advancedskilldeck_green"
     },
     {
-      "displayed": "PlayerTray_Blue",
-      "normalized": "playertray_blue"
+      "displayed": "AdvancedSkill_Green",
+      "normalized": "advancedskill_green"
     },
     {
-      "displayed": "TableFrame",
-      "normalized": "tableframe"
+      "displayed": "AdvancedSkillDeck_Brown",
+      "normalized": "advancedskilldeck_brown"
     },
     {
-      "displayed": "PlayerTray_Brown",
-      "normalized": "playertray_brown"
+      "displayed": "AdvancedSkill_Brown",
+      "normalized": "advancedskill_brown"
     },
     {
-      "displayed": "PlayerTray_Green",
-      "normalized": "playertray_green"
+      "displayed": "AdvancedSkillDeck_Blue",
+      "normalized": "advancedskilldeck_blue"
     },
     {
-      "displayed": "PlayerTray_Orange",
-      "normalized": "playertray_orange"
+      "displayed": "AdvancedSkill_Blue",
+      "normalized": "advancedskill_blue"
     },
     {
-      "displayed": "CoinCountZone",
-      "normalized": "coincountzone"
+      "displayed": "EnemyBox",
+      "normalized": "enemybox"
     },
     {
-      "displayed": "CoinCountZone_Blue",
-      "normalized": "coincountzone_blue"
+      "displayed": "EnemyBox_bandit",
+      "normalized": "enemybox_bandit"
     },
     {
-      "displayed": "CoinCountZone_Brown",
-      "normalized": "coincountzone_brown"
+      "displayed": "EnemyBox_raubritter",
+      "normalized": "enemybox_raubritter"
     },
     {
-      "displayed": "CoinCountZone_Green",
-      "normalized": "coincountzone_green"
+      "displayed": "EnemyBox_cuman",
+      "normalized": "enemybox_cuman"
     },
     {
-      "displayed": "CoinCountZone_Orange",
-      "normalized": "coincountzone_orange"
+      "displayed": "GuardTokenBox",
+      "normalized": "guardtokenbox"
     },
     {
-      "displayed": "SpawnCardCuman",
-      "normalized": "spawncardcuman"
+      "displayed": "AnimalBox",
+      "normalized": "animalbox"
     },
     {
-      "displayed": "SlotWeapon",
-      "normalized": "slotweapon"
+      "displayed": "HerbBox",
+      "normalized": "herbbox"
     },
     {
-      "displayed": "SlotBow",
-      "normalized": "slotbow"
+      "displayed": "AdvancedSkill",
+      "normalized": "advancedskill"
     },
     {
-      "displayed": "SlotHead",
-      "normalized": "slothead"
+      "displayed": "TimeBoard",
+      "normalized": "timeboard"
     },
     {
-      "displayed": "SlotChest",
-      "normalized": "slotchest"
+      "displayed": "DayToken",
+      "normalized": "daytoken"
     },
     {
-      "displayed": "SlotLegs",
-      "normalized": "slotlegs"
+      "displayed": "SunToken",
+      "normalized": "suntoken"
     },
     {
-      "displayed": "CardNamer",
-      "normalized": "cardnamer"
+      "displayed": "InnQuestCard",
+      "normalized": "innquestcard"
     },
     {
-      "displayed": "CardNamerSource",
-      "normalized": "cardnamersource"
+      "displayed": "Set17Card",
+      "normalized": "set17card"
     },
     {
-      "displayed": "CardNamerEdit",
-      "normalized": "cardnameredit"
+      "displayed": "Set16Card",
+      "normalized": "set16card"
     },
     {
-      "displayed": "CardNamerDone",
-      "normalized": "cardnamerdone"
+      "displayed": "WoundDeck",
+      "normalized": "wounddeck"
     },
     {
-      "displayed": "TableMenu",
-      "normalized": "tablemenu"
+      "displayed": "PortraitTile",
+      "normalized": "portraittile"
     },
     {
-      "displayed": "FrameExtender",
-      "normalized": "frameextender"
+      "displayed": "SmallBox",
+      "normalized": "smallbox"
     },
     {
-      "displayed": "TableFrameRim",
-      "normalized": "tableframerim"
+      "displayed": "SmallBox_LocalOpp",
+      "normalized": "smallbox_localopp"
     },
     {
-      "displayed": "TableFrameRim_South",
-      "normalized": "tableframerim_south"
+      "displayed": "StoryCardBox",
+      "normalized": "storycardbox"
     },
     {
-      "displayed": "TableFrameRim_North",
-      "normalized": "tableframerim_north"
+      "displayed": "StoryBox",
+      "normalized": "storybox"
     },
     {
-      "displayed": "TavernTable",
-      "normalized": "taverntable"
+      "displayed": "StoryBox_Cuman",
+      "normalized": "storybox_cuman"
+    },
+    {
+      "displayed": "SpawnCard",
+      "normalized": "spawncard"
+    },
+    {
+      "displayed": "SpawnCard_S",
+      "normalized": "spawncard_s"
+    },
+    {
+      "displayed": "SmallBox_Lids",
+      "normalized": "smallbox_lids"
+    },
+    {
+      "displayed": "StoryBox_Ashes",
+      "normalized": "storybox_ashes"
+    },
+    {
+      "displayed": "StoryBox_Siege",
+      "normalized": "storybox_siege"
+    },
+    {
+      "displayed": "StoryBox_Scattered",
+      "normalized": "storybox_scattered"
+    },
+    {
+      "displayed": "StoryBox_Bandit",
+      "normalized": "storybox_bandit"
+    },
+    {
+      "displayed": "StoryBox_Rope",
+      "normalized": "storybox_rope"
+    },
+    {
+      "displayed": "StoryBox_Plague",
+      "normalized": "storybox_plague"
+    },
+    {
+      "displayed": "SpawnCard_12",
+      "normalized": "spawncard_12"
+    },
+    {
+      "displayed": "StartingPlayerToken",
+      "normalized": "startingplayertoken"
+    },
+    {
+      "displayed": "SmallBox_StorySasau",
+      "normalized": "smallbox_storysasau"
+    },
+    {
+      "displayed": "StoryBox_Service",
+      "normalized": "storybox_service"
+    },
+    {
+      "displayed": "StoryBox_Neuhof",
+      "normalized": "storybox_neuhof"
+    },
+    {
+      "displayed": "StoryBox_Miracles",
+      "normalized": "storybox_miracles"
+    },
+    {
+      "displayed": "SmallBox_StoryTalmberg",
+      "normalized": "smallbox_storytalmberg"
+    },
+    {
+      "displayed": "SmallBox_StoryRattay",
+      "normalized": "smallbox_storyrattay"
+    },
+    {
+      "displayed": "SpawnCard_34",
+      "normalized": "spawncard_34"
+    },
+    {
+      "displayed": "StoryBox_Solo",
+      "normalized": "storybox_solo"
+    },
+    {
+      "displayed": "Set13Card",
+      "normalized": "set13card"
+    },
+    {
+      "displayed": "ShieldToken",
+      "normalized": "shieldtoken"
+    },
+    {
+      "displayed": "IntroPlayer",
+      "normalized": "introplayer"
+    },
+    {
+      "displayed": "CardStandDisplay",
+      "normalized": "cardstanddisplay"
     },
     {
       "displayed": "MapOverlayButton",
       "normalized": "mapoverlaybutton"
     },
     {
-      "displayed": "InventoryRed_Blue",
-      "normalized": "inventoryred_blue"
-    },
-    {
-      "displayed": "InventoryRed_Brown",
-      "normalized": "inventoryred_brown"
-    },
-    {
-      "displayed": "InventoryRed_Green",
-      "normalized": "inventoryred_green"
-    },
-    {
-      "displayed": "InventoryRed_Orange",
-      "normalized": "inventoryred_orange"
-    },
-    {
-      "displayed": "GrooveFloor",
-      "normalized": "groovefloor"
-    },
-    {
-      "displayed": "GrooveFloor_Blue",
-      "normalized": "groovefloor_blue"
-    },
-    {
-      "displayed": "GrooveFloor_Brown",
-      "normalized": "groovefloor_brown"
-    },
-    {
-      "displayed": "GrooveFloor_Green",
-      "normalized": "groovefloor_green"
-    },
-    {
-      "displayed": "GrooveFloor_Orange",
-      "normalized": "groovefloor_orange"
-    },
-    {
-      "displayed": "GrooveCubeTool",
-      "normalized": "groovecubetool"
-    },
-    {
       "displayed": "TrayGrid",
       "normalized": "traygrid"
-    },
-    {
-      "displayed": "TrayGrid_Blue",
-      "normalized": "traygrid_blue"
-    },
-    {
-      "displayed": "TrayGrid_Brown",
-      "normalized": "traygrid_brown"
-    },
-    {
-      "displayed": "TrayGrid_Green",
-      "normalized": "traygrid_green"
-    },
-    {
-      "displayed": "TrayGrid_Orange",
-      "normalized": "traygrid_orange"
     },
     {
       "displayed": "TrayGrid_Middle",
       "normalized": "traygrid_middle"
     },
     {
-      "displayed": "TrayMargin_Middle",
-      "normalized": "traymargin_middle"
+      "displayed": "SmallBox_Refresh",
+      "normalized": "smallbox_refresh"
     },
     {
-      "displayed": "EncounterController",
-      "normalized": "encountercontroller"
+      "displayed": "SmallBox_Entrances",
+      "normalized": "smallbox_entrances"
     },
     {
-      "displayed": "ScorePadController",
-      "normalized": "scorepadcontroller"
+      "displayed": "SmallBox_Portraits",
+      "normalized": "smallbox_portraits"
     },
     {
-      "displayed": "WoundHalf_Blue",
-      "normalized": "woundhalf_blue"
+      "displayed": "SmallBox_GuardTracks",
+      "normalized": "smallbox_guardtracks"
     },
     {
-      "displayed": "WoundHalf_Orange",
-      "normalized": "woundhalf_orange"
-    },
-    {
-      "displayed": "WoundHalf_Green",
-      "normalized": "woundhalf_green"
-    },
-    {
-      "displayed": "WoundHalf_Brown",
-      "normalized": "woundhalf_brown"
-    },
-    {
-      "displayed": "RoadEventTile",
-      "normalized": "roadeventtile"
-    },
-    {
-      "displayed": "PlayerDeck_Blue",
-      "normalized": "playerdeck_blue"
-    },
-    {
-      "displayed": "CardFrames",
-      "normalized": "cardframes"
-    },
-    {
-      "displayed": "Sharpenable",
-      "normalized": "sharpenable"
-    },
-    {
-      "displayed": "HorseSlot",
-      "normalized": "horseslot"
-    },
-    {
-      "displayed": "HorseMedium",
-      "normalized": "horsemedium"
-    },
-    {
-      "displayed": "HorseInventory",
-      "normalized": "horseinventory"
-    },
-    {
-      "displayed": "EquipSlot_D",
-      "normalized": "equipslot_d"
-    },
-    {
-      "displayed": "EquipSlot_A",
-      "normalized": "equipslot_a"
-    },
-    {
-      "displayed": "EquipSlot_C",
-      "normalized": "equipslot_c"
-    },
-    {
-      "displayed": "Noninteractable",
-      "normalized": "noninteractable"
+      "displayed": "SmallBox_Trainers",
+      "normalized": "smallbox_trainers"
     }
   ]
 }

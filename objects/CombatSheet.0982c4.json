@@ -44,17 +44,17 @@
     "PlayerSheet",
     "PlayerSheet_Orange"
   ],
-  "Tooltip": true,
+  "Tooltip": false,
   "Transform": {
-    "posX": 110.31,
-    "posY": 1.031,
-    "posZ": -12.899,
-    "rotX": 0,
+    "posX": 31.039,
+    "posY": 13.791,
+    "posZ": 62.727,
+    "rotX": 60,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 8.77,
+    "scaleX": 10,
     "scaleY": 1,
-    "scaleZ": 8.77
+    "scaleZ": 10
   },
   "Value": 0,
   "XmlUI": ""

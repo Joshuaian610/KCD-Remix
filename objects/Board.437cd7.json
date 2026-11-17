@@ -1,0 +1,68 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": false,
+  "ColorDiffuse": {
+    "b": 0.1202,
+    "g": 0.1202,
+    "r": 0.1202
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/868496425808310268/383523E82AF9E082DDB776F54C025C71A30E098F/",
+    "NormalURL": "",
+    "TypeIndex": 4
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "437cd7",
+  "Grid": false,
+  "GridProjection": true,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScriptState": "",
+  "LuaScript_path": "Board.437cd7.ttslua",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Board",
+  "PhysicsMaterial": {
+    "BounceCombine": 0,
+    "Bounciness": 0,
+    "DynamicFriction": 0.6,
+    "FrictionCombine": 0,
+    "StaticFriction": 0.6
+  },
+  "Rigidbody": {
+    "AngularDrag": 10000000000000,
+    "Drag": 1000000000000,
+    "Mass": 1.75,
+    "UseGravity": false
+  },
+  "Snap": false,
+  "Sticky": true,
+  "Tooltip": false,
+  "Transform": {
+    "posX": -0.001,
+    "posY": -10.13,
+    "posZ": 0,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 8.05,
+    "scaleY": 1,
+    "scaleZ": 8.25
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

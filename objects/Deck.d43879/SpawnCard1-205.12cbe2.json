@@ -1,0 +1,62 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 701209,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "7012": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18155527083931925495/0D90FAA98556E574E3EF122AD01B96BB6F2C0D5B/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13701869927533556700/653E4E6B2FB405501552366A3F676165F90DC359/",
+      "NumHeight": 4,
+      "NumWidth": 5,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "12cbe2",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Spawn Card 1-2 05",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "SpawnCard",
+    "SpawnCard_12"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -109.08,
+    "posY": 1.045,
+    "posZ": 32.691,
+    "rotX": 0,
+    "rotY": 90,
+    "rotZ": 180,
+    "scaleX": 2.21,
+    "scaleY": 1,
+    "scaleZ": 2.21
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

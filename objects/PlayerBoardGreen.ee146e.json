@@ -983,22 +983,6 @@
     },
     {
       "Position": {
-        "x": -0.124,
-        "y": 0.157,
-        "z": -0.738
-      },
-      "Rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "Tags": [
-        "Weapon_Green",
-        "SlotWeapon"
-      ]
-    },
-    {
-      "Position": {
         "x": -1.832,
         "y": 0.157,
         "z": -0.74
@@ -1386,8 +1370,8 @@
       },
       "Tags": [
         "Tile",
-        "OverloadHalf_Green",
-        "AnimalTile"
+        "AnimalTile",
+        "OverloadHalf_Green"
       ]
     },
     {
@@ -1419,8 +1403,8 @@
       },
       "Tags": [
         "Tile",
-        "OverloadHalf_Green",
-        "AnimalTile"
+        "AnimalTile",
+        "OverloadHalf_Green"
       ]
     },
     {
@@ -1490,6 +1474,18 @@
         "FlowerToken",
         "InventoryRed_Green"
       ]
+    },
+    {
+      "Position": {
+        "x": -0.124,
+        "y": 0.157,
+        "z": -0.594
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
     }
   ],
   "Autoraise": true,
@@ -1552,7 +1548,7 @@
   ],
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "",
+  "GMNotes": "Green",
   "GUID": "ee146e",
   "Grid": true,
   "GridProjection": false,
@@ -1573,14 +1569,14 @@
   ],
   "Tooltip": false,
   "Transform": {
-    "posX": -113.85,
-    "posY": 1.031,
-    "posZ": -49.46,
+    "posX": -68.001,
+    "posY": 1.203,
+    "posZ": -31,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.18,
-    "scaleY": 2.18,
+    "scaleY": 5,
     "scaleZ": 2.18
   },
   "Value": 0,

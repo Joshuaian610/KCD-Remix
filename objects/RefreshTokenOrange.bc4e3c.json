@@ -6,15 +6,15 @@
   },
   "Autoraise": true,
   "ColorDiffuse": {
-    "b": 1,
-    "g": 1,
-    "r": 1
+    "b": 0.113,
+    "g": 0.392,
+    "r": 0.956
   },
   "CustomImage": {
     "CustomTile": {
       "Stackable": false,
       "Stretch": true,
-      "Thickness": 0.02,
+      "Thickness": 0.396305859,
       "Type": 2
     },
     "ImageScalar": 1,
@@ -46,9 +46,9 @@
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": 118.05,
-    "posY": 1.596,
-    "posZ": -38.231,
+    "posX": 62.445,
+    "posY": 1.206,
+    "posZ": -18.35,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

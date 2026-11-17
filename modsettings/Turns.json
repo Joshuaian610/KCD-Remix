@@ -5,11 +5,6 @@
   "Reverse": false,
   "SkipEmpty": false,
   "TurnColor": "",
-  "TurnOrder": [
-    "Green",
-    "Blue",
-    "Brown",
-    "Orange"
-  ],
-  "Type": 1
+  "TurnOrder": [],
+  "Type": 0
 }

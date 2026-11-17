@@ -1,13 +1,13 @@
 {
   "BothSnapping": false,
   "Color": {
-    "b": 0,
-    "g": 0,
-    "r": 0
+    "b": 0.5,
+    "g": 0.5,
+    "r": 0.5
   },
   "Lines": false,
   "Offset": false,
-  "Opacity": 0.75,
+  "Opacity": 0.0103443451,
   "PosOffset": {
     "x": 0,
     "y": 1,

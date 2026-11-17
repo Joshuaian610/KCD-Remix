@@ -1,0 +1,51 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.78676,
+    "g": 0.78676,
+    "r": 0.78676
+  },
+  "CustomImage": {
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/11794560215126791234/B07D70E30F8AD67FBAD0C21FD53A2287B53907A7/",
+    "WidthScale": 1.81548822
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "2c1882",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Board",
+  "Nickname": "Main Map",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": false,
+  "Transform": {
+    "posX": 0.011,
+    "posY": 0.217,
+    "posZ": 15.5,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.79,
+    "scaleY": 1.79,
+    "scaleZ": 1.79
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

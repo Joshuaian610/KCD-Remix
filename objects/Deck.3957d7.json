@@ -120,12 +120,12 @@
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -50.39,
-    "posY": 1.251,
-    "posZ": 27.981,
+    "posX": -114.69,
+    "posY": 1.863,
+    "posZ": 25.156,
     "rotX": 0,
-    "rotY": 90,
-    "rotZ": 180,
+    "rotY": 180,
+    "rotZ": 0,
     "scaleX": 2.3,
     "scaleY": 1,
     "scaleZ": 2.3

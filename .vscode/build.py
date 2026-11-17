@@ -7,7 +7,7 @@ from pathlib import Path
 import pyautogui
 import pygetwindow
 
-GAME_NAME = "ST CC"
+GAME_NAME = "KCD-Remix"
 
 
 def get_current_git_branch():
@@ -123,8 +123,8 @@ def main():
             main_window.activate()
             time.sleep(0.5)  # Give the OS time to switch focus
 
-            # Requires setup in TTS (Autoexec.cfg: bind f16 load "SWDBG")
-            pyautogui.hotkey("f21")
+            # Requires setup in TTS (Autoexec.cfg: bind f23 load "KCD-Remix")
+            pyautogui.hotkey("f23")
 
 
 if __name__ == "__main__":

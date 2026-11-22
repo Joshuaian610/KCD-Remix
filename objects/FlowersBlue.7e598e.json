@@ -5,33 +5,11 @@
     "z": 0
   },
   "Autoraise": true,
-  "Bag": {
-    "Order": 0
-  },
   "ColorDiffuse": {
     "b": 1,
     "g": 1,
     "r": 1
   },
-  "ContainedObjects_order": [
-    "FlowerTokenBlue.e1bad5",
-    "FlowerTokenBlue.c0b40e",
-    "FlowerTokenBlue.7efbba",
-    "FlowerTokenBlue.e141fe",
-    "FlowerTokenBlue.003745",
-    "FlowerTokenBlue.b7c3dc",
-    "FlowerTokenBlue.aa1e02",
-    "FlowerTokenBlue.8b5f09",
-    "FlowerTokenBlue.665988",
-    "FlowerTokenBlue.88172d",
-    "FlowerTokenBlue.cee2c5",
-    "FlowerTokenBlue.999926",
-    "FlowerTokenBlue.23d42e",
-    "FlowerTokenBlue.ba457a",
-    "FlowerTokenBlue.6bfa28",
-    "FlowerTokenBlue.bca175"
-  ],
-  "ContainedObjects_path": "FlowersBlue.7e598e",
   "CustomMesh": {
     "CastShadows": true,
     "ColliderURL": "",
@@ -40,7 +18,7 @@
     "MaterialIndex": 1,
     "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/17140723385415109819/9D85D6042CD9DAA6523994B360C336E91749330B/",
     "NormalURL": "",
-    "TypeIndex": 6
+    "TypeIndex": 7
   },
   "Description": "",
   "DragSelectable": true,
@@ -58,19 +36,16 @@
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "MeshIndex": -1,
-  "Name": "Custom_Model_Bag",
+  "Name": "Custom_Model_Infinite_Bag",
   "Nickname": "Flowers (Blue)",
+  "Number": 2,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "FlowerBowl",
-    "FlowerBowl_Blue"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 66.295,
-    "posY": 2.672,
-    "posZ": -2.639,
+    "posX": -39.144,
+    "posY": 0.51,
+    "posZ": -7.594,
     "rotX": 0,
     "rotY": 0,
     "rotZ": 0,

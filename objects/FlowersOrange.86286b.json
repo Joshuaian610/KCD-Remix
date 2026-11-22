@@ -5,31 +5,13 @@
     "z": 0
   },
   "Autoraise": true,
-  "Bag": {
-    "Order": 0
-  },
   "ColorDiffuse": {
     "b": 1,
     "g": 1,
     "r": 1
   },
   "ContainedObjects_order": [
-    "FlowerTokenOrange.55c58e",
-    "FlowerTokenOrange.4ea1e6",
-    "FlowerTokenOrange.0c8b8a",
-    "FlowerTokenOrange.8e661d",
-    "FlowerTokenOrange.82c25f",
-    "FlowerTokenOrange.1f61c2",
-    "FlowerTokenOrange.dcedb2",
-    "FlowerTokenOrange.d03773",
-    "FlowerTokenOrange.a2b8d9",
-    "FlowerTokenOrange.7d0629",
-    "FlowerTokenOrange.ab60ac",
-    "FlowerTokenOrange.462632",
-    "FlowerTokenOrange.860bff",
-    "FlowerTokenOrange.7f4a47",
-    "FlowerTokenOrange.d94505",
-    "FlowerTokenOrange.c367bb"
+    "FlowerTokenOrange.5a81ae"
   ],
   "ContainedObjects_path": "FlowersOrange.86286b",
   "CustomMesh": {
@@ -40,7 +22,7 @@
     "MaterialIndex": 1,
     "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10573447040153303357/DE623C0800294B30D83ED04D51D4A5DBE5D81D1F/",
     "NormalURL": "",
-    "TypeIndex": 6
+    "TypeIndex": 7
   },
   "Description": "",
   "DragSelectable": true,
@@ -58,19 +40,15 @@
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "MeshIndex": -1,
-  "Name": "Custom_Model_Bag",
+  "Name": "Custom_Model_Infinite_Bag",
   "Nickname": "Flowers (Orange)",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "FlowerBowl",
-    "FlowerBowl_Orange"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 66.308,
-    "posY": 2.672,
-    "posZ": 9.438,
+    "posX": -39.146,
+    "posY": 0.51,
+    "posZ": 4.483,
     "rotX": 0,
     "rotY": 0,
     "rotZ": 0,

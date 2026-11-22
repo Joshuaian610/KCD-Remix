@@ -135,14 +135,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ItemArmor"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 39.542,
-    "posY": 1.967,
-    "posZ": 6.032,
+    "posX": -66.298,
+    "posY": 1.804,
+    "posZ": 0.858,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

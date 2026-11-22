@@ -38,17 +38,12 @@
   "Nickname": "Herbs",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "HerbTile",
-    "HerbTile_unknown",
-    "RoadEventTile"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -48.202,
-    "posY": 2.82,
-    "posZ": -28.288,
-    "rotX": 2,
+    "posX": 36.956,
+    "posY": 1.762,
+    "posZ": 29.111,
+    "rotX": 0,
     "rotY": 180,
     "rotZ": 180,
     "scaleX": 2.5,

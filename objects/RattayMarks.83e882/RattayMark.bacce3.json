@@ -38,10 +38,7 @@
   "Nickname": "Rattay Mark",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Mark",
-    "Mark_Rattay"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
     "posX": 14.003,

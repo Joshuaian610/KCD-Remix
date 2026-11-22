@@ -1,0 +1,55 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/17301587930057390194/1B467779A3A3F737C4E67F8573C3F7B1258C22BA/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/14849183456360608527/DB5D995EB7BEA6CE183E580822310A86BBAFFC31/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Brown",
+  "GUID": "a79af3",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "{\"down\":false,\"yaw\":60}",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Meeting Tile",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 11.13,
+    "posY": 0.76,
+    "posZ": -22.391,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 2.44,
+    "scaleY": 0.98,
+    "scaleZ": 2.44
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

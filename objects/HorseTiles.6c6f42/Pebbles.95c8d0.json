@@ -17,8 +17,7 @@
         "z": 0
       },
       "Tags": [
-        "ItemCard",
-        "HorseSlot"
+        "ItemCard"
       ]
     },
     {
@@ -33,9 +32,7 @@
         "z": 0
       },
       "Tags": [
-        "Tile",
-        "AnimalTile",
-        "HorseMedium"
+        "AnimalTile"
       ]
     },
     {
@@ -50,9 +47,7 @@
         "z": 0
       },
       "Tags": [
-        "Tile",
-        "AnimalTile",
-        "HorseMedium"
+        "AnimalTile"
       ]
     },
     {
@@ -67,10 +62,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -85,10 +77,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -103,10 +92,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -121,10 +107,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -139,8 +122,7 @@
         "z": 0
       },
       "Tags": [
-        "ItemCard",
-        "HorseSlot"
+        "ItemCard"
       ]
     },
     {
@@ -155,9 +137,7 @@
         "z": 0
       },
       "Tags": [
-        "Tile",
-        "AnimalTile",
-        "HorseMedium"
+        "AnimalTile"
       ]
     },
     {
@@ -172,9 +152,7 @@
         "z": 0
       },
       "Tags": [
-        "Tile",
-        "AnimalTile",
-        "HorseMedium"
+        "AnimalTile"
       ]
     },
     {
@@ -189,10 +167,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -207,10 +182,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -225,10 +197,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     },
     {
@@ -243,10 +212,7 @@
         "z": 0
       },
       "Tags": [
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken",
-        "HorseInventory"
+        "SmallInventory"
       ]
     }
   ],
@@ -287,9 +253,7 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "HorseTile"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
     "posX": 76.104,

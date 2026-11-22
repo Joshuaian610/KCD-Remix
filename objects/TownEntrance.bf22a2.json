@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/10794668134169689689/A662AF720E7FD1871581BE3E1EE04C5B77881604/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/13778752778911461701/229278C0EB230292DCA7337BE35654522629D135/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "bf22a2",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Town Entrance",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "TownEntrance"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 5.373,
+    "posY": 0.843,
+    "posZ": 2.311,
+    "rotX": 0,
+    "rotY": 146,
+    "rotZ": 0,
+    "scaleX": 2.5,
+    "scaleY": 1,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

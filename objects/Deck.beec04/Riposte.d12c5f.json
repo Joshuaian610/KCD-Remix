@@ -42,9 +42,7 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AdvancedSkill",
-    "AdvancedSkill_Red",
-    "CardFrames"
+    "AdvancedSkill_Red"
   ],
   "Tooltip": true,
   "Transform": {

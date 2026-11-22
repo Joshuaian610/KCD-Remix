@@ -1,0 +1,60 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.0077,
+    "g": 0.07,
+    "r": 0.03885
+  },
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.596674442,
+      "Type": 2
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/11121703395182440124/786037071B82445E0CAFD421EA756A90DDDC5A44/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/11121703395182440124/786037071B82445E0CAFD421EA756A90DDDC5A44/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Green",
+  "GUID": "324c30",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "require(\"Counters\")",
+  "LuaScriptState": "0",
+  "MeasureMovement": false,
+  "Name": "Custom_Tile",
+  "Nickname": "Groschen Counter",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -79.009,
+    "posY": 0.726,
+    "posZ": -23.745,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 2.4,
+    "scaleY": 1,
+    "scaleZ": 2.4
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

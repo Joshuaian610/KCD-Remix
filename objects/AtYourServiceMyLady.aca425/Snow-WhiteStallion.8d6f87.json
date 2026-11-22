@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Part of the 'At Your Service, My Lady' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "8d6f87",
@@ -41,18 +41,14 @@
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Set7Card",
-    "Story_Service"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 37.577,
-    "posY": 0.973,
-    "posZ": 18.29,
+    "posX": 30.156,
+    "posY": 0.621,
+    "posZ": 19.265,
     "rotX": 0,
-    "rotY": 0,
-    "rotZ": 0,
+    "rotY": 270,
+    "rotZ": 180,
     "scaleX": 1.75,
     "scaleY": 1,
     "scaleZ": 1.75

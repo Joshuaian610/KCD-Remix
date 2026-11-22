@@ -50,15 +50,15 @@
   "Sticky": true,
   "Tooltip": false,
   "Transform": {
-    "posX": -36,
+    "posX": -71.876,
     "posY": -41.99,
-    "posZ": 0,
+    "posZ": -4.918,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 2,
+    "scaleX": 2.07,
     "scaleY": 1,
-    "scaleZ": 1.84
+    "scaleZ": 2.12
   },
   "Value": 0,
   "XmlUI": ""

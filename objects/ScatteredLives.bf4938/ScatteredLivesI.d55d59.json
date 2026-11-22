@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Part of the 'Scattered Lives' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "d55d59",
@@ -41,16 +41,14 @@
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Story_Scattered"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
-    "posX": -77.75,
-    "posY": 7.986,
-    "posZ": 19.91,
+    "posX": 22.94,
+    "posY": 0.735,
+    "posZ": -7.003,
     "rotX": 0,
-    "rotY": 90,
+    "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.52,
     "scaleY": 1,

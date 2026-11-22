@@ -26,7 +26,7 @@
   "GUID": "d4bb20",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -40,16 +40,16 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "CumanTile"
+    "EnemyToken"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -43.212,
-    "posY": 3.208,
-    "posZ": -23.444,
+    "posX": 51.221,
+    "posY": 1.304,
+    "posZ": 22.378,
     "rotX": 0,
     "rotY": 180,
-    "rotZ": 179,
+    "rotZ": 180,
     "scaleX": 2.5,
     "scaleY": 1,
     "scaleZ": 2.5

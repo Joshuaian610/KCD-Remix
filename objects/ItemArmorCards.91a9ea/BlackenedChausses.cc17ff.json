@@ -44,8 +44,7 @@
   "Tags": [
     "ItemArmor",
     "ItemCard",
-    "SlotLegs",
-    "EquipSlot_D"
+    "SlotLegs"
   ],
   "Tooltip": true,
   "Transform": {

@@ -11,7 +11,7 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "Artemisia.50ff5f",
+    "Artemisia.7d8804",
     "BowmansBrew.836b55",
     "AesopPotion.294063"
   ],
@@ -53,9 +53,9 @@
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": 61.704,
-    "posY": 1.879,
-    "posZ": 5.804,
+    "posX": -44.132,
+    "posY": 1.601,
+    "posZ": 0.63,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

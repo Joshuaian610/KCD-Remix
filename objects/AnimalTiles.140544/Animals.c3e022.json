@@ -39,16 +39,15 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AnimalTile",
-    "AnimalTile_hare"
+    "AnimalTile"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -45.542,
-    "posY": 2.761,
-    "posZ": -27.744,
+    "posX": 39.82,
+    "posY": 1.761,
+    "posZ": 29.111,
     "rotX": 0,
-    "rotY": 181,
+    "rotY": 180,
     "rotZ": 180,
     "scaleX": 2.5,
     "scaleY": 1,

@@ -44,7 +44,6 @@
   "Tags": [
     "ItemCard",
     "ItemWeapon",
-    "Sharpenable",
     "SlotWeapon"
   ],
   "Tooltip": true,

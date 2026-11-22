@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Part of the 'From The Ashes' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "5b5da0",
@@ -32,7 +32,7 @@
   "HideWhenFaceDown": true,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScript": "",
   "LuaScriptState": "",
   "MeasureMovement": false,
@@ -41,16 +41,13 @@
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Story_Ashes"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -77.75,
-    "posY": 7.986,
-    "posZ": 12.73,
+    "posX": 12.79,
+    "posY": 0.735,
+    "posZ": 31.044,
     "rotX": 0,
-    "rotY": 90,
+    "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.52,
     "scaleY": 1,

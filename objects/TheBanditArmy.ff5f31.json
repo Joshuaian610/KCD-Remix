@@ -14,9 +14,9 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "TheBanditArmyII.cc3428",
-    "BanditsDie.b7f6d1",
-    "TheBanditArmyI.39e9c7"
+    "TheBanditArmyI.39e9c7",
+    "CardII.749dfd",
+    "BlockSquare.c9f75c"
   ],
   "ContainedObjects_path": "TheBanditArmy.ff5f31",
   "CustomMesh": {
@@ -40,8 +40,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "TheBanditArmy.ff5f31.luascriptstate",
+  "LuaScript_path": "TheBanditArmy.ff5f31.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-44.4,90]}",
@@ -50,21 +50,17 @@
   "Nickname": "The Bandit Army",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Bandit"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -108.615,
-    "posY": 1.697,
-    "posZ": 6.76,
+    "posX": 88.987,
+    "posY": 0.608,
+    "posZ": 11.085,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

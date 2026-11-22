@@ -1,0 +1,152 @@
+
+
+
+-- COUNTER ACTION FUNCTIONS
+function onDestroy()
+  updateSave()
+end
+
+
+function updateSave()
+  self.script_state = val
+end
+
+
+function doInitCounter()
+  initCounter(self)
+end
+
+
+function initCounter(obj)
+  local minVal = 0
+  local maxVal = 999
+
+  local counterGUID = self.getGUID()
+
+  local counterSize = "175"
+  local color = "#00000000"
+  local textColor = "#FFFFFF"
+  local fontSize = (val < 10 and "150") or (val > 9 and val < 100 and "125") or "90"
+  local rotation = "0 0 180"
+  local position = "0 0 -61"
+  local xmlTable = {
+    {
+      tag        = "Panel",
+      attributes = {
+        id       = "groschenPanel",
+        width    = counterSize,
+        height   = counterSize,
+        rotation = rotation,
+        position = position,
+        scale    = "1 1 1",
+        color    = color,
+        guid     = counterGUID,
+      },
+      children   = {
+        {
+          tag    = "Button",
+          attributes       = {
+            id             = "groschenCounter",
+            text           = tostring(val),
+            -- font           = "Global/fontMikadanRegular",
+            fontSize       = fontSize,
+            fontStyle      = "Bold",
+            color          = color,
+            textColor      = textColor,
+            onClick        = "doAddOrSubtract",
+            rectAlignment  = "MiddleCenter",
+          }
+        }
+      }
+    },
+  }
+
+  self.UI.setXmlTable(xmlTable)
+end
+
+
+function onLoad(savedData)
+  val = tonumber(savedData) or 0
+  minVal = 0
+  maxVal = 999
+  Wait.time(function()
+   initCounter(self)
+  end, 1)
+end
+
+
+function updateVal(newVal)
+    newVal = tonumber(newVal)
+    if not newVal then return end
+
+    val = math.max(minVal, math.min(maxVal, newVal))
+
+    self.UI.setAttribute("groschenCounter", "text", tostring(val))
+    local fontSize = (val < 10 and "150") or (val > 9 and val < 100 and "125") or "90"
+    self.UI.setAttribute("groschenCounter", "fontSize", fontSize)
+    local textColor = "#FFFFFF"
+    self.UI.setAttribute("groschenCounter", "textColor", textColor)
+
+    updateSave()
+end
+
+
+function doAddOrSubtract(player, value, id)
+  local clickerColor = type(player) == "string" and player or player.color
+  local altClick = value == "-2" and true or false
+  addOrSubtract(self, clickerColor, altClick)
+end
+
+
+function increaseValue(clickerColor)
+  modifyValue(1, clickerColor)
+end
+
+function addOrSubtract(button, clickerColor, isRightClick)
+  modifyValue(isRightClick and -1 or 1, clickerColor)
+end
+
+
+function modifyValue(mod, clickerColor)
+    mod = tonumber(mod)
+    if not mod then return end
+
+    local oldVal = val
+    val = tonumber(val) or 0
+    minVal = tonumber(minVal) or 0
+    maxVal = tonumber(maxVal) or 30
+
+    val = math.max(minVal, math.min(maxVal, val + mod))
+
+    self.UI.setAttribute("groschenCounter", "text", tostring(val))
+    local fontSize = (val < 10 and "150") or (val > 9 and val < 100 and "125") or "90"
+    self.UI.setAttribute("groschenCounter", "fontSize", fontSize)
+
+    local textColor = "#FFFFFF"
+    self.UI.setAttribute("groschenCounter", "textColor", textColor)
+
+    local playerStr = Global.call("getPlayerStr", self.getGMNotes())
+    local action = mod == -1 and "lost" or "gained"
+    local broadcastStr = string.format("%s has %s 1 Groschen (%d > %d).", playerStr, action, oldVal, val)
+    if action == "gained" or (action == "lost" and oldVal > 0) then
+      broadcastToAll(broadcastStr, "White")
+    end
+
+    updateSave()
+end
+
+
+function setValue(newVal)
+    newVal = tonumber(newVal)
+    if not newVal then return end
+
+    val = math.max(minVal, math.min(maxVal, newVal))
+
+    self.UI.setAttribute("groschenCounter", "text", tostring(val))
+    local fontSize = (val < 10 and "150") or (val > 9 and val < 100 and "125") or "90"
+    self.UI.setAttribute("groschenCounter", "fontSize", fontSize)
+    local textColor = "#FFFFFF"
+    self.UI.setAttribute("groschenCounter", "textColor", textColor)
+
+    updateSave()
+end

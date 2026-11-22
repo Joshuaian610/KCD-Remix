@@ -38,21 +38,17 @@
   "Nickname": "Focus Tile",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "SeatBlackTile",
-    "SeatBlackTile_Green"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -87.041,
-    "posY": 1.287,
-    "posZ": -21,
-    "rotX": 3,
+    "posX": -88.869,
+    "posY": 0.799,
+    "posZ": -24.955,
+    "rotX": 2,
     "rotY": 180,
     "rotZ": 180,
-    "scaleX": 2.5,
-    "scaleY": 1,
-    "scaleZ": 2.5
+    "scaleX": 2.44,
+    "scaleY": 0.98,
+    "scaleZ": 2.44
   },
   "Value": 0,
   "XmlUI": ""

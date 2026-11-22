@@ -94,18 +94,16 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AdvancedSkill",
-    "AdvancedSkill_Blue",
-    "CardFrames"
+    "AdvancedSkill_Blue"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -38.713,
-    "posY": 3.727,
-    "posZ": -5.92,
+    "posX": 56.745,
+    "posY": 1.81,
+    "posZ": -2.043,
     "rotX": 0,
     "rotY": 180,
-    "rotZ": 0,
+    "rotZ": 180,
     "scaleX": 2.3,
     "scaleY": 1,
     "scaleZ": 2.3

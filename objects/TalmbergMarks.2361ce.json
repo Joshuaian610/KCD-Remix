@@ -44,15 +44,11 @@
   "Nickname": "Talmberg Marks",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "MarksBowl",
-    "MarksBowl_Talmberg"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 28.999,
-    "posY": 0.607,
-    "posZ": 33.195,
+    "posX": 29,
+    "posY": 0.608,
+    "posZ": 25,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

@@ -111,14 +111,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ItemWeapon"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 39.542,
-    "posY": 1.937,
-    "posZ": -0.238,
+    "posX": -66.295,
+    "posY": 1.746,
+    "posZ": -5.414,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

@@ -1,0 +1,73 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": -0.129,
+        "y": 3.574,
+        "z": 0.134
+      },
+      "Tags": [
+        "SmallInventory"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "FlowerTokenWhite.8213d5"
+  ],
+  "ContainedObjects_path": "FlowersWhite.75b0ee",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/17235319709341354010/4833912D3C06396EAE842BBA076D114181F3775F/",
+    "MaterialIndex": 1,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/17817777144204533865/9CCA3ADF1F2DE5A29C4E744594776A5A9C7E406C/",
+    "NormalURL": "",
+    "TypeIndex": 7
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Orange",
+  "GUID": "75b0ee",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Infinite_Bag",
+  "Nickname": "Flowers (White)",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 88.729,
+    "posY": 0.724,
+    "posZ": -22.697,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.13,
+    "scaleY": 0.13,
+    "scaleZ": 0.13
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -4,6 +4,18 @@
     "y": 0,
     "z": 0
   },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": -2.431,
+        "y": 1.235,
+        "z": -0.088
+      },
+      "Tags": [
+        "SmallInventory"
+      ]
+    }
+  ],
   "Autoraise": true,
   "ColorDiffuse": {
     "b": 1,
@@ -44,20 +56,17 @@
   "Nickname": "Mushroom Tokens Bag",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "MushroomBowl"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -57.001,
-    "posY": 1.203,
-    "posZ": -19.608,
+    "posX": -58.07,
+    "posY": 0.62,
+    "posZ": -24.308,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 1,
-    "scaleY": 1,
-    "scaleZ": 1
+    "scaleX": 0.56,
+    "scaleY": 0.56,
+    "scaleZ": 0.56
   },
   "Value": 0,
   "XmlUI": ""

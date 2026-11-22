@@ -11,7 +11,7 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "LetheanWater.0101b8",
+    "LetheanWater.b8289a",
     "DollmakerPotion.f1ef31",
     "BivojsRage.76ec61"
   ],
@@ -53,9 +53,9 @@
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": 61.734,
-    "posY": 1.898,
-    "posZ": 1.638,
+    "posX": -44.1,
+    "posY": 1.601,
+    "posZ": -3.538,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

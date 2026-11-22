@@ -14,11 +14,26 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "MoneyforOldRopeToken01.c10bf4",
+    "BlockSquare.09772f",
+    "OiltoWater.0e6da2",
+    "BlockSquare.185e69",
+    "BlockSquare.23d933",
+    "BlockSquare.2c7168",
+    "BlockSquare.3cff87",
+    "BlockSquare.3d0875",
     "MoneyforOldRopeI.5e208b",
-    "MoneyforOldRopeSentenceCards.25d9ce",
     "ExecutionersSword.63c14a",
-    "MoneyforOldRopeHermannsQuests.4d190b"
+    "SabotagingtheWheel.6adfed",
+    "BlockSquare.78e928",
+    "BlockSquare.8f49f9",
+    "WeakeningtheHorses.8fa4b3",
+    "BlockSquare.a0a464",
+    "DullingtheSword.a46ca0",
+    "Deck.b0716b",
+    "ExecutorHeinz.c10bf4",
+    "BlockSquare.de4bd9",
+    "PoisoningtheTongs.e91c6b",
+    "TheRottenRope.f69acc"
   ],
   "ContainedObjects_path": "MoneyforOldRope.6b5410",
   "CustomMesh": {
@@ -31,7 +46,7 @@
     "NormalURL": "",
     "TypeIndex": 6
   },
-  "Description": "Part of the 'Money for Old Rope' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "6b5410",
@@ -42,8 +57,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "MoneyforOldRope.6b5410.luascriptstate",
+  "LuaScript_path": "MoneyforOldRope.6b5410.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-36.54,90]}",
@@ -52,21 +67,17 @@
   "Nickname": "Money for Old Rope",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Rope"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -108.615,
-    "posY": 1.697,
-    "posZ": 2.165,
+    "posX": 88.987,
+    "posY": 0.608,
+    "posZ": 17.585,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

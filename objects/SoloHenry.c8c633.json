@@ -14,18 +14,18 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "MiraclesWhileYouWaitHenry.188d81",
-    "TheBanditArmyHenry.d04203",
-    "FromtheAshesHenry.a4ab3b",
     "AtYourServiceMyLadyHenry.733c71",
-    "TheCumanMenaceHenry.cd3724",
-    "LocalOpportunityHenry.0f9cd6",
-    "SoloDeckHenry.5f2bcf",
+    "FromtheAshesHenry.a4ab3b",
+    "SiegeofTalmbergHenry.a8a046",
     "NeuhofMassacreHenry.e3b93d",
     "ScatteredLivesHenry.18aa63",
+    "MoneyforOldRopeHenry.b8a9e0",
     "PlagueInfectionHenry.e5103d",
-    "SiegeofTalmbergHenry.a8a046",
-    "MoneyforOldRopeHenry.b8a9e0"
+    "TheBanditArmyHenry.d04203",
+    "MiraclesWhileYouWaitHenry.188d81",
+    "LocalOpportunityHenry.0f9cd6",
+    "TheCumanMenaceHenry.cd3724",
+    "SoloDeckHenry.5f2bcf"
   ],
   "ContainedObjects_path": "SoloHenry.c8c633",
   "CustomMesh": {
@@ -59,15 +59,11 @@
   "Nickname": "Solo: Henry",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Solo"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -118.257,
-    "posY": 1.697,
-    "posZ": 3.364,
+    "posX": 92.737,
+    "posY": 0.608,
+    "posZ": 24.085,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

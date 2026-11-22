@@ -135,14 +135,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ItemClothing"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 39.542,
-    "posY": 2.025,
-    "posZ": -6.721,
+    "posX": -66.289,
+    "posY": 1.804,
+    "posZ": -11.897,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

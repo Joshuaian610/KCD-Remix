@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Part of the 'Neuhof Massacre' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "d5d9ef",
@@ -41,16 +41,13 @@
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Story_Neuhof"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -74.4,
-    "posY": 7.986,
-    "posZ": 19.91,
+    "posX": 28.71,
+    "posY": 0.81,
+    "posZ": 9.3,
     "rotX": 0,
-    "rotY": 90,
+    "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.52,
     "scaleY": 1,

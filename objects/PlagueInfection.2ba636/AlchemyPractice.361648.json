@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Part of the 'Plague Infection' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "361648",
@@ -41,15 +41,11 @@
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Set4Card",
-    "Story_Plague"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -41.513,
-    "posY": 1.104,
-    "posZ": -18.799,
+    "posX": -24.631,
+    "posY": 0.731,
+    "posZ": -14.013,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

@@ -41,16 +41,13 @@
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Story_Miracles"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -77.75,
-    "posY": 7.986,
-    "posZ": 16.32,
+    "posX": -12.441,
+    "posY": 0.733,
+    "posZ": -7.004,
     "rotX": 0,
-    "rotY": 90,
+    "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.52,
     "scaleY": 1,

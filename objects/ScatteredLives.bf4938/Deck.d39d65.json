@@ -1,0 +1,79 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "AvengeSkalitz.1e974f",
+    "BeggarsFeast.c8e674",
+    "BuriedProperty.29f059",
+    "AvengeSkalitz.535b6f",
+    "SpecialRemedies.3cfa1e",
+    "SpecialRemedies.c18d36",
+    "BuriedProperty.af81d4",
+    "BeggarsFeast.cf52fd"
+  ],
+  "ContainedObjects_path": "Deck.d39d65",
+  "CustomDeck": {
+    "13": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/18103644248194115879/22690803B3F4AD99B942B5FC44269FB05434D157/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18040125750713870869/42B8302C881FF56599B592A792468BE93FD4DA50/",
+      "NumHeight": 4,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "DeckIDs": [
+    1308,
+    1315,
+    1314,
+    1313,
+    1312,
+    1311,
+    1310,
+    1309
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "d39d65",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 14.792,
+    "posY": 0.777,
+    "posZ": -6.986,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

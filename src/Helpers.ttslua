@@ -1,0 +1,169 @@
+
+
+function getObjectbyName(objName)
+  -- handles the detection and return of a unique object by Name
+
+  -- objName is a stringLocked = false end
+  -- returns nil if returnObj not found or incorrect arg given, returns returnObj if successful
+
+  local returnObj = nil
+
+  if objName == nil then
+    return nil
+  end
+
+  for _, object in pairs(getObjects()) do
+    if object.getName() == objName then
+      returnObj = object
+    end
+  end
+
+  return returnObj
+end
+
+
+function getObjectbyNameAndNotes(objName, objNotes)
+  -- handles the detection and return of a unique object by Name and GMNotes
+
+  -- objName, objNotes are both strings (object.getName(), object.getGMNotes())
+  -- returns nil if returnObj not found or incorrect arg given, returns returnObj if successful
+
+  local returnObj = nil
+
+  if objName == nil or objNotes == nil then
+    return nil
+  end
+
+  for _, object in pairs(getObjects()) do
+    if object.getName() == objName and object.getGMNotes() == objNotes then
+      returnObj = object
+    end
+  end
+
+  return returnObj
+end
+
+
+function getObjectbyXandZ(objType, xAxis, zAxis)
+  -- handles the detection and return of a type of object found at a particular X & Y position in the world
+
+  -- objType is a string ("Card", "Deck", "Tile", etc)
+  -- xAxis & yAxis are integer numbers (define the point to check for the type of object)
+  -- returns nil if returnObj not found or incorrect arg given, returns returnObj if successful
+
+  local returnObj = nil
+
+  if objType == nil or xAxis == nil or zAxis == nil then
+    return nil
+  end
+
+  local tolerance = 0.50
+
+  for _, obj in pairs(getObjects()) do
+    local posObj = obj.getPosition()
+
+    if obj.type == objType and
+       math.abs(posObj[1] - xAxis) <= tolerance and
+       math.abs(posObj[3] - zAxis) <= tolerance then
+      returnObj = obj
+      break
+    end
+  end
+
+  return returnObj
+end
+
+
+function getPlayerStr(playerColor, isColored)
+  -- used in broadcasts to cleanly broadcast playerColor's steam name if player seated at color
+  -- will default to generic <color> Player if no player seated at color
+  -- isColored will default to true
+
+  -- playerColor is a string (ie: "Green", "Blue", "Brown", "Orange")
+  -- isColored is a boolean, dictates if returned string is in playerColor (true - broadcasts etc), or "White" (false - obj names, etc)
+  -- will always return either .steam_name, or, default
+
+  if playerColor == nil then return "Player" end
+  if isColored == nil then isColored = true end
+
+  local playerStr = (Player[playerColor].steam_name ~= nil) and
+                    string.format("[%s]%s[-]", isColored and Color.fromString(playerColor):toHex() or Color.fromString("White"):toHex(), Player[playerColor].steam_name) or
+                    string.format("[%s]%s[-]", isColored and Color.fromString(playerColor):toHex() or Color.fromString("White"):toHex(), playerColor .. " Player")
+
+  return playerStr
+end
+
+
+function placeObject(obj, rotObj, posObj, isSmooth, isLocked)
+  -- handles the placement of an object to rot & pos per spec
+
+  -- obj is an object (placement object)Locked = false end
+  -- rotObj & posObj are vectors (rotation & position)
+  -- isSmooth & isLocked are booleans (does object move smoothly or instantly, is it locked or not)Locked = false end
+  -- returns nil if returnObj not found or incorrect arg given, returns returnObj if successful
+
+  if obj == nil or rotObj == nil or posObj == nil then
+    return nil
+  end
+  if isSmooth == nil then isSmooth = false end
+  if isLocked == nil then isLocked = false end
+
+  obj.setRotation(rotObj)
+
+  if isSmooth then
+    obj.setPositionSmooth(posObj, false, true)
+  elseif not isSmooth then
+    obj.setPosition(posObj)
+  end
+
+  if isLocked then
+    obj.setLock(true)
+  elseif not isLocked then
+    obj.setLock(false)
+  end
+
+  return obj
+end
+
+
+function pullAndPlaceObject(containerObj, objName, rotObj, posObj, isSmooth, isLocked)
+  -- handles the pull of a uniquely named object (or the first found with unique name) from bag or deck,
+  -- then, placement of object to rot & pos per spec
+
+  -- containerObj is an object (bag/deck object)Locked = false end
+  -- objName is a string (.name field of desired pull object)Locked = false end
+  -- rotObj & posObj are vectors (rotation & position)
+  -- isSmooth & isLocked are booleans (does object move smoothly or instantly, is it locked or not)
+  -- returns nil if returnObj not found or incorrect arg given, returns returnObj if successful
+
+  local returnObj = nil
+
+  if containerObj == nil or objName == nil or rotObj == nil or posObj == nil then
+    return nil
+  end
+  if isSmooth == nil then isSmooth = false end
+  if isLocked == nil then isLocked = false end
+
+  for _, containerObject in pairs(containerObj.getObjects()) do
+    if containerObject.name == objName then
+      returnObj = containerObj.takeObject({ guid = containerObject.guid })
+    end
+  end
+  if returnObj == nil then return nil end
+
+  returnObj.setRotation(rotObj)
+
+  if isSmooth then
+    returnObj.setPositionSmooth(posObj, false, true)
+  elseif not isSmooth then
+    returnObj.setPosition(posObj)
+  end
+
+  if isLocked then
+    returnObj.setLock(true)
+  elseif not isLocked then
+    returnObj.setLock(false)
+  end
+
+  return returnObj
+end

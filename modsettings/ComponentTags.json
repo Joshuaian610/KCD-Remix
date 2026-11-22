@@ -1,908 +1,576 @@
 {
   "labels": [
     {
-      "displayed": "Noninteractable",
-      "normalized": "noninteractable"
+      "displayed": "nonInteractive",
+      "normalized": "noninteractive"
     },
     {
-      "displayed": "Trainer",
-      "normalized": "trainer"
-    },
-    {
-      "displayed": "Trainer_green",
-      "normalized": "trainer_green"
-    },
-    {
-      "displayed": "Trainer_brown",
-      "normalized": "trainer_brown"
-    },
-    {
-      "displayed": "Trainer_rainbow",
-      "normalized": "trainer_rainbow"
-    },
-    {
-      "displayed": "Trainer_blue",
-      "normalized": "trainer_blue"
-    },
-    {
-      "displayed": "PlayerFigure",
-      "normalized": "playerfigure"
-    },
-    {
-      "displayed": "PlayerFigure_Blue",
-      "normalized": "playerfigure_blue"
-    },
-    {
-      "displayed": "PlayerFigure_Orange",
-      "normalized": "playerfigure_orange"
-    },
-    {
-      "displayed": "PlayerFigure_Green",
-      "normalized": "playerfigure_green"
-    },
-    {
-      "displayed": "PlayerFigure_Brown",
-      "normalized": "playerfigure_brown"
-    },
-    {
-      "displayed": "MarksBowl",
-      "normalized": "marksbowl"
-    },
-    {
-      "displayed": "MarksBowl_Sasau",
-      "normalized": "marksbowl_sasau"
-    },
-    {
-      "displayed": "MushroomBowl",
-      "normalized": "mushroombowl"
-    },
-    {
-      "displayed": "MeatBowl",
-      "normalized": "meatbowl"
-    },
-    {
-      "displayed": "DirtBowl",
-      "normalized": "dirtbowl"
-    },
-    {
-      "displayed": "CoinBowl",
-      "normalized": "coinbowl"
-    },
-    {
-      "displayed": "MarksBowl_Rattay",
-      "normalized": "marksbowl_rattay"
-    },
-    {
-      "displayed": "ShieldBowl",
-      "normalized": "shieldbowl"
-    },
-    {
-      "displayed": "MarksBowl_Talmberg",
-      "normalized": "marksbowl_talmberg"
-    },
-    {
-      "displayed": "RefreshToken",
-      "normalized": "refreshtoken"
-    },
-    {
-      "displayed": "RefreshToken_Green",
-      "normalized": "refreshtoken_green"
-    },
-    {
-      "displayed": "CharacterCard",
-      "normalized": "charactercard"
-    },
-    {
-      "displayed": "Character_Green",
-      "normalized": "character_green"
-    },
-    {
-      "displayed": "Bed_Green",
-      "normalized": "bed_green"
-    },
-    {
-      "displayed": "Hunger_Green",
-      "normalized": "hunger_green"
-    },
-    {
-      "displayed": "Movement_Green",
-      "normalized": "movement_green"
-    },
-    {
-      "displayed": "Universal_Green",
-      "normalized": "universal_green"
-    },
-    {
-      "displayed": "Strength_Green",
-      "normalized": "strength_green"
-    },
-    {
-      "displayed": "Perception_Green",
-      "normalized": "perception_green"
-    },
-    {
-      "displayed": "Dexterity_Green",
-      "normalized": "dexterity_green"
-    },
-    {
-      "displayed": "Speech_Green",
-      "normalized": "speech_green"
-    },
-    {
-      "displayed": "Inventory_Green",
-      "normalized": "inventory_green"
-    },
-    {
-      "displayed": "MeatToken",
-      "normalized": "meattoken"
-    },
-    {
-      "displayed": "MushroomToken",
-      "normalized": "mushroomtoken"
-    },
-    {
-      "displayed": "FlowerToken",
-      "normalized": "flowertoken"
-    },
-    {
-      "displayed": "Overload_Green",
-      "normalized": "overload_green"
-    },
-    {
-      "displayed": "Head_Green",
-      "normalized": "head_green"
-    },
-    {
-      "displayed": "SlotHead",
-      "normalized": "slothead"
-    },
-    {
-      "displayed": "Chest_Green",
-      "normalized": "chest_green"
-    },
-    {
-      "displayed": "SlotChest",
-      "normalized": "slotchest"
-    },
-    {
-      "displayed": "Weapon_Green",
-      "normalized": "weapon_green"
-    },
-    {
-      "displayed": "SlotWeapon",
-      "normalized": "slotweapon"
-    },
-    {
-      "displayed": "Bow_Green",
-      "normalized": "bow_green"
-    },
-    {
-      "displayed": "SlotBow",
-      "normalized": "slotbow"
-    },
-    {
-      "displayed": "Legs_Green",
-      "normalized": "legs_green"
-    },
-    {
-      "displayed": "SlotLegs",
-      "normalized": "slotlegs"
-    },
-    {
-      "displayed": "ItemCard",
-      "normalized": "itemcard"
-    },
-    {
-      "displayed": "InventorySlot_Green",
-      "normalized": "inventoryslot_green"
-    },
-    {
-      "displayed": "OverloadSlot_Green",
-      "normalized": "overloadslot_green"
-    },
-    {
-      "displayed": "Tile",
-      "normalized": "tile"
-    },
-    {
-      "displayed": "InventoryHalf_Green",
-      "normalized": "inventoryhalf_green"
+      "displayed": "SmallInventory",
+      "normalized": "smallinventory"
     },
     {
       "displayed": "AnimalTile",
       "normalized": "animaltile"
     },
     {
+      "displayed": "ItemCard",
+      "normalized": "itemcard"
+    },
+    {
       "displayed": "WoundToken",
       "normalized": "woundtoken"
     },
     {
-      "displayed": "WoundHalf_Green",
-      "normalized": "woundhalf_green"
-    },
-    {
-      "displayed": "OverloadHalf_Green",
-      "normalized": "overloadhalf_green"
-    },
-    {
-      "displayed": "InventoryRed_Green",
-      "normalized": "inventoryred_green"
-    },
-    {
-      "displayed": "CubeBowl",
-      "normalized": "cubebowl"
-    },
-    {
-      "displayed": "CubeBowl_Green",
-      "normalized": "cubebowl_green"
-    },
-    {
-      "displayed": "PlayerTray_Green",
-      "normalized": "playertray_green"
-    },
-    {
-      "displayed": "SeatMeetingTile",
-      "normalized": "seatmeetingtile"
-    },
-    {
-      "displayed": "SeatMeetingTile_Green",
-      "normalized": "seatmeetingtile_green"
-    },
-    {
-      "displayed": "SeatBlackTile",
-      "normalized": "seatblacktile"
-    },
-    {
-      "displayed": "SeatBlackTile_Green",
-      "normalized": "seatblacktile_green"
-    },
-    {
-      "displayed": "CardFrames",
-      "normalized": "cardframes"
-    },
-    {
-      "displayed": "Set18Card",
-      "normalized": "set18card"
-    },
-    {
-      "displayed": "Character_Blue",
-      "normalized": "character_blue"
-    },
-    {
-      "displayed": "Bed_Blue",
-      "normalized": "bed_blue"
-    },
-    {
-      "displayed": "Hunger_Blue",
-      "normalized": "hunger_blue"
-    },
-    {
-      "displayed": "Movement_Blue",
-      "normalized": "movement_blue"
-    },
-    {
-      "displayed": "Universal_Blue",
-      "normalized": "universal_blue"
-    },
-    {
-      "displayed": "Strength_Blue",
-      "normalized": "strength_blue"
-    },
-    {
-      "displayed": "Perception_Blue",
-      "normalized": "perception_blue"
-    },
-    {
-      "displayed": "Dexterity_Blue",
-      "normalized": "dexterity_blue"
-    },
-    {
-      "displayed": "Speech_Blue",
-      "normalized": "speech_blue"
-    },
-    {
-      "displayed": "Inventory_Blue",
-      "normalized": "inventory_blue"
-    },
-    {
-      "displayed": "Overload_Blue",
-      "normalized": "overload_blue"
-    },
-    {
-      "displayed": "Head_Blue",
-      "normalized": "head_blue"
-    },
-    {
-      "displayed": "Chest_Blue",
-      "normalized": "chest_blue"
-    },
-    {
-      "displayed": "Weapon_Blue",
-      "normalized": "weapon_blue"
-    },
-    {
-      "displayed": "Bow_Blue",
-      "normalized": "bow_blue"
-    },
-    {
-      "displayed": "Legs_Blue",
-      "normalized": "legs_blue"
-    },
-    {
-      "displayed": "InventorySlot_Blue",
-      "normalized": "inventoryslot_blue"
-    },
-    {
-      "displayed": "OverloadSlot_Blue",
-      "normalized": "overloadslot_blue"
-    },
-    {
-      "displayed": "InventoryHalf_Blue",
-      "normalized": "inventoryhalf_blue"
-    },
-    {
-      "displayed": "WoundHalf_Blue",
-      "normalized": "woundhalf_blue"
-    },
-    {
-      "displayed": "OverloadHalf_Blue",
-      "normalized": "overloadhalf_blue"
-    },
-    {
-      "displayed": "InventoryRed_Blue",
-      "normalized": "inventoryred_blue"
-    },
-    {
-      "displayed": "CubeBowl_Blue",
-      "normalized": "cubebowl_blue"
-    },
-    {
-      "displayed": "PlayerTray_Blue",
-      "normalized": "playertray_blue"
-    },
-    {
-      "displayed": "SeatMeetingTile_Blue",
-      "normalized": "seatmeetingtile_blue"
-    },
-    {
-      "displayed": "SeatBlackTile_Blue",
-      "normalized": "seatblacktile_blue"
-    },
-    {
-      "displayed": "RefreshToken_Brown",
-      "normalized": "refreshtoken_brown"
-    },
-    {
-      "displayed": "SeatMeetingTile_Brown",
-      "normalized": "seatmeetingtile_brown"
-    },
-    {
-      "displayed": "SeatBlackTile_Brown",
-      "normalized": "seatblacktile_brown"
-    },
-    {
-      "displayed": "Character_Brown",
-      "normalized": "character_brown"
-    },
-    {
-      "displayed": "Bed_Brown",
-      "normalized": "bed_brown"
-    },
-    {
-      "displayed": "Hunger_Brown",
-      "normalized": "hunger_brown"
-    },
-    {
-      "displayed": "Movement_Brown",
-      "normalized": "movement_brown"
-    },
-    {
-      "displayed": "Universal_Brown",
-      "normalized": "universal_brown"
-    },
-    {
-      "displayed": "Strength_Brown",
-      "normalized": "strength_brown"
-    },
-    {
-      "displayed": "Perception_Brown",
-      "normalized": "perception_brown"
-    },
-    {
-      "displayed": "Dexterity_Brown",
-      "normalized": "dexterity_brown"
-    },
-    {
-      "displayed": "Speech_Brown",
-      "normalized": "speech_brown"
-    },
-    {
-      "displayed": "Inventory_Brown",
-      "normalized": "inventory_brown"
-    },
-    {
-      "displayed": "Overload_Brown",
-      "normalized": "overload_brown"
-    },
-    {
-      "displayed": "Head_Brown",
-      "normalized": "head_brown"
-    },
-    {
-      "displayed": "Chest_Brown",
-      "normalized": "chest_brown"
-    },
-    {
-      "displayed": "Weapon_Brown",
-      "normalized": "weapon_brown"
-    },
-    {
-      "displayed": "Bow_Brown",
-      "normalized": "bow_brown"
-    },
-    {
-      "displayed": "Legs_Brown",
-      "normalized": "legs_brown"
-    },
-    {
-      "displayed": "InventorySlot_Brown",
-      "normalized": "inventoryslot_brown"
-    },
-    {
-      "displayed": "OverloadSlot_Brown",
-      "normalized": "overloadslot_brown"
-    },
-    {
-      "displayed": "InventoryHalf_Brown",
-      "normalized": "inventoryhalf_brown"
-    },
-    {
-      "displayed": "WoundHalf_Brown",
-      "normalized": "woundhalf_brown"
-    },
-    {
-      "displayed": "OverloadHalf_Brown",
-      "normalized": "overloadhalf_brown"
-    },
-    {
-      "displayed": "InventoryRed_Brown",
-      "normalized": "inventoryred_brown"
-    },
-    {
-      "displayed": "CubeBowl_Brown",
-      "normalized": "cubebowl_brown"
-    },
-    {
-      "displayed": "PlayerTray_Brown",
-      "normalized": "playertray_brown"
-    },
-    {
-      "displayed": "RefreshToken_Blue",
-      "normalized": "refreshtoken_blue"
-    },
-    {
-      "displayed": "RefreshToken_Orange",
-      "normalized": "refreshtoken_orange"
-    },
-    {
-      "displayed": "SeatMeetingTile_Orange",
-      "normalized": "seatmeetingtile_orange"
-    },
-    {
-      "displayed": "SeatBlackTile_Orange",
-      "normalized": "seatblacktile_orange"
-    },
-    {
-      "displayed": "CubeBowl_Orange",
-      "normalized": "cubebowl_orange"
-    },
-    {
-      "displayed": "PlayerTray_Orange",
-      "normalized": "playertray_orange"
-    },
-    {
-      "displayed": "Speech_Orange",
-      "normalized": "speech_orange"
-    },
-    {
-      "displayed": "Dexterity_Orange",
-      "normalized": "dexterity_orange"
-    },
-    {
-      "displayed": "Perception_Orange",
-      "normalized": "perception_orange"
-    },
-    {
-      "displayed": "Strength_Orange",
-      "normalized": "strength_orange"
-    },
-    {
-      "displayed": "Universal_Orange",
-      "normalized": "universal_orange"
-    },
-    {
-      "displayed": "Bed_Orange",
-      "normalized": "bed_orange"
-    },
-    {
-      "displayed": "Hunger_Orange",
-      "normalized": "hunger_orange"
-    },
-    {
-      "displayed": "Character_Orange",
-      "normalized": "character_orange"
-    },
-    {
-      "displayed": "Movement_Orange",
-      "normalized": "movement_orange"
-    },
-    {
-      "displayed": "Inventory_Orange",
-      "normalized": "inventory_orange"
-    },
-    {
-      "displayed": "Overload_Orange",
-      "normalized": "overload_orange"
-    },
-    {
-      "displayed": "Head_Orange",
-      "normalized": "head_orange"
-    },
-    {
-      "displayed": "Chest_Orange",
-      "normalized": "chest_orange"
-    },
-    {
-      "displayed": "Weapon_Orange",
-      "normalized": "weapon_orange"
-    },
-    {
-      "displayed": "Bow_Orange",
-      "normalized": "bow_orange"
-    },
-    {
-      "displayed": "Legs_Orange",
-      "normalized": "legs_orange"
-    },
-    {
-      "displayed": "InventorySlot_Orange",
-      "normalized": "inventoryslot_orange"
-    },
-    {
-      "displayed": "OverloadSlot_Orange",
-      "normalized": "overloadslot_orange"
-    },
-    {
-      "displayed": "InventoryHalf_Orange",
-      "normalized": "inventoryhalf_orange"
-    },
-    {
-      "displayed": "WoundHalf_Orange",
-      "normalized": "woundhalf_orange"
-    },
-    {
-      "displayed": "OverloadHalf_Orange",
-      "normalized": "overloadhalf_orange"
-    },
-    {
-      "displayed": "InventoryRed_Orange",
-      "normalized": "inventoryred_orange"
-    },
-    {
-      "displayed": "PlayerSheet",
-      "normalized": "playersheet"
-    },
-    {
-      "displayed": "PlayerSheet_Orange",
-      "normalized": "playersheet_orange"
-    },
-    {
-      "displayed": "ShopBoard",
-      "normalized": "shopboard"
-    },
-    {
-      "displayed": "ItemMarket",
-      "normalized": "itemmarket"
-    },
-    {
-      "displayed": "ItemBow",
-      "normalized": "itembow"
-    },
-    {
-      "displayed": "ItemArmor",
-      "normalized": "itemarmor"
-    },
-    {
-      "displayed": "ItemWeapon",
-      "normalized": "itemweapon"
-    },
-    {
-      "displayed": "ItemClothing",
-      "normalized": "itemclothing"
-    },
-    {
-      "displayed": "HorseTile",
-      "normalized": "horsetile"
-    },
-    {
-      "displayed": "FlowerBowl",
-      "normalized": "flowerbowl"
-    },
-    {
-      "displayed": "FlowerBowl_White",
-      "normalized": "flowerbowl_white"
-    },
-    {
-      "displayed": "FlowerBowl_Orange",
-      "normalized": "flowerbowl_orange"
-    },
-    {
-      "displayed": "FlowerBowl_Yellow",
-      "normalized": "flowerbowl_yellow"
-    },
-    {
-      "displayed": "FlowerBowl_Red",
-      "normalized": "flowerbowl_red"
-    },
-    {
-      "displayed": "FlowerBowl_Blue",
-      "normalized": "flowerbowl_blue"
-    },
-    {
-      "displayed": "Mark",
-      "normalized": "mark"
-    },
-    {
-      "displayed": "Mark_Rattay",
-      "normalized": "mark_rattay"
-    },
-    {
-      "displayed": "Storybook",
-      "normalized": "storybook"
-    },
-    {
-      "displayed": "CardStandBoard",
-      "normalized": "cardstandboard"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Red",
-      "normalized": "advancedskilldeck_red"
-    },
-    {
-      "displayed": "AdvancedSkill_Red",
-      "normalized": "advancedskill_red"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Green",
-      "normalized": "advancedskilldeck_green"
-    },
-    {
-      "displayed": "AdvancedSkill_Green",
-      "normalized": "advancedskill_green"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Brown",
-      "normalized": "advancedskilldeck_brown"
-    },
-    {
-      "displayed": "AdvancedSkill_Brown",
-      "normalized": "advancedskill_brown"
-    },
-    {
-      "displayed": "AdvancedSkillDeck_Blue",
-      "normalized": "advancedskilldeck_blue"
-    },
-    {
-      "displayed": "AdvancedSkill_Blue",
-      "normalized": "advancedskill_blue"
-    },
-    {
-      "displayed": "EnemyBox",
-      "normalized": "enemybox"
-    },
-    {
-      "displayed": "EnemyBox_bandit",
-      "normalized": "enemybox_bandit"
-    },
-    {
-      "displayed": "EnemyBox_raubritter",
-      "normalized": "enemybox_raubritter"
-    },
-    {
-      "displayed": "EnemyBox_cuman",
-      "normalized": "enemybox_cuman"
-    },
-    {
-      "displayed": "GuardTokenBox",
-      "normalized": "guardtokenbox"
-    },
-    {
-      "displayed": "AnimalBox",
-      "normalized": "animalbox"
-    },
-    {
-      "displayed": "HerbBox",
-      "normalized": "herbbox"
-    },
-    {
-      "displayed": "AdvancedSkill",
-      "normalized": "advancedskill"
-    },
-    {
-      "displayed": "TimeBoard",
-      "normalized": "timeboard"
-    },
-    {
-      "displayed": "DayToken",
-      "normalized": "daytoken"
-    },
-    {
-      "displayed": "SunToken",
-      "normalized": "suntoken"
-    },
-    {
-      "displayed": "InnQuestCard",
-      "normalized": "innquestcard"
-    },
-    {
-      "displayed": "Set17Card",
-      "normalized": "set17card"
-    },
-    {
-      "displayed": "Set16Card",
-      "normalized": "set16card"
-    },
-    {
-      "displayed": "WoundDeck",
-      "normalized": "wounddeck"
+      "displayed": "WoundTokene",
+      "normalized": "woundtokene"
     },
     {
       "displayed": "PortraitTile",
       "normalized": "portraittile"
     },
     {
-      "displayed": "SmallBox",
-      "normalized": "smallbox"
+      "displayed": "SlotHead",
+      "normalized": "slothead"
     },
     {
-      "displayed": "SmallBox_LocalOpp",
-      "normalized": "smallbox_localopp"
+      "displayed": "ItemClothing",
+      "normalized": "itemclothing"
     },
     {
-      "displayed": "StoryCardBox",
-      "normalized": "storycardbox"
+      "displayed": "SlotWeapon",
+      "normalized": "slotweapon"
     },
     {
-      "displayed": "StoryBox",
-      "normalized": "storybox"
+      "displayed": "SlotBow",
+      "normalized": "slotbow"
     },
     {
-      "displayed": "StoryBox_Cuman",
-      "normalized": "storybox_cuman"
+      "displayed": "SlotLegs",
+      "normalized": "slotlegs"
     },
     {
-      "displayed": "SpawnCard",
-      "normalized": "spawncard"
+      "displayed": "SlotChest",
+      "normalized": "slotchest"
     },
     {
-      "displayed": "SpawnCard_S",
-      "normalized": "spawncard_s"
+      "displayed": "PlayerCube",
+      "normalized": "playercube"
     },
     {
-      "displayed": "SmallBox_Lids",
-      "normalized": "smallbox_lids"
+      "displayed": "Bed",
+      "normalized": "bed"
     },
     {
-      "displayed": "StoryBox_Ashes",
-      "normalized": "storybox_ashes"
+      "displayed": "EnemyToken",
+      "normalized": "enemytoken"
     },
     {
-      "displayed": "StoryBox_Siege",
-      "normalized": "storybox_siege"
+      "displayed": "HerbTile",
+      "normalized": "herbtile"
     },
     {
-      "displayed": "StoryBox_Scattered",
-      "normalized": "storybox_scattered"
+      "displayed": "GuardToken",
+      "normalized": "guardtoken"
     },
     {
-      "displayed": "StoryBox_Bandit",
-      "normalized": "storybox_bandit"
+      "displayed": "Trainer",
+      "normalized": "trainer"
     },
     {
-      "displayed": "StoryBox_Rope",
-      "normalized": "storybox_rope"
+      "displayed": "TownEntrance",
+      "normalized": "townentrance"
     },
     {
-      "displayed": "StoryBox_Plague",
-      "normalized": "storybox_plague"
+      "displayed": "GoodCard",
+      "normalized": "goodcard"
     },
     {
-      "displayed": "SpawnCard_12",
-      "normalized": "spawncard_12"
+      "displayed": "BadCard",
+      "normalized": "badcard"
     },
     {
-      "displayed": "StartingPlayerToken",
-      "normalized": "startingplayertoken"
+      "displayed": "BasicCard",
+      "normalized": "basiccard"
     },
     {
-      "displayed": "SmallBox_StorySasau",
-      "normalized": "smallbox_storysasau"
+      "displayed": "EnemyTile",
+      "normalized": "enemytile"
     },
     {
-      "displayed": "StoryBox_Service",
-      "normalized": "storybox_service"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "StoryBox_Neuhof",
-      "normalized": "storybox_neuhof"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "StoryBox_Miracles",
-      "normalized": "storybox_miracles"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_StoryTalmberg",
-      "normalized": "smallbox_storytalmberg"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_StoryRattay",
-      "normalized": "smallbox_storyrattay"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SpawnCard_34",
-      "normalized": "spawncard_34"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "StoryBox_Solo",
-      "normalized": "storybox_solo"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "Set13Card",
-      "normalized": "set13card"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "ShieldToken",
-      "normalized": "shieldtoken"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "IntroPlayer",
-      "normalized": "introplayer"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "CardStandDisplay",
-      "normalized": "cardstanddisplay"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "MapOverlayButton",
-      "normalized": "mapoverlaybutton"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "TrayGrid",
-      "normalized": "traygrid"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "TrayGrid_Middle",
-      "normalized": "traygrid_middle"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_Refresh",
-      "normalized": "smallbox_refresh"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_Entrances",
-      "normalized": "smallbox_entrances"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_Portraits",
-      "normalized": "smallbox_portraits"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_GuardTracks",
-      "normalized": "smallbox_guardtracks"
+      "displayed": "",
+      "normalized": ""
     },
     {
-      "displayed": "SmallBox_Trainers",
-      "normalized": "smallbox_trainers"
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
+    },
+    {
+      "displayed": "",
+      "normalized": ""
     }
   ]
 }

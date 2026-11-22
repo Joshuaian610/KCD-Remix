@@ -1,0 +1,67 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "Bag": {
+    "Order": 0
+  },
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "ContainedObjects_order": [
+    "BlockSquare.275570",
+    "BanditsDie.b7f6d1",
+    "TheBanditArmyII.cc3428"
+  ],
+  "ContainedObjects_path": "CardII.749dfd",
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/16997344124054031517/C08865AD5A0FC293C2999EED125A68E42A263E17/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/10293192269990468739/768ED3F76B8FFA0EE9324D47F98A9DBDF3F60516/",
+    "NormalURL": "",
+    "TypeIndex": 6
+  },
+  "Description": "Place when instructed by Card I",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "749dfd",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScriptState_path": "TheBanditArmy.ff5f31/CardII.749dfd.luascriptstate",
+  "LuaScript_path": "TheBanditArmy.ff5f31/CardII.749dfd.ttslua",
+  "MaterialIndex": -1,
+  "MeasureMovement": false,
+  "Memo": "{\"home\":[-86.19,-44.4,90]}",
+  "MeshIndex": -1,
+  "Name": "Custom_Model_Bag",
+  "Nickname": "Card II",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": -28.71,
+    "posY": 0.608,
+    "posZ": 5,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

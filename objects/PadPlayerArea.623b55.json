@@ -1,0 +1,113 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.314,
+        "y": 0.505,
+        "z": -0.162
+      }
+    },
+    {
+      "Position": {
+        "x": 0.046,
+        "y": 0.5,
+        "z": -0.148
+      }
+    },
+    {
+      "Position": {
+        "x": -0.166,
+        "y": 0.497,
+        "z": -0.168
+      }
+    },
+    {
+      "Position": {
+        "x": -0.292,
+        "y": 0.497,
+        "z": -0.168
+      }
+    },
+    {
+      "Position": {
+        "x": -0.419,
+        "y": 0.497,
+        "z": -0.168
+      }
+    },
+    {
+      "Position": {
+        "x": -0.419,
+        "y": 0.499,
+        "z": 0.048
+      }
+    },
+    {
+      "Position": {
+        "x": -0.419,
+        "y": 0.499,
+        "z": 0.263
+      }
+    },
+    {
+      "Position": {
+        "x": 0.138,
+        "y": 0.505,
+        "z": 0.14
+      }
+    },
+    {
+      "Position": {
+        "x": 0.441,
+        "y": 0.5,
+        "z": 0.417
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.00068,
+    "g": 0.1123,
+    "r": 0.13066
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Speech Experience Marker",
+  "GUID": "623b55",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "BlockSquare",
+  "Nickname": "Pad Player Area",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": 75,
+    "posY": 0.666,
+    "posZ": -40,
+    "rotX": 0,
+    "rotY": 0,
+    "rotZ": 0,
+    "scaleX": 47.46,
+    "scaleY": 0.12,
+    "scaleZ": 38.96
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

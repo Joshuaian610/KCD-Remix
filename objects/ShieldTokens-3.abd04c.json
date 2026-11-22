@@ -44,20 +44,17 @@
   "Nickname": "Shield Tokens (-3)",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ShieldBowl"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -65.042,
-    "posY": 1.203,
-    "posZ": -19.586,
+    "posX": -61.232,
+    "posY": 0.62,
+    "posZ": -24.309,
     "rotX": 0,
     "rotY": 270,
     "rotZ": 0,
-    "scaleX": 0.33,
-    "scaleY": 0.33,
-    "scaleZ": 0.33
+    "scaleX": 0.21,
+    "scaleY": 0.21,
+    "scaleZ": 0.21
   },
   "Value": 0,
   "XmlUI": ""

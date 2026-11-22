@@ -15,10 +15,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -30,10 +27,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -45,10 +39,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -60,10 +51,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -75,10 +63,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -90,10 +75,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemBow"
-      ]
+      }
     },
     {
       "Position": {
@@ -105,10 +87,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemBow"
-      ]
+      }
     },
     {
       "Position": {
@@ -120,10 +99,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemBow"
-      ]
+      }
     },
     {
       "Position": {
@@ -135,10 +111,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -150,10 +123,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemMarket"
-      ]
+      }
     },
     {
       "Position": {
@@ -165,10 +135,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemArmor"
-      ]
+      }
     },
     {
       "Position": {
@@ -180,10 +147,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemArmor"
-      ]
+      }
     },
     {
       "Position": {
@@ -195,10 +159,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemArmor"
-      ]
+      }
     },
     {
       "Position": {
@@ -210,10 +171,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemArmor"
-      ]
+      }
     },
     {
       "Position": {
@@ -225,10 +183,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemArmor"
-      ]
+      }
     },
     {
       "Position": {
@@ -240,10 +195,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemWeapon"
-      ]
+      }
     },
     {
       "Position": {
@@ -255,10 +207,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemWeapon"
-      ]
+      }
     },
     {
       "Position": {
@@ -270,10 +219,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemWeapon"
-      ]
+      }
     },
     {
       "Position": {
@@ -285,10 +231,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemWeapon"
-      ]
+      }
     },
     {
       "Position": {
@@ -300,10 +243,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemWeapon"
-      ]
+      }
     },
     {
       "Position": {
@@ -315,10 +255,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemClothing"
-      ]
+      }
     },
     {
       "Position": {
@@ -330,10 +267,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemClothing"
-      ]
+      }
     },
     {
       "Position": {
@@ -345,10 +279,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemClothing"
-      ]
+      }
     },
     {
       "Position": {
@@ -360,10 +291,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemClothing"
-      ]
+      }
     },
     {
       "Position": {
@@ -375,10 +303,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "ItemClothing"
-      ]
+      }
     },
     {
       "Position": {
@@ -390,13 +315,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "RefreshToken_Green",
-        "RefreshToken_Brown",
-        "RefreshToken_Blue",
-        "RefreshToken_Orange"
-      ]
+      }
     },
     {
       "Position": {
@@ -408,13 +327,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "RefreshToken_Green",
-        "RefreshToken_Brown",
-        "RefreshToken_Blue",
-        "RefreshToken_Orange"
-      ]
+      }
     },
     {
       "Position": {
@@ -426,13 +339,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "RefreshToken_Green",
-        "RefreshToken_Brown",
-        "RefreshToken_Blue",
-        "RefreshToken_Orange"
-      ]
+      }
     },
     {
       "Position": {
@@ -444,13 +351,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "RefreshToken_Green",
-        "RefreshToken_Brown",
-        "RefreshToken_Blue",
-        "RefreshToken_Orange"
-      ]
+      }
     },
     {
       "Position": {
@@ -462,13 +363,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "RefreshToken_Green",
-        "RefreshToken_Brown",
-        "RefreshToken_Blue",
-        "RefreshToken_Orange"
-      ]
+      }
     },
     {
       "Position": {
@@ -480,13 +375,7 @@
         "x": 0,
         "y": 0,
         "z": 0
-      },
-      "Tags": [
-        "RefreshToken_Green",
-        "RefreshToken_Brown",
-        "RefreshToken_Blue",
-        "RefreshToken_Orange"
-      ]
+      }
     }
   ],
   "Autoraise": true,
@@ -524,14 +413,13 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Noninteractable",
-    "ShopBoard"
+    "nonInteractive"
   ],
   "Tooltip": false,
   "Transform": {
-    "posX": 52.999,
-    "posY": 0.817,
-    "posZ": 10.5,
+    "posX": -52.834,
+    "posY": 0.606,
+    "posZ": 5.328,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

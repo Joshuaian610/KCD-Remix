@@ -39,9 +39,7 @@
   "Nickname": "Stolen",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "GuardToken"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
     "posX": -35.239,

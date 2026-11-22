@@ -39,8 +39,7 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AnimalTile",
-    "AnimalTile_hare"
+    "AnimalTile"
   ],
   "Tooltip": true,
   "Transform": {

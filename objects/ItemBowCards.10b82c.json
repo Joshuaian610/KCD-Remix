@@ -81,14 +81,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ItemBow"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 39.541,
-    "posY": 1.808,
-    "posZ": 12.302,
+    "posX": -66.3,
+    "posY": 1.674,
+    "posZ": 7.127,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

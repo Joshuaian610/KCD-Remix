@@ -36,9 +36,7 @@
   "Nickname": "Dirt Token",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "DirtToken"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
     "posX": 0,

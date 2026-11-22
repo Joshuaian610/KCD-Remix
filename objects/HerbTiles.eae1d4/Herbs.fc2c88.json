@@ -38,10 +38,7 @@
   "Nickname": "Herbs",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "HerbTile",
-    "HerbTile_herb"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
     "posX": -49.49,

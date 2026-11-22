@@ -11,7 +11,7 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "LazarusPotion.168b05",
+    "LazarusPotion.7e2af7",
     "Moonshine.d1ce81",
     "MarigoldDecoction.ea2785"
   ],
@@ -53,9 +53,9 @@
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": 61.742,
-    "posY": 1.861,
-    "posZ": 9.72,
+    "posX": -44.094,
+    "posY": 1.601,
+    "posZ": 4.545,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

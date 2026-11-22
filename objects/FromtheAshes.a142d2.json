@@ -14,17 +14,24 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Building01.8fcff1",
-    "Building07.23c676",
-    "Building02.5ff80a",
-    "Building04.2729a5",
+    "BlockSquare.0ade44",
+    "BlockSquare.1889e3",
+    "BlockSquare.1b8d35",
     "FromtheAshesI.280e08",
-    "Pribyslavitz.5c7738",
+    "BlockSquare.37b1c1",
+    "BlockSquare.46884a",
+    "BlockSquare.4b1624",
     "FromtheAshesII.5b5da0",
-    "Building03.339dd3",
-    "Building06.c57708",
-    "Building05.efd162",
-    "Building08.d172b0"
+    "Pribyslavitz.5c7738",
+    "BlockSquare.61ebc2",
+    "BlockSquare.63e4ec",
+    "BlockSquare.6f81c4",
+    "BlockSquare.72f4e8",
+    "BlockSquare.7b71d5",
+    "BlockSquare.a3fcee",
+    "BlockSquare.b0e499",
+    "Buildings.b6a310",
+    "BlockSquare.c1d8ff"
   ],
   "ContainedObjects_path": "FromtheAshes.a142d2",
   "CustomMesh": {
@@ -48,8 +55,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "FromtheAshes.a142d2.luascriptstate",
+  "LuaScript_path": "FromtheAshes.a142d2.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-54.88,90]}",
@@ -58,21 +65,17 @@
   "Nickname": "From the Ashes",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Ashes"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -106.163,
-    "posY": 1.697,
-    "posZ": -2.43,
+    "posX": 88.987,
+    "posY": 0.608,
+    "posZ": 4.585,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

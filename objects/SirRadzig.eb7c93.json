@@ -39,14 +39,13 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Trainer",
-    "Trainer_rainbow"
+    "Trainer"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -11.013,
-    "posY": 1.312,
-    "posZ": 21.419,
+    "posX": -11.048,
+    "posY": 0.843,
+    "posZ": 17.871,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

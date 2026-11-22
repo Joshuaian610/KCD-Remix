@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Part of the 'Money for Old Rope' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "63c14a",
@@ -41,14 +41,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Story_Rope"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 172.525,
-    "posY": 2.024,
-    "posZ": -0.059,
+    "posX": 19.431,
+    "posY": 0.731,
+    "posZ": -14.986,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

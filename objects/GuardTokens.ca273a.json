@@ -44,7 +44,7 @@
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScript": "",
   "LuaScriptState": "",
   "MaterialIndex": -1,
@@ -54,14 +54,11 @@
   "Nickname": "Guard Tokens",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "GuardTokenBox"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -67.675,
-    "posY": 1.697,
-    "posZ": 47.817,
+    "posX": 42.684,
+    "posY": 0.608,
+    "posZ": 29.111,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

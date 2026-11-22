@@ -40,10 +40,6 @@
   "Nickname": "Combat Sheet",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "PlayerSheet",
-    "PlayerSheet_Orange"
-  ],
   "Tooltip": false,
   "Transform": {
     "posX": 31.039,

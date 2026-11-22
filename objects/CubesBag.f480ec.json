@@ -4,15 +4,6 @@
     "y": 0,
     "z": 0
   },
-  "AttachedSnapPoints": [
-    {
-      "Position": {
-        "x": -0.143,
-        "y": 1.613,
-        "z": -0.206
-      }
-    }
-  ],
   "Autoraise": true,
   "ColorDiffuse": {
     "b": 1,
@@ -20,7 +11,7 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Cube.6b275a"
+    "Cube.5d5e7b"
   ],
   "ContainedObjects_path": "CubesBag.f480ec",
   "CustomMesh": {
@@ -53,16 +44,11 @@
   "Nickname": "Cubes Bag",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "CubeBowl",
-    "CubeBowl_Green",
-    "PlayerTray_Green"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -81.5,
-    "posY": 1.2,
-    "posZ": -20.998,
+    "posX": -71.611,
+    "posY": 0.67,
+    "posZ": -23.741,
     "rotX": 0,
     "rotY": 0,
     "rotZ": 0,

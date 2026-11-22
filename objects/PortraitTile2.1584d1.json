@@ -20,13 +20,6 @@
     "NormalURL": "",
     "TypeIndex": 0
   },
-  "CustomUIAssets": [
-    {
-      "Name": "ptBtn",
-      "Type": 0,
-      "URL": "https://steamusercontent-a.akamaihd.net/ugc/15824942332891035712/BA1462123F8BD4193BA2A4555CAF082CF16C3BB2/"
-    }
-  ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
@@ -45,14 +38,11 @@
   "Nickname": "Portrait Tile 2",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "PortraitTile"
-  ],
   "Tooltip": false,
   "Transform": {
-    "posX": -102.7,
-    "posY": 1.732,
-    "posZ": -20.598,
+    "posX": 72.344,
+    "posY": 0.643,
+    "posZ": -2.403,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

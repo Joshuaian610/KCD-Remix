@@ -34,9 +34,6 @@
   "Nickname": "Storybook",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Storybook"
-  ],
   "Tooltip": true,
   "Transform": {
     "posX": -8.96,

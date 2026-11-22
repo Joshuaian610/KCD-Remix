@@ -1,0 +1,60 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.0077,
+    "g": 0.07,
+    "r": 0.03885
+  },
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.4048613,
+      "Type": 3
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/15506354320691854664/F4546886995CB57EF5832EBE34B96B97ED4707A5/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/15506354320691854664/F4546886995CB57EF5832EBE34B96B97ED4707A5/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Green",
+  "GUID": "b19af4",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Tile",
+  "Nickname": "Button Plus 20",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": -75,
+    "posY": 0.726,
+    "posZ": -25.5,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.53,
+    "scaleY": 1,
+    "scaleZ": 0.53
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -17,10 +17,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseHalf",
-        "HorseMedium",
-        "AnimalTile",
-        "Tile"
+        "AnimalTile"
       ]
     },
     {
@@ -35,10 +32,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseInventory",
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken"
+        "SmallInventory"
       ]
     },
     {
@@ -53,10 +47,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseInventory",
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken"
+        "SmallInventory"
       ]
     },
     {
@@ -71,7 +62,6 @@
         "z": 0
       },
       "Tags": [
-        "HorseSlot",
         "ItemCard"
       ]
     },
@@ -87,9 +77,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseMedium",
-        "AnimalTile",
-        "Tile"
+        "AnimalTile"
       ]
     },
     {
@@ -104,9 +92,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseMedium",
-        "AnimalTile",
-        "Tile"
+        "AnimalTile"
       ]
     },
     {
@@ -121,10 +107,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseInventory",
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken"
+        "SmallInventory"
       ]
     },
     {
@@ -139,10 +122,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseInventory",
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken"
+        "SmallInventory"
       ]
     },
     {
@@ -157,10 +137,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseInventory",
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken"
+        "SmallInventory"
       ]
     },
     {
@@ -175,10 +152,7 @@
         "z": 0
       },
       "Tags": [
-        "HorseInventory",
-        "MeatToken",
-        "MushroomToken",
-        "FlowerToken"
+        "SmallInventory"
       ]
     }
   ],
@@ -188,6 +162,17 @@
     "b": 0.71324,
     "g": 0.71324,
     "r": 0.71324
+  },
+  "CustomDeck": {
+    "10008": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10411117695929921942/DCA51134934CC442F939F954EE752C7C2EF2B564/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14186033938331096071/A8C3A27D64901B951C7FE5F4297C373C49B6A0E6/",
+      "NumHeight": 3,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
   },
   "Description": "",
   "DragSelectable": true,
@@ -208,17 +193,14 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "HorseTile"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 67.475,
-    "posY": 1.495,
-    "posZ": 7.84,
+    "posX": -60.089,
+    "posY": 1.842,
+    "posZ": 22.619,
     "rotX": 0,
-    "rotY": 270,
-    "rotZ": 180,
+    "rotY": 180,
+    "rotZ": 179,
     "scaleX": 2.4,
     "scaleY": 1,
     "scaleZ": 2.4

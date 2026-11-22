@@ -39,8 +39,7 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AnimalTile",
-    "AnimalTile_pheasant"
+    "AnimalTile"
   ],
   "Tooltip": true,
   "Transform": {

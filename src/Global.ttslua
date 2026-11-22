@@ -1,0 +1,163 @@
+require("Counters")
+require("GameData")
+require("Helpers")
+require("PlayerArea")
+
+function onLoad()
+
+  local makeNonInteractive = false
+
+  for _, object in pairs(getObjects()) do
+
+    -- run onObjectSpawn for every object because TTS doesn't inmnately do so
+    onObjectSpawn(object)
+
+    -- set nonInteractive
+    if makeNonInteractive and object.hasTag("nonInteractive") then object.interactable = false end
+
+    -- if 1 seated player and is White (new load of mod, set to Green)
+    local seatedPlayers = getSeatedPlayers()
+    local playerCount = #getSeatedPlayers()
+    if playerCount == 1 and seatedPlayers[1] == "White" then
+      Player["White"].changeColor("Blue")
+    end
+  end
+
+end
+
+
+function onObjectSpawn(obj)
+
+  -- init Button Refresh Deck
+  if obj.getName() == "Button Reshuffle Deck" then
+    initButtonReshuffleDeck(obj)
+  end
+
+  -- init Button Cleanup Test
+  if obj.getName() == "Button Cleanup Test" then
+    initButtonCleanupTest(obj)
+  end
+
+  -- init Button Draw Test Card
+  if obj.getName() == "Button Draw Test Card" then
+    initButtonDrawTestCard(obj)
+  end
+
+  -- init Counter 5/10/20 Buttons
+  if obj.getName() == "Button Plus 5" then
+    initButtonPlus5(obj)
+  end
+  if obj.getName() == "Button Plus 10" then
+    initButtonPlus10(obj)
+  end
+  if obj.getName() == "Button Plus 20" then
+    initButtonPlus20(obj)
+  end
+  if obj.getName() == "Button Minus 5" then
+    initButtonMinus5(obj)
+  end
+  if obj.getName() == "Button Minus 10" then
+    initButtonMinus10(obj)
+  end
+  if obj.getName() == "Button Minus 20" then
+    initButtonMinus20(obj)
+  end
+
+  -- init item card context menus
+  if obj.hasTag("ItemArmor") or obj.hasTag("ItemBow") or obj.hasTag("ItemMarket") or
+     obj.hasTag("ItemClothing") or obj.hasTag("ItemWeapon") then
+     obj.addContextMenuItem("Return Card", returnToDeck)
+  end
+
+  -- init smallInvetory removal context menus
+  if obj.hasTag("SmallInventory") or obj.getName() == "Shield Token (-3)" then
+    obj.addContextMenuItem("Remove Item", removeItem)
+  end
+
+  -- init Encounter return context menus 
+  -- .5 second wait is to allow for card tag creation on deck pull
+  Wait.time(function()
+
+    if obj.hasTag("RoadEncounter") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+    end
+    if obj.hasTag("TownEncounter") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+    end
+    if obj.hasTag("InnQuest") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+      obj.addContextMenuItem("Complete Quest", completeQuest)
+    end
+    if obj.hasTag("StartQuest") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+      obj.addContextMenuItem("Complete Quest", completeQuest)
+    end
+    if obj.hasTag("GoodCard") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+      obj.addContextMenuItem("Retire Card", retireCard)
+    end
+    if obj.hasTag("BadCard") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+      obj.addContextMenuItem("Retire Card", retireCard)
+    end
+    if obj.hasTag("AdvancedSkill_Red") or obj.hasTag("AdvancedSkill_Green") or
+       obj.hasTag("AdvancedSkill_Brown") or obj.hasTag("AdvancedSkill_Blue") then
+        obj.addContextMenuItem("Return Card", returnToDeck)
+        obj.addContextMenuItem("Retire Card", retireCard)
+    end
+    if obj.hasTag("SpecialItem") then
+      obj.addContextMenuItem("Return Card", returnToDeck)
+    end
+    if obj.hasTag("BasicCard") then
+      obj.addContextMenuItem("Retire Card", retireCard)
+    end
+    if obj.hasTag("HerbTile") or obj.hasTag("AnimalTile") or
+       obj.hasTag("WoundToken") or obj.hasTag("EnemyToken") then
+      obj.addContextMenuItem("Return Tile", returnTile)
+    end
+
+  end, 0.5)
+
+end
+
+
+function onObjectDrop(_, obj)
+  -- handle drop of initiate test cards
+  -- wait a second to verify position of card, then, run actions
+  Wait.time(function()
+
+    if obj ~= nil then
+      local posObj = obj.getPosition()
+      local tolerance = 0.50
+
+      for playerColor, pos in pairs(posPlayerInitiateTest) do
+        if math.abs(posObj.x - pos[1]) <= tolerance and
+          math.abs(posObj.z - pos[3]) <= tolerance then
+          initiateTestAction(obj, playerColor)
+        end
+      end
+    end
+
+  end, 1)
+
+end
+
+
+function onObjectLeaveContainer(container, obj)
+  -- handle tagging cards of a particular deck for return purposes
+  if container.getName() == "Road Encounters" then
+    if obj ~= nil then obj.addTag("RoadEncounter") end
+  end
+  if container.getName() == "Town Encounters" then
+    if obj ~= nil then obj.addTag("TownEncounter") end
+  end
+  if container.getName() == "Inn Quests" then
+    if obj ~= nil then obj.addTag("InnQuest") end
+  end
+  if container.getName() == "Starting Quests" then
+    if obj ~= nil then obj.addTag("StartingQuest") end
+  end
+  if container.getName() == "Special Items" then
+    if obj ~= nil then obj.addTag("SpecialItem") end
+  end
+end

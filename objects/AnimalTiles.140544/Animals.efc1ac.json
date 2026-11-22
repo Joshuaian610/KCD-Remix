@@ -39,17 +39,15 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AnimalTile",
-    "AnimalTile_unknown",
-    "RoadEventTile"
+    "AnimalTile"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -45.458,
-    "posY": 2.863,
-    "posZ": -27.702,
-    "rotX": 359,
-    "rotY": 179,
+    "posX": 39.82,
+    "posY": 1.762,
+    "posZ": 29.111,
+    "rotX": 0,
+    "rotY": 180,
     "rotZ": 180,
     "scaleX": 2.5,
     "scaleY": 1,

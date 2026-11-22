@@ -1,0 +1,664 @@
+
+
+function initButtonReshuffleDeck(buttonObj)
+
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "reshuffleDeck",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click this button to reshuffle your Discard into your Deck.",
+  })
+
+end
+
+
+function initButtonCleanupTest(buttonObj)
+
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "cleanupTest",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click this button to clean up a completed Test.\n\nThis includes the Initiate Card, and the Test Card(s).",
+  })
+
+end
+
+
+function initButtonDrawTestCard(buttonObj)
+
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "drawTestCard",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click this button to draw a Test Card.",
+  })
+
+end
+
+
+function initButtonPlus5(buttonObj)
+
+   buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "counterPlus5",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 850,
+    height         = 510,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 2, 2, 2 },
+    tooltip        = "Click this button to Gain 5 Groschen.",
+  })
+
+end
+
+
+function initButtonPlus10(buttonObj)
+
+   buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "counterPlus10",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 850,
+    height         = 510,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 2, 2, 2 },
+    tooltip        = "Click this button to Gain 10 Groschen.",
+  })
+
+end
+
+
+function initButtonPlus20(buttonObj)
+
+   buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "counterPlus20",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 850,
+    height         = 510,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 2, 2, 2 },
+    tooltip        = "Click this button to Gain 20 Groschen.",
+  })
+
+end
+
+
+function initButtonMinus5(buttonObj)
+
+   buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "counterMinus5",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 850,
+    height         = 510,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 2, 2, 2 },
+    tooltip        = "Click this button to Lose or Spend 5 Groschen.",
+  })
+
+end
+
+
+function initButtonMinus10(buttonObj)
+
+   buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "counterMinus10",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 850,
+    height         = 510,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 2, 2, 2 },
+    tooltip        = "Click this button to Lose or Spend 10 Groschen.",
+  })
+
+end
+
+
+function initButtonMinus20(buttonObj)
+
+   buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "counterMinus20",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 0.41, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 850,
+    height         = 510,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 2, 2, 2 },
+    tooltip        = "Click this button to Lose or Spend 20 Groschen.",
+  })
+
+end
+
+
+function reshuffleDeck(buttonObj, _, _)
+  -- this function handles the action of finding a playerColor's discard, then, shuffling it into a new or current Player Deck
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local playerStrWhite = getPlayerStr(playerColor, false)
+
+  local posDiscard = posPlayerDiscard[playerColor]
+  local posDeck = posPlayerDeck[playerColor]
+
+  local rotFacedown = { 0.00, 180.00, 180.00 }
+
+  -- detect current discard card or deck, return out if none found
+  local currentDiscard = getObjectbyXandZ("Deck", posDiscard[1], posDiscard[3])
+  if currentDiscard == nil then
+    currentDiscard = getObjectbyXandZ("Card", posDiscard[1], posDiscard[3])
+  end
+  if currentDiscard == nil then
+    local errorStr = string.format("%s: No Discard found to Reshuffle!", playerStr)
+    broadcastToAll(errorStr, "Red")
+    return
+  end
+
+  -- rotate facedown, place discard to deck pad
+  currentDiscard.setRotation(rotFacedown)
+  currentDiscard.setPositionSmooth(posDeck)
+
+  -- wait 1 second, then, check for deck in deck pad location. if deck found, shuffle & rename
+  Wait.time(function()
+
+    local currentDeck = getObjectbyXandZ("Deck", posDeck[1], posDeck[3])
+    if currentDeck ~= nil then
+      currentDeck.shuffle()
+      currentDeck.setName(playerStrWhite .. "'s Deck")
+    end
+
+  end, 2)
+end
+
+
+function drawTestCard(buttonObj, _, _)
+  -- this function handles the action of drawing a test card to the lowest available slot on the test pad
+  -- drawn cards currently need to be locked due to snap point spacing
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local posTestCards = posPlayerTestCards[playerColor]
+
+  -- first need to detect next available slot after bottom card
+  local nextAvailableSlot = 1
+  local tolerance = 0.50
+
+  for i, pos in ipairs(posTestCards) do
+    for _, obj in ipairs(getObjects()) do
+      local objPos = obj.getPosition()
+
+      if obj.type == "Card" and
+         math.abs(objPos.x - pos[1]) <= tolerance and
+         math.abs(objPos.z - pos[3]) <= tolerance then
+        nextAvailableSlot = i + 1
+        break
+      end
+    end
+  end
+
+  -- check if test pad is full, return out if so
+  if nextAvailableSlot > #posTestCards then
+    local errorStr = string.format("%s: Unable to automatically Draw Test Card, please draw manually.", playerStr)
+    broadcastToAll(errorStr, "Orange")
+    return
+  end
+
+  -- determine next placement position
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+  local posNextAvailable = posTestCards[nextAvailableSlot]
+
+  -- find deck or card, get card to deal
+  local dealCard = nil
+  local posDeck = posPlayerDeck[playerColor]
+  local deckReformed = false
+
+  local currentDeck = getObjectbyXandZ("Deck", posDeck[1], posDeck[3])
+
+  -- handle deck draw
+  if currentDeck ~= nil then
+    dealCard = currentDeck.takeObject()
+
+  -- handle single card
+  elseif currentDeck == nil then
+    dealCard = getObjectbyXandZ("Card", posDeck[1], posDeck[3])
+  end
+
+  -- if dealCard not found, reshuffle deck, wait 2.5 seconds (2 to reform & shuffle), find reshuffled deck or card, move on
+  if dealCard == nil then
+    local reshuffleButtonObj = getObjectbyNameAndNotes("Button Reshuffle Deck", playerColor)
+    reshuffleDeck(reshuffleButtonObj)
+    deckReformed = true
+
+    Wait.time(function()
+
+      currentDeck = getObjectbyXandZ("Deck", posDeck[1], posDeck[3])
+
+      -- handle reformed deck draw
+      if currentDeck ~= nil then
+        dealCard = currentDeck.takeObject()
+
+      -- handle reformed single card (lol maybe?)
+      elseif currentDeck == nil then
+        dealCard = getObjectbyXandZ("Card", posDeck[1], posDeck[3])
+      end
+
+      -- if still no deal card, error out
+      if dealCard == nil then
+        local errorStr = string.format("%s: Unable to automatically Draw Test Card, please draw manually.", playerStr)
+        return
+      end
+
+      -- do followup stuff, as seen below, if not deckReformed
+      placeObject(dealCard, rotFaceup, posNextAvailable, false, true)
+      dealCard.setGMNotes(playerColor)
+      dealCard.addContextMenuItem("Discard " .. dealCard.getName(), discardTestCard)
+      local broadcastStr = string.format("%s has drawn Test Card: %s", playerStr, dealCard.getName())
+      broadcastToAll(broadcastStr, "White")
+
+    end, 2.5)
+  end
+
+  if not deckReformed then
+    -- deal the card to position (not smoothly, locked)
+    placeObject(dealCard, rotFaceup, posNextAvailable, false, true)
+
+    -- add discard context menu option, set card GMNotes to playerColor
+    dealCard.setGMNotes(playerColor)
+    dealCard.addContextMenuItem("Discard " .. dealCard.getName(), discardTestCard)
+
+    -- broadcast
+    local broadcastStr = string.format("%s has drawn Test Card: %s", playerStr, dealCard.getName())
+    broadcastToAll(broadcastStr, "White")
+  end
+end
+
+
+function discardTestCard(_, _, cardObj)
+  -- handles the removal of a card from an ongoing test
+
+  local playerColor = cardObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+  local posDiscard = posPlayerDiscard[playerColor]
+  placeObject(cardObj, rotFaceup, posDiscard, true, false)
+
+  -- broadcast
+  local broadcastStr = string.format("%s has discarded Test Card: %s", playerStr, cardObj.getName())
+  broadcastToAll(broadcastStr, "White")
+end
+
+
+function cleanupTest(buttonObj, _, _)
+  -- handles cleanup of test initiation and test cards to discard
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local tolerance = 0.50
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+  local posDiscard = posPlayerDiscard[playerColor]
+  local posTestCards = posPlayerTestCards[playerColor]
+  local posInitiateCard = posPlayerInitiateTest[playerColor]
+  posInitiateCard[3] = -42.30
+
+  -- iterate through potential test card slots, discard any found
+  for _, pos in ipairs(posTestCards) do
+    local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
+
+    if foundCard then
+      placeObject(foundCard, rotFaceup, posDiscard, true, false)
+    end
+  end
+
+  -- check for found player initiate test card, discard
+  local foundCard = getObjectbyXandZ("Card", posInitiateCard[1], posInitiateCard[3])
+
+  if foundCard then
+    placeObject(foundCard, rotFaceup, posDiscard, true, false)
+  end
+
+  local broadcastStr = string.format("%s has completed their Test.", playerStr)
+  broadcastToAll(broadcastStr, "White")
+end
+
+
+function initiateTestAction(cardObj, playerColor)
+  -- handles the action of sliding test card under player board, and, broadcast
+
+  local rotInitiateCard = cardObj.getRotation()
+  local posInitiateCard = cardObj.getPosition()
+  posInitiateCard.z = -42.30
+  placeObject(cardObj, rotInitiateCard, posInitiateCard, true, false)
+
+  local playerStr = getPlayerStr(playerColor)
+  local broadcastStr = string.format("%s has Initiated a Test with: %s", playerStr, cardObj.getName())
+  broadcastToAll(broadcastStr, "White")
+end
+
+
+function counterPlus5(buttonObj, _, _)
+  -- handle action of gaining 5 groschen to counter
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local counterObj = getObjectbyNameAndNotes("Groschen Counter", playerColor)
+
+  local oldVal = counterObj.getVar("val")
+  local newVal = oldVal + 5
+
+  counterObj.call("setValue", newVal)
+
+  local broadcastStr = string.format("%s has Gained 5 Groschen (%d > %d)", playerStr, oldVal, newVal)
+  broadcastToAll(broadcastStr, "White")
+end
+
+
+function counterPlus10(buttonObj, _, _)
+  -- handle action of gaining 10 groschen to counter
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local counterObj = getObjectbyNameAndNotes("Groschen Counter", playerColor)
+
+  local oldVal = counterObj.getVar("val")
+  local newVal = oldVal + 10
+
+  counterObj.call("setValue", newVal)
+
+  local broadcastStr = string.format("%s has Gained 10 Groschen (%d > %d)", playerStr, oldVal, newVal)
+  broadcastToAll(broadcastStr, "White")
+
+end
+
+
+function counterPlus20(buttonObj, _, _)
+  -- handle action of gaining 20 groschen to counter
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local counterObj = getObjectbyNameAndNotes("Groschen Counter", playerColor)
+
+  local oldVal = counterObj.getVar("val")
+  local newVal = oldVal + 20
+
+  counterObj.call("setValue", newVal)
+
+  local broadcastStr = string.format("%s has Gained 20 Groschen (%d > %d)", playerStr, oldVal, newVal)
+  broadcastToAll(broadcastStr, "White")
+
+end
+
+
+function counterMinus5(buttonObj, _, _)
+  -- handle action of removing 5 groschen from counter
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local counterObj = getObjectbyNameAndNotes("Groschen Counter", playerColor)
+
+  local oldVal = counterObj.getVar("val")
+  local newVal = oldVal - 5
+  if newVal < 1 then newVal = 0 end
+
+  counterObj.call("setValue", newVal)
+
+  local broadcastStr = string.format("%s has Spent or Lost 5 Groschen (%d > %d)", playerStr, oldVal, newVal)
+  broadcastToAll(broadcastStr, "White")
+
+end
+
+
+function counterMinus10(buttonObj, _, _)
+  -- handle action of removing 10 groschen from counter
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local counterObj = getObjectbyNameAndNotes("Groschen Counter", playerColor)
+
+  local oldVal = counterObj.getVar("val")
+  local newVal = oldVal - 10
+  if newVal < 1 then newVal = 0 end
+
+  counterObj.call("setValue", newVal)
+
+  local broadcastStr = string.format("%s has Spent or Lost 10 Groschen (%d > %d)", playerStr, oldVal, newVal)
+  broadcastToAll(broadcastStr, "White")
+
+end
+
+
+function counterMinus20(buttonObj, _, _)
+  -- handle action of removing 20 groschen from counter
+
+  local playerColor = buttonObj.getGMNotes()
+  local playerStr = getPlayerStr(playerColor)
+  local counterObj = getObjectbyNameAndNotes("Groschen Counter", playerColor)
+
+  local oldVal = counterObj.getVar("val")
+  local newVal = oldVal - 20
+  if newVal < 1 then newVal = 0 end
+
+  counterObj.call("setValue", newVal)
+
+  local broadcastStr = string.format("%s has Spent or Lost 20 Groschen (%d > %d)", playerStr, oldVal, newVal)
+  broadcastToAll(broadcastStr, "White")
+
+end
+
+
+function returnToDeck(playerColor, _, obj)
+  -- handles return of a cardObj object to bottom of it's deck
+
+  local cardName = obj.getName()
+  local playerStr = getPlayerStr(playerColor)
+
+  -- get return deck or position
+  local returnDeck, posReturn
+  if obj.hasTag("ItemArmor") then
+    posReturn = { -66.30, 1.80, 0.86 }
+
+  elseif obj.hasTag("ItemBow") then
+    posReturn = { -66.30, 1.67, 7.13 }
+
+  elseif obj.hasTag("ItemMarket") then
+    posReturn = { -66.30, 1.90, 13.53 }
+
+  elseif obj.hasTag("ItemClothing") then
+    posReturn = { -66.29, 1.80, -11.90 }
+
+  elseif obj.hasTag("ItemWeapon") then
+    posReturn = { -66.30, 1.75, -5.41 }
+
+  elseif obj.hasTag("RoadEncounter") then
+    posReturn = { -26.00, 0.77, 29.63 }
+
+  elseif obj.hasTag("TownEncounter") then
+    posReturn = { -18.00, 0.77, 29.63 }
+
+  elseif obj.hasTag("InnQuest") then
+    posReturn = { 53.25, 1.00, -15.77 }
+
+  elseif obj.hasTag("StartQuest") then
+    posReturn = { 58.75, 0.84, -15.77 }
+
+  elseif obj.hasTag("GoodCard") then
+    posReturn = { 36.75, 0.88, -15.77 }
+
+  elseif obj.hasTag("BadCard") then
+    posReturn = { 42.25, 0.84, -15.77 }
+
+  elseif obj.hasTag("AdvancedSkill_Red") then
+    posReturn = { 39.05, 1.69, 4.06 }
+
+  elseif obj.hasTag("AdvancedSkill_Green") then
+    posReturn = { 44.95, 1.69, 4.06 }
+
+  elseif obj.hasTag("AdvancedSkill_Brown") then
+    posReturn = { 50.85, 1.69, 4.05 }
+
+  elseif obj.hasTag("AdvancedSkill_Blue") then
+    posReturn = { 56.75, 1.69, 4.05 }
+  
+  elseif obj.hasTag("SpecialItem") then
+    posReturn = { -40.42, 1.66, -12.84 }
+  end
+
+  returnDeck = getObjectbyXandZ("Deck", posReturn[1], posReturn[3])
+  if returnDeck == nil then
+    turnDeck = getObjectbyXandZ("Card", posReturn[1], posReturn[3])
+  end
+
+  if returnDeck ~= nil then
+    posReturn[2] = -1.00
+    local rotReturn = returnDeck.getRotation()
+    obj.setRotation(rotReturn)
+    obj.setPosition(posReturn)
+    returnDeck.putObject(obj)
+
+  elseif returnDeck == nil then
+    local rotFacedown = { 0.00, 180.00, 180.00 }
+    obj.setRotation(rotFacedown)
+    obj.setPositionSmooth(posReturn)
+  end
+
+  local broadcastStr = string.format("%s has Returned Card: %s", playerStr, cardName)
+  broadcastToAll(broadcastStr, "White")
+end
+
+
+function removeItem(playerColor, _, obj)
+  -- very simply destructs a small inventory or -3 shield object
+
+  local objName = obj.getName()
+  local playerStr = getPlayerStr(playerColor)
+
+  obj.destruct()
+
+  local broadcastStr = string.format("%s has Removed: %s", playerStr, objName)
+  broadcastToAll(broadcastStr, "White")
+end
+
+
+function retireCard(playerColor, _, obj)
+  -- handles action of retiring a card
+
+  local playerStr = getPlayerStr(playerColor)
+  local cardName = obj.getName()
+  local bag = getObjectbyNameAndNotes("Log", playerColor)
+
+  if obj ~= nil and bag ~= nil then
+    local pos = bag.getPosition()
+    pos.y = 2.78
+    obj.setPosition(pos)
+
+    local broadcastStr = string.format("%s has Retired: %s", playerStr, cardName)
+    broadcastToAll(broadcastStr, "White")
+  end
+end
+
+
+function completeQuest(playerColor, _, obj)
+  -- handles action of completing a quest
+
+  local playerStr = getPlayerStr(playerColor)
+  local cardName = obj.getName()
+  local bag = getObjectbyNameAndNotes("Log", playerColor)
+
+  if obj ~= nil and bag ~= nil then
+    local pos = bag.getPosition()
+    pos.y = 2.78
+    obj.setPosition(pos)
+
+    local broadcastStr = string.format("%s has Completed Quest: %s", playerStr, cardName)
+    broadcastToAll(broadcastStr, "White")
+  end
+end
+
+
+function returnTile(playerColor, _, obj)
+  -- handles action of returning herb or animal tile
+
+  local playerStr = getPlayerStr(playerColor)
+  local tileName = obj.getName()
+  local bag = nil
+
+  if obj.hasTag("HerbTile") then
+    bag = getObjectbyName("Herb Tiles")
+  elseif obj.hasTag("AnimalTile") then
+    bag = getObjectbyName("Animal Tiles")
+  elseif obj.hasTag("WoundToken") then
+    bag = getObjectbyName("Wound Tokens")
+  elseif obj.getName() == "Bandit" then
+    bag = getObjectbyName("Bandit Tiles")
+  elseif obj.getName() == "Raubritter" then
+    bag = getObjectbyName("Raubritter Tiles")
+  elseif obj.getName() == "Cuman" then
+    bag = getObjectbyName("Cuman Tiles")
+  end
+
+  local pos = bag.getPosition()
+  pos.y = 2.78
+  obj.setPosition(pos)
+  bag.putObject(obj)
+
+  local broadcastStr = string.format("%s has Returned: %s", playerStr, tileName)
+  broadcastToAll(broadcastStr, "White")
+end

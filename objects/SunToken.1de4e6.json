@@ -40,14 +40,11 @@
   "Nickname": "Sun Token",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "SunToken"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -56.316,
+    "posX": 46.055,
     "posY": 0.9,
-    "posZ": -3.985,
+    "posZ": 26.978,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

@@ -44,8 +44,7 @@
   "Tags": [
     "ItemCard",
     "ItemWeapon",
-    "SlotWeapon",
-    "Sharpenable"
+    "SlotWeapon"
   ],
   "Tooltip": true,
   "Transform": {

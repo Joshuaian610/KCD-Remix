@@ -94,9 +94,7 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AdvancedSkill",
-    "AdvancedSkill_Blue",
-    "CardFrames"
+    "AdvancedSkill_Blue"
   ],
   "Tooltip": true,
   "Transform": {

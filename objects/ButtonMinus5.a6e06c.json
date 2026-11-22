@@ -1,0 +1,60 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.01319,
+    "g": 0.04265,
+    "r": 0.10976
+  },
+  "CustomImage": {
+    "CustomTile": {
+      "Stackable": false,
+      "Stretch": true,
+      "Thickness": 0.4048613,
+      "Type": 3
+    },
+    "ImageScalar": 1,
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/11885033870178961310/AEDD9B79BE24CA56C962F19CCB90D27DB4919D61/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/11885033870178961310/AEDD9B79BE24CA56C962F19CCB90D27DB4919D61/",
+    "WidthScale": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Brown",
+  "GUID": "a6e06c",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Tile",
+  "Nickname": "Button Minus 5",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
+  "Tooltip": false,
+  "Transform": {
+    "posX": 17.004,
+    "posY": 0.726,
+    "posZ": -22,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 0.53,
+    "scaleY": 1,
+    "scaleZ": 0.53
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

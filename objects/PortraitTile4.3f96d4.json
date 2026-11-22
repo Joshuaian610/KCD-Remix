@@ -45,14 +45,11 @@
   "Nickname": "Portrait Tile 4",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "PortraitTile"
-  ],
   "Tooltip": false,
   "Transform": {
-    "posX": -108.595,
-    "posY": 1.732,
-    "posZ": -20.704,
+    "posX": 77.788,
+    "posY": 0.643,
+    "posZ": 5.043,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

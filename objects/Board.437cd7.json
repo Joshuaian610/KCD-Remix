@@ -31,8 +31,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": true,
+  "LuaScript": "",
   "LuaScriptState": "",
-  "LuaScript_path": "Board.437cd7.ttslua",
   "MeasureMovement": false,
   "Name": "Custom_Model",
   "Nickname": "Board",
@@ -51,17 +51,20 @@
   },
   "Snap": false,
   "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
   "Tooltip": false,
   "Transform": {
     "posX": -0.001,
     "posY": -10.13,
-    "posZ": 0,
+    "posZ": -5.105,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 8.05,
+    "scaleX": 8.33,
     "scaleY": 1,
-    "scaleZ": 8.25
+    "scaleZ": 9.53
   },
   "Value": 0,
   "XmlUI": ""

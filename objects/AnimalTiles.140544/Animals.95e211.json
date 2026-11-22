@@ -39,9 +39,7 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AnimalTile",
-    "AnimalTile_unknown",
-    "RoadEventTile"
+    "AnimalTile"
   ],
   "Tooltip": true,
   "Transform": {

@@ -14,15 +14,21 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "NeuhofMassacreToken04.fbece0",
+    "Runt.02822a",
+    "BlockSquare.14f510",
+    "BlockSquare.27cdd5",
+    "Zora.45e186",
+    "BlockSquare.4fae4f",
+    "Ginger.8bd0c4",
+    "BlockSquare.9117c9",
+    "Marek.9158ca",
+    "BlockSquare.b5e809",
+    "BlockSquare.c07364",
     "NeuhofMassacreI.c19dc8",
-    "Runtenemytile.02822a",
-    "NeuhofMassacreWitnessCards.19b45c",
+    "LordsofLeipaCuirass.cee3c5",
     "NeuhofMassacreII.d5d9ef",
-    "NeuhofMassacreToken03.8bd0c4",
-    "NeuhofMassacreToken02.9158ca",
-    "NeuhofMassacreToken01.45e186",
-    "LordsofLeipaCuirass.cee3c5"
+    "Witnesscards.e5e1c8",
+    "Jakub.fbece0"
   ],
   "ContainedObjects_path": "NeuhofMassacre.8c3102",
   "CustomMesh": {
@@ -35,7 +41,7 @@
     "NormalURL": "",
     "TypeIndex": 6
   },
-  "Description": "Part of the 'Neuhof Massacre' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "8c3102",
@@ -46,8 +52,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "NeuhofMassacre.8c3102.luascriptstate",
+  "LuaScript_path": "NeuhofMassacre.8c3102.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-41.78,90]}",
@@ -56,21 +62,17 @@
   "Nickname": "Neuhof Massacre",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Neuhof"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -103.711,
-    "posY": 1.697,
-    "posZ": 2.248,
+    "posX": 85.237,
+    "posY": 0.608,
+    "posZ": 17.585,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

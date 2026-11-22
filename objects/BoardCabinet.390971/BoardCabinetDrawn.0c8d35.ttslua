@@ -74,16 +74,12 @@ function onAfterLoad()
 	BB.Max.y = 	BB.Max.y + pos.y + ConcealedStorageHeight + 0.5
 	BB.Max.z = (BB.Max.z * direction) + pos.z
 	
-	HideObjectsAbove( false )
 end
 
 function onButtonClick()
 	local currentState = self.getStateId()
 	local nextState = 1 + (currentState % 2)
 	
-	if currentState ~= StorageState then
-		HideObjectsAbove( true )
-	end
 	
 	self.script_state = onSave()
 	self.setState( nextState )
@@ -100,7 +96,7 @@ function HideObjectsAbove( toggle )
 	end
     
     for k,v in pairs( getAllObjects() ) do
-        if v != self then
+        if v ~= self then
             if PointToAABBIntersect( BBMin, BBMax, v.getPosition() ) then
                 if toggle then
                     Store( v )
@@ -172,3 +168,4 @@ function Dispense( obj )
     obj.interactable = true
 	obj.setLock( originalLockStatus or false )
 end
+

@@ -24,7 +24,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "Green",
+  "GMNotes": "",
   "GUID": "f195a6",
   "Grid": true,
   "GridProjection": false,
@@ -41,15 +41,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ItemCard",
-    "SlotWeapon"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -67.733,
-    "posY": 2.004,
-    "posZ": -29.7,
+    "posX": -68.2,
+    "posY": 1.565,
+    "posZ": -33.26,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

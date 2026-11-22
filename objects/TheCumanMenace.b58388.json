@@ -14,13 +14,8 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "MonasteryHealers.f8f348",
-    "RaisingtheArmy.8d7fa2",
-    "FinalBattleCardsTheCumanMenace.ac97fe",
-    "TheCumanMenaceITalmberg.0d58f5",
-    "TheCumanMenaceIRattay.015613",
-    "TheCumanMenaceISasau.834b6f",
-    "Deck.1342a9"
+    "TheCumanMenacecont.05410e",
+    "Deck.786c3b"
   ],
   "ContainedObjects_path": "TheCumanMenace.b58388",
   "CustomMesh": {
@@ -44,8 +39,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "TheCumanMenace.b58388.luascriptstate",
+  "LuaScript_path": "TheCumanMenace.b58388.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-33.92,90]}",
@@ -54,21 +49,17 @@
   "Nickname": "The Cuman Menace",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Cuman"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -113.369,
-    "posY": 1.697,
-    "posZ": 5.313,
+    "posX": 85.237,
+    "posY": 0.608,
+    "posZ": 24.085,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

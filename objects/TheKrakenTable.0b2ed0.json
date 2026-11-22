@@ -28,7 +28,7 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": true,
-  "LuaScript": "function onLoad()\r\n    self.interactable = false;\r\nend\r",
+  "LuaScript": "",
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Custom_Assetbundle",
@@ -48,17 +48,20 @@
   },
   "Snap": false,
   "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
   "Tooltip": false,
   "Transform": {
     "posX": 0,
     "posY": -41.99,
-    "posZ": -4.995,
+    "posZ": -10.877,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 2,
+    "scaleX": 2.07,
     "scaleY": 1,
-    "scaleZ": 1.84
+    "scaleZ": 2.12
   },
   "Value": 0,
   "XmlUI": ""

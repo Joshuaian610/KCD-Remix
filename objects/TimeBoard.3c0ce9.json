@@ -75,14 +75,11 @@
   "Nickname": "Time Board",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "TimeBoard"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -48,
+    "posX": 54.45,
     "posY": 0.696,
-    "posZ": -4.002,
+    "posZ": 26.98,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

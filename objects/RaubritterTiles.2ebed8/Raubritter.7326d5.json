@@ -26,7 +26,7 @@
   "GUID": "7326d5",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -39,13 +39,13 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "RaubritterTile"
+    "EnemyToken"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -45.915,
-    "posY": 2.325,
-    "posZ": -24.157,
+    "posX": 39.82,
+    "posY": 1.762,
+    "posZ": 25.367,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

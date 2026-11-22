@@ -1,0 +1,81 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "Resourcefulness.e21521",
+    "Perception.313417",
+    "Curiosity.68e830",
+    "Patience.d93093",
+    "Determination.cf755e",
+    "Endurance.617ba9",
+    "Luck.ff442c",
+    "Courage.a86d37"
+  ],
+  "ContainedObjects_path": "BasicSkillCardsDeck.3d168a",
+  "CustomDeck": {
+    "7005": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10504346887506248193/3DD8536B9A5E866CB2A2B0BC9361E77ACB19261F/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12076296181004724271/81AEEB5ADA017B74A652354FD292DD8B82B71594/",
+      "NumHeight": 7,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    700524,
+    700522,
+    700521,
+    700520,
+    700519,
+    700518,
+    700517,
+    700523
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Orange",
+  "GUID": "3d168a",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Basic Skill Cards Deck",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "BasicCard"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 55.129,
+    "posY": 0.862,
+    "posZ": -29.729,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 2.43,
+    "scaleY": 1,
+    "scaleZ": 2.43
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

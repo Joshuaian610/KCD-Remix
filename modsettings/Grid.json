@@ -7,15 +7,15 @@
   },
   "Lines": false,
   "Offset": false,
-  "Opacity": 0.0103443451,
+  "Opacity": 1,
   "PosOffset": {
-    "x": 0,
+    "x": 1,
     "y": 1,
-    "z": 0
+    "z": 3
   },
   "Snapping": false,
   "ThickLines": false,
   "Type": 0,
-  "xSize": 2,
-  "ySize": 2
+  "xSize": 4,
+  "ySize": 4
 }

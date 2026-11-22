@@ -1,0 +1,78 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "PribyslavitzChurch.d172b0",
+    "PribyslavitzBathhouse.8fcff1",
+    "PribyslavitzStable.c57708",
+    "PribyslavitzWeaponsmith.2729a5",
+    "PribyslavitzInn.23c676",
+    "PribyslavitzTailor.339dd3",
+    "PribyslavitzArmorer.efd162",
+    "PribyslavitzTrader.5ff80a"
+  ],
+  "ContainedObjects_path": "Buildings.b6a310",
+  "CustomDeck": {
+    "10": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17609003590604673285/DBA16D5B845337C8334427BE89D0E6A67B111BBE/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16972864890837427758/76284E8C2EC84DC9B01CA078792E8FA270187A34/",
+      "NumHeight": 2,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    1007,
+    1000,
+    1005,
+    1003,
+    1006,
+    1002,
+    1004,
+    1001
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "b6a310",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "Buildings",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 20.878,
+    "posY": 0.777,
+    "posZ": 37.763,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

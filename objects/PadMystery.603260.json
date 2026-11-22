@@ -1,0 +1,45 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.0327,
+    "g": 0.04704,
+    "r": 0.04052
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "Green",
+  "GUID": "603260",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "BlockSquare",
+  "Nickname": "Pad Mystery",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": false,
+  "Transform": {
+    "posX": -75,
+    "posY": 0.763,
+    "posZ": -54.948,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 44.99,
+    "scaleY": 0.08,
+    "scaleZ": 7.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

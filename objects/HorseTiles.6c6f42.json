@@ -69,14 +69,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "HorseTile"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 45.144,
-    "posY": 1.739,
-    "posZ": 27.26,
+    "posX": -60.689,
+    "posY": 1.645,
+    "posZ": 22.085,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

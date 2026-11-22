@@ -11,11 +11,11 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "MandrakeKindOf.",
-    "BurialShroud.",
     "CatsPawTalisman.",
+    "BurialShroud.",
     "TheTopping-Out.",
-    "ProcopiussTooth."
+    "ProcopiussTooth.",
+    "MandrakeKindOf."
   ],
   "ContainedObjects_path": "MiraclesWhileYouWaitCharlatansQuests.82f261",
   "CustomDeck": {
@@ -30,11 +30,11 @@
     }
   },
   "DeckIDs": [
-    701118,
-    701119,
     701120,
+    701119,
     701121,
-    701122
+    701122,
+    701118
   ],
   "Description": "Part of the 'Miracles While You Wait' Storyline",
   "DragSelectable": true,
@@ -55,17 +55,14 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Story_Miracles"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 37.345,
-    "posY": 0.991,
-    "posZ": 55.939,
+    "posX": -3.768,
+    "posY": 0.763,
+    "posZ": -6.981,
     "rotX": 0,
     "rotY": 180,
-    "rotZ": 0,
+    "rotZ": 180,
     "scaleX": 2.43,
     "scaleY": 1,
     "scaleZ": 2.43

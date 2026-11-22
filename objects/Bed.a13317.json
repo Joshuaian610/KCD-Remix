@@ -38,14 +38,11 @@
   "Nickname": "Bed",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Bed_Green"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -82.905,
-    "posY": 1.597,
-    "posZ": -24.457,
+    "posX": -83.37,
+    "posY": 1.158,
+    "posZ": -27.999,
     "rotX": 0,
     "rotY": 0,
     "rotZ": 0,

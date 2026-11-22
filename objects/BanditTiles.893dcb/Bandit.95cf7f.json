@@ -26,7 +26,7 @@
   "GUID": "95cf7f",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -40,16 +40,16 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "BanditTile"
+    "EnemyTile"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -49.737,
-    "posY": 2.945,
-    "posZ": -24.126,
-    "rotX": 2,
+    "posX": 32.1,
+    "posY": 0.659,
+    "posZ": 22.639,
+    "rotX": 0,
     "rotY": 180,
-    "rotZ": 182,
+    "rotZ": 180,
     "scaleX": 2.5,
     "scaleY": 1,
     "scaleZ": 2.5

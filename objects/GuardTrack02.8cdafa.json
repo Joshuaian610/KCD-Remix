@@ -1,0 +1,85 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.176,
+        "y": 0.07,
+        "z": -0.956
+      }
+    },
+    {
+      "Position": {
+        "x": 0.176,
+        "y": 0.07,
+        "z": -0.311
+      }
+    },
+    {
+      "Position": {
+        "x": 0.176,
+        "y": 0.07,
+        "z": 0.334
+      }
+    },
+    {
+      "Position": {
+        "x": 0.176,
+        "y": 0.07,
+        "z": 0.971
+      }
+    }
+  ],
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/15731680598444832017/695953303B3DF247703660E137A03739F6D46FD9/",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/9928905015814304052/68CF22821406EA5731A8304C7DC656290C36E6E3/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/15874304545934337629/807E6C6CABB961D5BFC183C6F477157FD1F47DED/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "8cdafa",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": true,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Guard Track 02",
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": -23.365,
+    "posY": 0.773,
+    "posZ": -0.923,
+    "rotX": 0,
+    "rotY": 90,
+    "rotZ": 0,
+    "scaleX": 2.5,
+    "scaleY": 1,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

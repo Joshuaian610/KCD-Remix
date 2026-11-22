@@ -48,16 +48,13 @@
   "Nickname": "Bed",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "Bed_Brown"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 15.117,
-    "posY": 1.727,
-    "posZ": -24.748,
-    "rotX": 22,
-    "rotY": 353,
+    "posX": 16.63,
+    "posY": 1.08,
+    "posZ": -27.997,
+    "rotX": 0,
+    "rotY": 0,
     "rotZ": 0,
     "scaleX": 1,
     "scaleY": 1,

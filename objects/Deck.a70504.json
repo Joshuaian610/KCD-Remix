@@ -1,0 +1,90 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "ContainedObjects_order": [
+    "HankaVitusAChildofLust.11a41b",
+    "BozhenaOldaABanditsDrudge.58819f",
+    "MarikaTiborAChildoftheRoad.ff58b4",
+    "JaneJosefABurghersChild.55d2b0",
+    "DorothyJoachymAChildofWar.7fe528",
+    "LuciaPeterAMonasteryFoundling.19a84a",
+    "ElishkaMartinAMillersHand.bc0754",
+    "AnnaJanekAVillageIdler.118f5e",
+    "MariannaPavelAStreetUrchin.e05906",
+    "MargaretMikeshASkalitzSurvivor.d4746a",
+    "AntoniaTondaAStablehandsBastard.44cc8c",
+    "LudmilaMatthiasAnOrphanofRovna.610ab4",
+    "ZuzanaZbyshekAConvictsOffspring.07b165",
+    "AgnesAdamAChildoftheForest.e2e8a5"
+  ],
+  "ContainedObjects_path": "Deck.a70504",
+  "CustomDeck": {
+    "7010": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/13025462645055824924/C140112B9CA089DC1E4E431A15ACA1358B718E23/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/18269040912599849720/3D652A2B2D37356E8456681420F6649291744A70/",
+      "NumHeight": 2,
+      "NumWidth": 10,
+      "Type": 0,
+      "UniqueBack": false
+    }
+  },
+  "DeckIDs": [
+    701000,
+    701001,
+    701002,
+    701003,
+    701004,
+    701005,
+    701006,
+    701007,
+    701008,
+    701009,
+    701010,
+    701011,
+    701012,
+    701013
+  ],
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "a70504",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Deck",
+  "Nickname": "",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tooltip": true,
+  "Transform": {
+    "posX": 72.31,
+    "posY": 0.696,
+    "posZ": 14.547,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 180,
+    "scaleX": 2.43,
+    "scaleY": 1,
+    "scaleZ": 2.43
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

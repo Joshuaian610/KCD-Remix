@@ -43,8 +43,7 @@
   "Sticky": true,
   "Tags": [
     "ItemCard",
-    "ItemMarket",
-    "EquipSlot_B"
+    "ItemMarket"
   ],
   "Tooltip": true,
   "Transform": {

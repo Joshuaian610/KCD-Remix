@@ -14,9 +14,19 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "AtYourServiceItems.1aea5f",
+    "BlockSquare.00185e",
+    "TheWeddingCrown.02ca7a",
+    "BlockSquare.107a73",
+    "BlockSquare.125538",
+    "BlockSquare.19c09f",
+    "WinefortheWedding.1e5c5a",
+    "BlockSquare.3d3b73",
+    "FursfortheFeast.4864b4",
+    "TheSnow-WhiteStallion.876bbf",
     "Snow-WhiteStallion.8d6f87",
-    "AtYourServiceQuests.a74b54",
+    "Deck.9cb8e5",
+    "FlowersfortheBride.b3b900",
+    "BlockSquare.e18dc1",
     "AtYourServiceMyLadyI.ebba01"
   ],
   "ContainedObjects_path": "AtYourServiceMyLady.aca425",
@@ -41,8 +51,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "AtYourServiceMyLady.aca425.luascriptstate",
+  "LuaScript_path": "AtYourServiceMyLady.aca425.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-57.5,90]}",
@@ -51,21 +61,17 @@
   "Nickname": "At Your Service, My Lady",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Service"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -103.711,
-    "posY": 1.697,
-    "posZ": -2.43,
+    "posX": 85.237,
+    "posY": 0.608,
+    "posZ": 4.585,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

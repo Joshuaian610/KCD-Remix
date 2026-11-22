@@ -38,9 +38,7 @@
   "Nickname": "Shield Token (-3)",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ShieldToken"
-  ],
+  "Tags": [],
   "Tooltip": true,
   "Transform": {
     "posX": -16.835,

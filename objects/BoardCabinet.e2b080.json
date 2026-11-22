@@ -29,8 +29,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": true,
+  "LuaScript": "",
   "LuaScriptState": "",
-  "LuaScript_path": "BoardCabinet.e2b080.ttslua",
   "MeasureMovement": false,
   "Name": "Custom_Assetbundle",
   "Nickname": "Board Cabinet",
@@ -52,17 +52,20 @@
     "2": "BoardCabinetDrawn.3c4e81"
   },
   "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
   "Tooltip": false,
   "Transform": {
-    "posX": -71.876,
+    "posX": -74.418,
     "posY": -41.99,
-    "posZ": -4.918,
+    "posZ": -10.788,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 2,
+    "scaleX": 2.07,
     "scaleY": 1,
-    "scaleZ": 1.84
+    "scaleZ": 2.12
   },
   "Value": 0,
   "XmlUI": ""

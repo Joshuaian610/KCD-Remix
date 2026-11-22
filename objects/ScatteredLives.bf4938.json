@@ -14,9 +14,14 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "ScatteredLivesRequestsTier1.21b2ec",
-    "ScatteredLivesRequestsTier2.8daaa9",
-    "ScatteredLivesI.d55d59"
+    "Deck.565783",
+    "BlockSquare.5be14c",
+    "BlockSquare.75b2cf",
+    "BlockSquare.871e5d",
+    "BlockSquare.9d08c2",
+    "Deck.d39d65",
+    "ScatteredLivesI.d55d59",
+    "BlockSquare.fcd8ef"
   ],
   "ContainedObjects_path": "ScatteredLives.bf4938",
   "CustomMesh": {
@@ -29,7 +34,7 @@
     "NormalURL": "",
     "TypeIndex": 6
   },
-  "Description": "Part of the 'Scattered Lives' Storyline",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
   "GUID": "bf4938",
@@ -40,8 +45,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "ScatteredLives.bf4938.luascriptstate",
+  "LuaScript_path": "ScatteredLives.bf4938.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-39.16,90]}",
@@ -50,21 +55,17 @@
   "Nickname": "Scattered Lives",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Scattered"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -106.163,
-    "posY": 1.697,
-    "posZ": 2.248,
+    "posX": 92.737,
+    "posY": 0.608,
+    "posZ": 17.585,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

@@ -11,7 +11,7 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "BanePotion.e74931",
+    "BanePotion.b324d7",
     "Nighthawk.bc2172",
     "SaviourSchnapps.50303d"
   ],
@@ -53,9 +53,9 @@
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": 61.672,
-    "posY": 1.916,
-    "posZ": -2.37,
+    "posX": -44.162,
+    "posY": 1.601,
+    "posZ": -7.547,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

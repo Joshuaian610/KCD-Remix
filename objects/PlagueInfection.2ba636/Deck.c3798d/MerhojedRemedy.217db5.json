@@ -1,0 +1,59 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 1002600,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "5755": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16773949823158639108/F292F4310D6C12AAD02C52369CFC9C2771CEC77B/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14239492499608408949/9EEC0D9410DA9D15C8CF3343F7AA57E0761509D6/",
+      "NumHeight": 1,
+      "NumWidth": 3,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "217db5",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Merhojed Remedy",
+  "SidewaysCard": true,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -11.89,
+    "posY": 0.662,
+    "posZ": -15,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.1,
+    "scaleY": 1,
+    "scaleZ": 1.1
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -44,15 +44,11 @@
   "Nickname": "Sasau Marks",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "MarksBowl",
-    "MarksBowl_Sasau"
-  ],
   "Tooltip": true,
   "Transform": {
     "posX": -29,
-    "posY": 0.607,
-    "posZ": -2.3,
+    "posY": 0.608,
+    "posZ": -1,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

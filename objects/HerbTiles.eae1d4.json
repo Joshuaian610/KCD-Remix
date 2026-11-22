@@ -14,10 +14,6 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Herbs.02248e",
-    "Herbs.177de5",
-    "Herbs.6bf12d",
-    "Herbs.4ba629",
     "Herbs.db6340",
     "Herbs.dadb41",
     "Herbs.3f9503",
@@ -49,7 +45,11 @@
     "Herbs.405175",
     "Herbs.57f191",
     "Herbs.3d7580",
-    "Herbs.6eec71"
+    "Herbs.6eec71",
+    "Herbs.001cc6",
+    "Herbs.177de5",
+    "Herbs.6bf12d",
+    "Herbs.4ba629"
   ],
   "ContainedObjects_path": "HerbTiles.eae1d4",
   "CustomMesh": {
@@ -72,7 +72,7 @@
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScript": "",
   "LuaScriptState": "",
   "MaterialIndex": -1,
@@ -82,14 +82,11 @@
   "Nickname": "Herb Tiles",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "HerbBox"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -53.649,
-    "posY": 1.697,
-    "posZ": 47.817,
+    "posX": 36.956,
+    "posY": 0.608,
+    "posZ": 29.111,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

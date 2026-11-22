@@ -14,10 +14,13 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "PlagueInfectionMerhojedRemedy.b3b324",
-    "PlagueInfectionII.846e64",
+    "BlockSquare.24b2a8",
     "AlchemyPractice.361648",
-    "PlagueInfectionI.69a664"
+    "BlockSquare.5dae9b",
+    "PlagueInfectionI.69a664",
+    "PlagueInfectionII.8d5fc6",
+    "BlockSquare.b75f5f",
+    "Deck.c3798d"
   ],
   "ContainedObjects_path": "PlagueInfection.2ba636",
   "CustomMesh": {
@@ -41,8 +44,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "PlagueInfection.2ba636.luascriptstate",
+  "LuaScript_path": "PlagueInfection.2ba636.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-47.02,90]}",
@@ -51,21 +54,17 @@
   "Nickname": "Plague Infection",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Plague"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -106.185,
-    "posY": 1.697,
-    "posZ": 6.849,
+    "posX": 85.237,
+    "posY": 0.608,
+    "posZ": 11.085,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

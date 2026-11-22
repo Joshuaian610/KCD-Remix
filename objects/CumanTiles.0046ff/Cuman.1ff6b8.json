@@ -26,7 +26,7 @@
   "GUID": "1ff6b8",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -40,16 +40,16 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "CumanTile"
+    "EnemyToken"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -42.783,
-    "posY": 2.325,
-    "posZ": -24.308,
+    "posX": 49.96,
+    "posY": 1.72,
+    "posZ": 29.201,
     "rotX": 0,
     "rotY": 180,
-    "rotZ": 180,
+    "rotZ": 181,
     "scaleX": 2.5,
     "scaleY": 1,
     "scaleZ": 2.5

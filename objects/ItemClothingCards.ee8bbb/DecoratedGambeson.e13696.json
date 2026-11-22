@@ -44,8 +44,7 @@
   "Tags": [
     "ItemCard",
     "ItemClothing",
-    "SlotChest",
-    "EquipSlot_C"
+    "SlotChest"
   ],
   "Tooltip": true,
   "Transform": {

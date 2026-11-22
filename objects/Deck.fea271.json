@@ -94,16 +94,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "AdvancedSkill",
-    "AdvancedSkill_Green",
-    "CardFrames"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -50.949,
-    "posY": 1.696,
-    "posZ": 22.352,
+    "posX": 44.946,
+    "posY": 1.685,
+    "posZ": 4.055,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

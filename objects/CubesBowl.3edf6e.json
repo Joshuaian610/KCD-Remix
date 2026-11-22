@@ -6,9 +6,9 @@
   },
   "Autoraise": true,
   "ColorDiffuse": {
-    "b": 0.168,
-    "g": 0.701,
-    "r": 0.192
+    "b": 0.28235,
+    "g": 0.48235,
+    "r": 0.54118
   },
   "Description": "",
   "DragSelectable": true,
@@ -28,11 +28,14 @@
   "Nickname": "Cubes Bowl",
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "nonInteractive"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -81.5,
-    "posY": 1.163,
-    "posZ": -21,
+    "posX": -71.602,
+    "posY": 0.717,
+    "posZ": -23.75,
     "rotX": 0,
     "rotY": 90,
     "rotZ": 0,

@@ -11,7 +11,7 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Cube.a02bbf"
+    "Cube.7ecdad"
   ],
   "ContainedObjects_path": "CubesBag.458acf",
   "CustomMesh": {
@@ -44,18 +44,13 @@
   "Nickname": "Cubes Bag",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "CubeBowl",
-    "CubeBowl_Brown",
-    "PlayerTray_Brown"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 16.498,
-    "posY": 1.2,
-    "posZ": -21.002,
+    "posX": 28.388,
+    "posY": 0.67,
+    "posZ": -23.74,
     "rotX": 0,
-    "rotY": 180,
+    "rotY": 0,
     "rotZ": 0,
     "scaleX": 1,
     "scaleY": 1,

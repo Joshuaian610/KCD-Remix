@@ -14,11 +14,6 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Animals.c3e022",
-    "Animals.e05a47",
-    "Animals.c5aeb2",
-    "Animals.4ae722",
-    "Animals.efc1ac",
     "Animals.b745cf",
     "Animals.7d45c4",
     "Animals.261d3a",
@@ -43,7 +38,12 @@
     "Animals.a32e4c",
     "Animals.fcd242",
     "Animals.5ffbc1",
-    "Animals.95e211"
+    "Animals.95e211",
+    "Animals.c3e022",
+    "Animals.c5aeb2",
+    "Animals.e05a47",
+    "Animals.4ae722",
+    "Animals.efc1ac"
   ],
   "ContainedObjects_path": "AnimalTiles.140544",
   "CustomMesh": {
@@ -66,7 +66,7 @@
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScript": "",
   "LuaScriptState": "",
   "MaterialIndex": -1,
@@ -76,14 +76,11 @@
   "Nickname": "Animal Tiles",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "AnimalBox"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -46.635,
-    "posY": 1.697,
-    "posZ": 47.817,
+    "posX": 39.82,
+    "posY": 0.608,
+    "posZ": 29.111,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

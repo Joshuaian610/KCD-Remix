@@ -177,14 +177,11 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "ItemMarket"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 39.542,
-    "posY": 2.01,
-    "posZ": 18.701,
+    "posX": -66.296,
+    "posY": 1.905,
+    "posZ": 13.529,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

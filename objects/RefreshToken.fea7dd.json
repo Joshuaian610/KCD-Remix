@@ -40,15 +40,11 @@
   "Nickname": "Refresh Token",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "RefreshToken",
-    "RefreshToken_Green"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -83.323,
-    "posY": 1.203,
-    "posZ": -18.35,
+    "posX": -68.235,
+    "posY": 0.726,
+    "posZ": -23.75,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

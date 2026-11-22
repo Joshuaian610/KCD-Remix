@@ -38,17 +38,13 @@
   "Nickname": "Figure",
   "Snap": false,
   "Sticky": true,
-  "Tags": [
-    "PlayerFigure",
-    "PlayerFigure_Blue"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -40.969,
-    "posY": 1.206,
-    "posZ": -18.348,
+    "posX": -19.867,
+    "posY": 0.726,
+    "posZ": -21.479,
     "rotX": 0,
-    "rotY": 180,
+    "rotY": 0,
     "rotZ": 0,
     "scaleX": 1,
     "scaleY": 1,

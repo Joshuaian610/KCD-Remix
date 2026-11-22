@@ -38,21 +38,17 @@
   "Nickname": "Meeting Tile",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "SeatMeetingTile",
-    "SeatMeetingTile_Green"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -87.045,
-    "posY": 1.238,
-    "posZ": -18.75,
+    "posX": -88.87,
+    "posY": 0.76,
+    "posZ": -22.392,
     "rotX": 0,
     "rotY": 0,
     "rotZ": 0,
-    "scaleX": 2.5,
-    "scaleY": 1,
-    "scaleZ": 2.5
+    "scaleX": 2.44,
+    "scaleY": 0.98,
+    "scaleZ": 2.44
   },
   "Value": 0,
   "XmlUI": ""

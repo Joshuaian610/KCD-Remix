@@ -14,14 +14,15 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "SiegeofTalmbergToken01.10e945",
-    "SiegeofTalmbergI.c9bcde",
-    "KonradKyeser.411cc9",
-    "SiegeofTalmbergIII.f36940",
+    "BlockSquare.011b35",
+    "BlockSquare.039abb",
+    "KonradKyeser.10e945",
+    "Deck.3807eb",
     "SiegeofTalmbergII.3f6e2e",
-    "KonradKyeser.8f2579",
-    "KonradKyeser.666f48",
-    "SiegeofTalmbergTile01.429865"
+    "SiegeCamp.429865",
+    "SiegeofTalmbergI.c9bcde",
+    "BlockSquare.db4cce",
+    "SiegeofTalmbergIII.f36940"
   ],
   "ContainedObjects_path": "SiegeofTalmberg.4bccd6",
   "CustomMesh": {
@@ -45,8 +46,8 @@
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
   "Locked": false,
-  "LuaScript": "",
-  "LuaScriptState": "",
+  "LuaScriptState_path": "SiegeofTalmberg.4bccd6.luascriptstate",
+  "LuaScript_path": "SiegeofTalmberg.4bccd6.ttslua",
   "MaterialIndex": -1,
   "MeasureMovement": false,
   "Memo": "{\"home\":[-86.19,-52.26,90]}",
@@ -55,21 +56,17 @@
   "Nickname": "Siege of Talmberg",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "StoryBox",
-    "StoryBox_Siege"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -108.615,
-    "posY": 1.697,
-    "posZ": -2.43,
+    "posX": 92.737,
+    "posY": 0.608,
+    "posZ": 4.585,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.67,
-    "scaleY": 0.67,
-    "scaleZ": 0.67
+    "scaleX": 1,
+    "scaleY": 1,
+    "scaleZ": 1
   },
   "Value": 0,
   "XmlUI": ""

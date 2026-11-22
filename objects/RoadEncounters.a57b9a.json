@@ -11,7 +11,6 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "FriendlyCampfire.",
     "AftertheRain.",
     "Accident.",
     "Four-LeafClover.",
@@ -40,7 +39,8 @@
     "SupplyWagon.",
     "ArcheryContest.",
     "Gamekeeper.",
-    "Poacher."
+    "Poacher.",
+    "FriendlyCampfire.875a99"
   ],
   "ContainedObjects_path": "RoadEncounters.a57b9a",
   "CustomDeck": {
@@ -55,7 +55,6 @@
     }
   },
   "DeckIDs": [
-    1001902,
     1001903,
     1001909,
     1001928,
@@ -84,7 +83,8 @@
     1001914,
     1001922,
     1001912,
-    1001927
+    1001927,
+    1001902
   ],
   "Description": "",
   "DragSelectable": true,
@@ -107,9 +107,9 @@
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": -60.662,
-    "posY": 1.863,
-    "posZ": 47.817,
+    "posX": -26,
+    "posY": 0.773,
+    "posZ": 29.625,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

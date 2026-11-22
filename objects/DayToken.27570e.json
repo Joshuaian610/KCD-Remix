@@ -40,14 +40,11 @@
   "Nickname": "Day Token",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "DayToken"
-  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -52.484,
+    "posX": 49.96,
     "posY": 0.786,
-    "posZ": -1.783,
+    "posZ": 29.201,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

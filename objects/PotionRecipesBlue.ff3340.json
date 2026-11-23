@@ -11,11 +11,11 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "LazarusPotion.7e2af7",
-    "Moonshine.d1ce81",
-    "MarigoldDecoction.ea2785"
+    "BanePotion.b324d7",
+    "Nighthawk.bc2172",
+    "SaviourSchnapps.50303d"
   ],
-  "ContainedObjects_path": "Deck.c38734",
+  "ContainedObjects_path": "PotionRecipesBlue.ff3340",
   "CustomDeck": {
     "10018": {
       "BackIsHidden": true,
@@ -28,14 +28,14 @@
     }
   },
   "DeckIDs": [
-    1001810,
-    1001811,
-    1001809
+    1001812,
+    1001813,
+    1001814
   ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "c38734",
+  "GUID": "ff3340",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -47,15 +47,15 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Potion Recipes Blue",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": -43.914,
+    "posX": -43.916,
     "posY": 1.601,
-    "posZ": 4.483,
+    "posZ": -7.537,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

@@ -209,3 +209,50 @@ function refreshLine(_, _, obj)
   local broadcastStr = string.format("%s has refreshed the %s.", getPlayerStr(playerColor), refreshNames[refreshName])
   broadcastToAll(broadcastStr, "White")
 end
+
+
+function shuffleSetup(_, _, obj)
+  -- handles shuffle of all relevant game decks
+
+  -- ensure shuffle only ever happens once
+  if obj.hasTag("GameShuffled") then return end
+  obj.clearContextMenu()
+  obj.addTag("GameShuffled")
+
+  local shuffleList = {
+    getObjectbyName("Item Clothing Cards"),
+    getObjectbyName("Item Weapon Cards"),
+    getObjectbyName("Item Armor Cards"),
+    getObjectbyName("Item Bow Cards"),
+    getObjectbyName("Item Market Cards"),
+    getObjectbyName("Horse Tiles"),
+    getObjectbyName("Potion Recipes White"),
+    getObjectbyName("Potion Recipes Orange"),
+    getObjectbyName("Potion Recipes Yellow"),
+    getObjectbyName("Potion Recipes Red"),
+    getObjectbyName("Potion Recipes Blue"),
+    getObjectbyName("Herb Tiles"),
+    getObjectbyName("Animal Tiles"),
+    getObjectbyName("Bandit Tiles"),
+    getObjectbyName("Raubritter Tiles"),
+    getObjectbyName("Cuman Tiles"),
+    getObjectbyName("Good Cards"),
+    getObjectbyName("Bad Cards"),
+    getObjectbyName("Road Encounters"),
+    getObjectbyName("Town Encounters"),
+    getObjectbyName("Wound Tokens"),
+    getObjectbyName("Inn Quests"),
+    getObjectbyName("Starting Quests"),
+    getObjectbyName("Character Cards"),
+    getObjectbyName("Advanced Deck Strength"),
+    getObjectbyName("Advanced Deck Perception"),
+    getObjectbyName("Advanced Deck Dexterity"),
+    getObjectbyName("Advanced Deck Speech"),
+  }
+
+  for i = 1, #shuffleList do
+    if shuffleList[i] ~= nil then
+      shuffleList[i].shuffle()
+    end
+  end
+end

@@ -11,11 +11,11 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "LetheanWater.b8289a",
-    "DollmakerPotion.f1ef31",
-    "BivojsRage.76ec61"
+    "Padfoot.ae82e0",
+    "BardPotion.01e8c0",
+    "Amor.e36dd4"
   ],
-  "ContainedObjects_path": "Deck.10203c",
+  "ContainedObjects_path": "PotionRecipesWhite.821f95",
   "CustomDeck": {
     "10018": {
       "BackIsHidden": true,
@@ -28,14 +28,14 @@
     }
   },
   "DeckIDs": [
-    1001805,
-    1001804,
-    1001803
+    1001800,
+    1001801,
+    1001802
   ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "10203c",
+  "GUID": "821f95",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -47,15 +47,15 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Potion Recipes White",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": -43.905,
+    "posX": -43.91,
     "posY": 1.601,
-    "posZ": -3.538,
+    "posZ": 8.529,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

@@ -172,6 +172,11 @@ function onObjectSpawn(obj)
   if obj.hasTag("CharacterCard") then
     obj.addContextMenuItem("Return Card", returnToDeck)
   end
+
+  -- main map shuffle context menu
+  if obj.getName() == "Map Board" and not obj.hasTag("GameShuffled") then
+    obj.addContextMenuItem("Setup Shuffle All", shuffleSetup)
+  end
 end
 
 

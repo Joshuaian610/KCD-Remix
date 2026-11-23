@@ -11,11 +11,11 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "Padfoot.ae82e0",
-    "BardPotion.01e8c0",
-    "Amor.e36dd4"
+    "LazarusPotion.7e2af7",
+    "Moonshine.d1ce81",
+    "MarigoldDecoction.ea2785"
   ],
-  "ContainedObjects_path": "Deck.821f95",
+  "ContainedObjects_path": "PotionRecipesOrange.c38734",
   "CustomDeck": {
     "10018": {
       "BackIsHidden": true,
@@ -28,14 +28,14 @@
     }
   },
   "DeckIDs": [
-    1001800,
-    1001801,
-    1001802
+    1001810,
+    1001811,
+    1001809
   ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "821f95",
+  "GUID": "c38734",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -47,15 +47,15 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Potion Recipes Orange",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": -43.91,
+    "posX": -43.914,
     "posY": 1.601,
-    "posZ": 8.529,
+    "posZ": 4.483,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

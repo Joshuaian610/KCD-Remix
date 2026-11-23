@@ -154,6 +154,19 @@ function onObjectSpawn(obj)
     initButtonFocusTile(obj)
   end
 
+  -- cleanup player area context menu
+  if obj.getName() == "Player Board" and not obj.hasTag("areaSetup") then
+    -- need board count to not create on last board
+    local boardCount = 0
+    for _, object in pairs(getObjects()) do
+      if object.getName() == "Player Board" then
+        boardCount = boardCount + 1
+      end
+    end
+    if boardCount > 2 then
+      obj.addContextMenuItem("Clean Up Unused", cleanupPlayerarea)
+    end
+  end
 end
 
 

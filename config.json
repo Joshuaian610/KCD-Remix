@@ -372,7 +372,7 @@
   "SaveName": "Kingdom Come Deliverance",
   "Sky": "Sky_Forest",
   "SnapPoints_path": "SnapPoints.json",
-  "TabStates_path": "TabStates.json",
+  "TabStates": {},
   "Table": "Table_None",
   "Tags": [
     "Tables",

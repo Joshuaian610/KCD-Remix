@@ -298,7 +298,7 @@ function drawTestCard(buttonObj, _, _)
   -- check if test pad is full, return out if so
   if nextAvailableSlot > #posTestCards then
     local errorStr = string.format("%s: Unable to automatically Draw Test Card, please draw manually.", playerStr)
-    broadcastToAll(errorStr, "Orange")
+    broadcastToAll(errorStr, "Red")
     return
   end
 
@@ -808,4 +808,40 @@ function rotateFocus(buttonObj, _, _)
     initButtonFocusTile(buttonObj)
 
   end, 0.5)
+end
+
+
+function cleanupPlayerarea(clickerColor, _, obj)
+  -- handles cleanup of an unused player area
+
+  local playerColor = obj.getGMNotes()
+
+  -- first check if last player board, return out if so
+  local boardCount = 0
+  for _, object in pairs(getObjects()) do
+    if object.getName() == "Player Board" then
+      boardCount = boardCount + 1
+    end
+  end
+  if boardCount == 2 then
+    local clickerStr = getPlayerStr(clickerColor)
+    local errorStr = string.format("%s: Unable to Clean Up Last Two Player Areas!", clickerStr)
+    broadcastToAll(errorStr, "Red")
+    return
+  end
+
+  for _, object in pairs(getObjects()) do
+    if object.getGMNotes() == playerColor then
+      object.destruct()
+    end
+  end
+
+  -- remove context menu on last 2 areas standing if only 2 left
+  if boardCount == 3 then
+    for _, object in pairs(getObjects()) do
+      if object.getName() == "Player Board" then
+        object.clearContextMenu()
+      end
+    end
+  end
 end

@@ -134,8 +134,24 @@ function onObjectSpawn(obj)
     obj.addContextMenuItem("Refresh Cards", refreshShop)
   end
 
+  -- refresh token context menus to refresh row or column
   if obj.getName() == "Refresh Token" then
     obj.addContextMenuItem("Refresh Cards", refreshLine)
+  end
+
+  -- meeting tile rotation button
+  if obj.getName() == "Meeting Tile" then
+    if not obj.is_face_down then
+      initButtonMeetingTile(obj)
+    end
+    if obj.is_face_down then
+      obj.addContextMenuItem("Refresh", refreshMeetingTile)
+    end
+  end
+
+  -- focus tile rotation button
+  if obj.getName() == "Focus Tile" then
+    initButtonFocusTile(obj)
   end
 
 end

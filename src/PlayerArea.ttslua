@@ -189,6 +189,47 @@ function initButtonMinus20(buttonObj)
 end
 
 
+function initButtonMeetingTile(buttonObj)
+
+  buttonObj.clearButtons()
+
+    local rotation = buttonObj.is_face_down and { 0.00, 180.00, 180.00 } or { 0.00, 180.00, 0.00 }
+    local position = buttonObj.is_face_down and { 0, -.04, 0 } or { 0, .04, 0 }
+
+  buttonObj.createButton({
+    click_function = "rotateMeeting",
+    function_owner = self,
+    label          = "",
+    position       = { 0, .04, 0 },
+    rotation       = { 0, 180, 0 },
+    width          = 500,
+    height         = 500,
+    color          = { 1, 1, 1, 0 },
+    tooltip        = "Left Click To Rotate Meeting Tile Forwards\n\nRight Click To Rotate Meeting Tile Backwards",
+  })
+end
+
+
+function initButtonFocusTile(buttonObj)
+  buttonObj.clearButtons()
+
+  local rotation = buttonObj.is_face_down and { 0.00, 180.00, 180.00 } or { 0.00, 180.00, 0.00 }
+  local position = buttonObj.is_face_down and { 0, -.05, 0 } or { 0, .05, 0 }
+
+  buttonObj.createButton({
+    click_function = "rotateFocus",
+    function_owner = self,
+    label          = "",
+    position       = position,
+    rotation       = rotation,
+    width          = 1350,
+    height         = 220,
+    color          = { 1, 1, 1, 0 },
+    tooltip        = "Click To Flip Fous Token..",
+  })
+end
+
+
 function reshuffleDeck(buttonObj, _, _)
   -- this function handles the action of finding a playerColor's discard, then, shuffling it into a new or current Player Deck
 
@@ -374,6 +415,23 @@ function cleanupTest(buttonObj, _, _)
   if foundCard then
     placeObject(foundCard, rotFaceup, posDiscard, true, false)
   end
+
+  --set meeting tile to grey, focus tile facedown
+  local meetingTile = getObjectbyNameAndNotes("Meeting Tile", playerColor)
+  local focusTile = getObjectbyNameAndNotes("Focus Tile", playerColor)
+  local rotMeeting = { 0.00, 180.00, 180.00 }
+  local rotFocus = { 0.00, 180.00, 180.00 }
+  if meetingTile.hasTag("isMet") then
+    meetingTile.setRotationSmooth(rotMeeting, false, true)
+    meetingTile.addContextMenuItem("Refresh", refreshMeetingTile)
+    meetingTile.removeTag("isMet")
+  end
+  focusTile.setRotationSmooth(rotFocus, false, true)
+  Wait.time(function()
+
+    initButtonFocusTile(focusTile)
+
+  end, 1)
 
   local broadcastStr = string.format("%s has completed their Test.", playerStr)
   broadcastToAll(broadcastStr, "White")
@@ -664,4 +722,90 @@ function returnTile(playerColor, _, obj)
 
   local broadcastStr = string.format("%s has Returned: %s", playerStr, tileName)
   broadcastToAll(broadcastStr, "White")
+end
+
+
+function refreshMeetingTile(_, _, obj)
+  -- handles flip back to refreshed state of meeting tile
+  local rotFaceup = { 0.00, 0.00, 0.00 }
+  obj.setRotationSmooth(rotFaceup, false, true)
+end
+
+
+function rotateMeeting(buttonObj, _, altClick)
+  -- handles detection and increment of current rotation of meeting tiles
+  -- left click advances, right click retreats
+  local rotations = {
+    ["Grey"]  = { 0.00, 0.00, 0.00 },
+    ["Green"] = { 0.00, 60.00, 0.00 },
+    ["Blue"]  = { 0.00, 120.00, 0.00 },
+    ["Gold"]  = { 0.00, 180.00, 0.00 },
+    ["Red"]   = { 0.00, 240.00, 0.00 },
+    ["Brown"] = { 0.00, 300.00, 0.00 },
+  }
+
+  local rotationList = { "Grey", "Green", "Blue", "Gold", "Red", "Brown" }
+  local currentRotation = buttonObj.getRotation()
+
+  if math.abs((currentRotation.z % 360) - 180) < 1 then
+    return
+  end
+
+  local currentIndex
+
+  for i, name in ipairs(rotationList) do
+    local difference = math.abs((currentRotation.y - rotations[name][2] + 180) % 360 - 180)
+    if difference < 1 then
+      currentIndex = i
+      break
+    end
+  end
+
+  if not currentIndex then
+    return
+  end
+
+  if altClick then
+    currentIndex = currentIndex - 1
+    if currentIndex < 1 then
+      currentIndex = #rotationList
+    end
+  else
+    currentIndex = currentIndex + 1
+    if currentIndex > #rotationList then
+      currentIndex = 1
+    end
+  end
+
+  if rotationList[currentIndex] == "Grey" then
+    if buttonObj.hasTag("isMet") then
+      buttonObj.removeTag("isMet")
+    end
+  else
+    if not buttonObj.hasTag("isMet") then
+      buttonObj.addTag("isMet")
+    end
+  end
+
+  buttonObj.setRotation(rotations[rotationList[currentIndex]])
+end
+
+
+function rotateFocus(buttonObj, _, _)
+  -- handles rotation flip of focus tile on button click
+
+  local rotFaceup = { 0.00, 180.00, 180.00 } -- not primed
+  local rotFacedown = { 0.00, 180.00, 0.00 } -- primed
+
+  if buttonObj.is_face_down then
+    buttonObj.setRotation(rotFacedown)
+  elseif not buttonObj.is_face_down then
+    buttonObj.setRotation(rotFaceup)
+  end
+
+  Wait.time(function()
+
+    initButtonFocusTile(buttonObj)
+
+  end, 0.5)
 end

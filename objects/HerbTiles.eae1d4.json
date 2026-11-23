@@ -14,7 +14,6 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Herbs.df1507",
     "Herbs.db6340",
     "Herbs.dadb41",
     "Herbs.3f9503",
@@ -49,7 +48,8 @@
     "Herbs.001cc6",
     "Herbs.177de5",
     "Herbs.6bf12d",
-    "Herbs.4ba629"
+    "Herbs.4ba629",
+    "Herbs.df1507"
   ],
   "ContainedObjects_path": "HerbTiles.eae1d4",
   "CustomMesh": {

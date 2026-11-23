@@ -112,7 +112,7 @@
     }
   ],
   "Autoraise": true,
-  "CardID": 1000811,
+  "CardID": 1000806,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -132,7 +132,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "02d1cd",
+  "GUID": "fc9bea",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -144,19 +144,21 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Warhorse Jenda",
+  "Nickname": "Kanthaka",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [],
+  "Tags": [
+    "Horse"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 76.268,
-    "posY": 1.913,
-    "posZ": 4.245,
+    "posX": -20.443,
+    "posY": 4.411,
+    "posZ": -70,
     "rotX": 0,
-    "rotY": 270,
-    "rotZ": 179,
+    "rotY": 180,
+    "rotZ": 180,
     "scaleX": 2.4,
     "scaleY": 1,
     "scaleZ": 2.4

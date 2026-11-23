@@ -16,6 +16,14 @@ posPlayerDiscard = {
 }
 
 
+posPlayerRefreshReturn = {
+  ["Green"]  = { -68.24, 1.00, -23.75 },
+  ["Blue"]   = { -18.24, 1.00, -23.75 },
+  ["Brown"]  = { 31.80, 1.00, -23.75 },
+  ["Orange"] = { 81.77, 1.00, -23.75 },
+}
+
+
 posPlayerInitiateTest = {
   ["Green"]  = { -72.80, 1.00, -45.76 },
   ["Blue"]   = { -22.80, 1.00, -45.76 },

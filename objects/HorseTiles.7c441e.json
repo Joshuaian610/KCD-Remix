@@ -11,20 +11,20 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "Rocinante.9c3ed3",
-    "AlBuraq.602c74",
-    "Kelpie.c8fbb7",
-    "Boxer.d0de31",
-    "Epona.5b99ce",
-    "Shadowmere.2b4405",
-    "Roach.36478e",
-    "Kanthaka.fc9bea",
-    "Bucephalus.92d6c7",
+    "WarhorseJenda.02d1cd",
     "Chollima.2c70e2",
-    "Pebbles.95c8d0",
-    "WarhorseJenda.02d1cd"
+    "Bucephalus.92d6c7",
+    "Kanthaka.fc9bea",
+    "Roach.36478e",
+    "Shadowmere.2b4405",
+    "Epona.5b99ce",
+    "Boxer.d0de31",
+    "Kelpie.c8fbb7",
+    "AlBuraq.602c74",
+    "Rocinante.9c3ed3",
+    "Pebbles.95c8d0"
   ],
-  "ContainedObjects_path": "HorseTiles.6c6f42",
+  "ContainedObjects_path": "HorseTiles.7c441e",
   "CustomDeck": {
     "10008": {
       "BackIsHidden": true,
@@ -37,23 +37,23 @@
     }
   },
   "DeckIDs": [
-    1000802,
-    1000807,
-    1000803,
-    1000801,
-    1000805,
-    1000810,
-    1000804,
-    1000806,
-    1000809,
+    1000811,
     1000808,
-    1000800,
-    1000811
+    1000809,
+    1000806,
+    1000804,
+    1000810,
+    1000805,
+    1000801,
+    1000803,
+    1000807,
+    1000802,
+    1000800
   ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "6c6f42",
+  "GUID": "7c441e",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -69,6 +69,9 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "Horse"
+  ],
   "Tooltip": true,
   "Transform": {
     "posX": -60.689,

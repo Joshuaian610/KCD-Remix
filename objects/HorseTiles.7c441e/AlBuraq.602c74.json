@@ -268,6 +268,17 @@
     "g": 0.71324,
     "r": 0.71324
   },
+  "CustomDeck": {
+    "10008": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10411117695929921942/DCA51134934CC442F939F954EE752C7C2EF2B564/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14186033938331096071/A8C3A27D64901B951C7FE5F4297C373C49B6A0E6/",
+      "NumHeight": 3,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
@@ -287,14 +298,16 @@
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [],
+  "Tags": [
+    "Horse"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 67.475,
-    "posY": 1.495,
-    "posZ": 7.84,
+    "posX": -38.672,
+    "posY": 3.811,
+    "posZ": -70,
     "rotX": 0,
-    "rotY": 270,
+    "rotY": 180,
     "rotZ": 180,
     "scaleX": 2.4,
     "scaleY": 1,

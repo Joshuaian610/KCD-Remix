@@ -556,9 +556,12 @@ function returnToDeck(playerColor, _, obj)
 
   elseif obj.hasTag("AdvancedSkill_Blue") then
     posReturn = { 56.75, 1.69, 4.05 }
-  
+
   elseif obj.hasTag("SpecialItem") then
     posReturn = { -40.42, 1.66, -12.84 }
+
+  elseif obj.hasTag("Horse") then
+    posReturn = { -60.69, 1.64, 22.09 }
   end
 
   returnDeck = getObjectbyXandZ("Deck", posReturn[1], posReturn[3])

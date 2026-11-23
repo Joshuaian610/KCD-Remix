@@ -1,0 +1,211 @@
+function doRefreshTiles(tileType)
+  -- wrapper to call refreshTiles() by type in some future predawn scripting or something
+  local bag = tileType == "Herb" and getObjectbyName("Herb Tiles") or getObjectbyName("Animal Tiles")
+  refreshTiles(_, _, bag)
+end
+
+
+function refreshTiles(_, _, obj)
+  -- handles check of all tile slots on main board of type (herb or animal)
+  -- any empty slots will be refilled
+
+  local tileType = obj.getName() == "Herb Tiles" and "Herb" or "Animal"
+  local posMapTiles = posMapBoardTiles[tileType]
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+  local tolerance = 0.50
+
+  for _, pos in ipairs(posMapTiles) do
+    local tileFound = false
+
+    for _, boardObj in ipairs(getObjects()) do
+      local posObj = boardObj.getPosition()
+
+      if boardObj.type == "Generic" and
+        math.abs(posObj.x - pos[1]) <= tolerance and
+        math.abs(posObj.z - pos[3]) <= tolerance then
+        tileFound = true
+        break
+      end
+    end
+
+    if not tileFound then
+      local tile = obj.takeObject()
+      placeObject(tile, rotFaceup, pos, true, false)
+    end
+  end
+end
+
+
+function refreshAdvancedCards(_, _, obj)
+  -- handles check of face up advanced card slots, refreshes any empty
+
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+
+  for _, pos in pairs(posCardStand) do
+    local posTopCard = pos["TopCard"]
+    local posBottomCard = pos["BottomCard"]
+
+    local cardTop = getObjectbyXandZ("Card", posTopCard[1], posTopCard[3])
+    local cardBottom = getObjectbyXandZ("Card", posBottomCard[1], posBottomCard[3])
+    local dealDeck = getObjectbyXandZ("Deck", posTopCard[1], posTopCard[3])
+
+    if not dealDeck then return end
+
+    if not cardTop then
+      local card = dealDeck.takeObject()
+      placeObject(card, rotFaceup, posTopCard, true, false)
+    end
+
+    if not cardBottom then
+      local card = dealDeck.takeObject()
+      placeObject(card, rotFaceup, posBottomCard, true, false)
+    end
+  end
+end
+
+
+function refreshShop(_, _, obj)
+  -- handles check of all shop slots, refreshes any empty
+
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+
+  for shopType, shop in pairs(posShop) do
+    if shopType == "Clothing" or shopType == "Armor" or shopType == "Weapon" or shopType == "Bow" or shopType == "Market" then
+      local posDeck = shop["Deck"]
+      local posSlots = shop["Slots"]
+      local dealDeck = getObjectbyXandZ("Deck", posDeck[1], posDeck[3])
+
+      if not dealDeck then return end
+
+      for _, pos in ipairs(posSlots) do
+        local card = getObjectbyXandZ("Card", pos[1], pos[3])
+
+        if not card then
+          local card = dealDeck.takeObject()
+          placeObject(card, rotFaceup, pos, true, false)
+        end
+      end
+    end
+  end
+
+  -- handles check of empty Horse slots, refreshes any empty
+  local posHorseDeck = posShop["Horse"]["Deck"]
+  local posHorseSlots = posShop["Horse"]["Slots"]
+
+  for _, pos in ipairs(posHorseSlots) do
+    local card = getObjectbyXandZ("Card", pos[1], pos[3])
+    local dealDeck = getObjectbyXandZ("Deck", posHorseDeck[1], posHorseDeck[3])
+
+    if not dealDeck then return end
+
+    if not card then
+      local card = dealDeck.takeObject()
+      placeObject(card, rotFaceup, pos, true, false)
+    end
+  end
+end
+
+
+function refreshLine(_, _, obj)
+  -- handles the refresh of either the shop row, or, advanced card column
+
+  local playerColor = obj.getGMNotes()
+  local posToken = obj.getPosition()
+  local tolerance = 0.50
+
+  local refreshType
+  local refreshName
+
+  for shopType, shop in pairs(posShop) do
+    if shop["Refresh"] and
+      math.abs(posToken.x - shop["Refresh"][1]) <= tolerance and
+      math.abs(posToken.z - shop["Refresh"][3]) <= tolerance then
+      refreshType = "Shop"
+      refreshName = shopType
+      break
+    end
+  end
+
+  if not refreshType then
+    for cardStandType, cardStand in pairs(posCardStand) do
+      if math.abs(posToken.x - cardStand["Refresh"][1]) <= tolerance and
+        math.abs(posToken.z - cardStand["Refresh"][3]) <= tolerance then
+        refreshType = "Advanced"
+        refreshName = cardStandType
+        break
+      end
+    end
+  end
+
+  if not refreshType then return end
+
+  local foundCards = {}
+
+  if refreshType == "Shop" then
+    local shop = posShop[refreshName]
+
+    if shop["Slots"] then
+      for _, pos in ipairs(shop["Slots"]) do
+        local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
+
+        if foundCard then
+          foundCards[#foundCards + 1] = foundCard
+        end
+      end
+    elseif refreshName == "Horse" then
+      for _, pos in ipairs(shop["Slots"]) do
+        local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
+
+        if foundCard then
+          foundCards[#foundCards + 1] = foundCard
+        end
+      end
+    end
+  else
+    local cardStand = posCardStand[refreshName]
+    local posTopCard = cardStand["TopCard"]
+    local posBottomCard = cardStand["BottomCard"]
+
+    local foundCardTop = getObjectbyXandZ("Card", posTopCard[1], posTopCard[3])
+    local foundCardBottom = getObjectbyXandZ("Card", posBottomCard[1], posBottomCard[3])
+
+    if foundCardTop then
+      foundCards[#foundCards + 1] = foundCardTop
+    end
+
+    if foundCardBottom then
+      foundCards[#foundCards + 1] = foundCardBottom
+    end
+  end
+
+  for _, foundCard in ipairs(foundCards) do
+    returnToDeck(playerColor, _, foundCard)
+  end
+
+  Wait.time(function()
+    if refreshType == "Advanced" then
+      refreshAdvancedCards(playerColor, _, getObjectbyName("Card Stand"))
+    else
+      refreshShop(_, _, getObjectbyName("Shop Board"))
+    end
+  end, 1)
+
+  local rotFaceup = { 0.00, 1800.00, 0.00 }
+  placeObject(obj, rotFaceup, posPlayerRefreshReturn[playerColor], true, false)
+
+  local playerStr = getPlayerStr(playerColor)
+  local refreshNames = {
+    ["Horse"]      = "Horse Row",
+    ["Market"]     = "Market Rows",
+    ["Armor"]      = "Armor Row",
+    ["Weapon"]     = "Weapon Row",
+    ["Bow"]        = "Bow Row",
+    ["Clothing"]   = "Clothing Row",
+    ["Strength"]   = "Strength Column",
+    ["Perception"] = "Perception Column",
+    ["Dexterity"]  = "Dexterity Column",
+    ["Speech"]     = "Speech Column",
+  }
+  local broadcastStr = string.format("%s has refreshed the %s.", getPlayerStr(playerColor), refreshNames[refreshName])
+  broadcastToAll(broadcastStr, "White")
+end

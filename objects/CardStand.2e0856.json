@@ -156,9 +156,6 @@
   "Nickname": "Card Stand",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "nonInteractive"
-  ],
   "Tooltip": false,
   "Transform": {
     "posX": 47.895,

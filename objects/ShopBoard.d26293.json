@@ -465,9 +465,6 @@
   "Nickname": "Shop Board",
   "Snap": true,
   "Sticky": true,
-  "Tags": [
-    "nonInteractive"
-  ],
   "Tooltip": false,
   "Transform": {
     "posX": -52.834,

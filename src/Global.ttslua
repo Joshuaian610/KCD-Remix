@@ -1,3 +1,4 @@
+require("BoardAreas")
 require("Counters")
 require("GameData")
 require("Helpers")
@@ -117,6 +118,25 @@ function onObjectSpawn(obj)
     end
 
   end, 0.5)
+
+  -- refresh herb context menu on herb, animal tile bags
+  if obj.getName() == "Herb Tiles" or obj.getName() == "Animal Tiles" then
+    obj.addContextMenuItem("Refresh Tiles", refreshTiles)
+  end
+
+  -- refresh advanced cards context menu on card stand
+  if obj.getName() == "Card Stand" then
+    obj.addContextMenuItem("Refresh Cards", refreshAdvancedCards)
+  end
+
+  -- refresh shop cards context menu on shop board
+  if obj.getName() == "Shop Board" then
+    obj.addContextMenuItem("Refresh Cards", refreshShop)
+  end
+
+  if obj.getName() == "Refresh Token" then
+    obj.addContextMenuItem("Refresh Cards", refreshLine)
+  end
 
 end
 

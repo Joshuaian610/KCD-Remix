@@ -7,51 +7,6 @@
   "AttachedSnapPoints": [
     {
       "Position": {
-        "x": 0.665,
-        "y": 0.1,
-        "z": 0.836
-      },
-      "Rotation": {
-        "x": 0,
-        "y": 90,
-        "z": 0
-      },
-      "Tags": [
-        "AnimalTile"
-      ]
-    },
-    {
-      "Position": {
-        "x": 0.815,
-        "y": 0.1,
-        "z": 0.674
-      },
-      "Rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "Tags": [
-        "SmallInventory"
-      ]
-    },
-    {
-      "Position": {
-        "x": 0.512,
-        "y": 0.1,
-        "z": 0.998
-      },
-      "Rotation": {
-        "x": 0,
-        "y": 0,
-        "z": 0
-      },
-      "Tags": [
-        "SmallInventory"
-      ]
-    },
-    {
-      "Position": {
         "x": -0.011,
         "y": 0.1,
         "z": 0.245
@@ -262,16 +217,27 @@
     }
   ],
   "Autoraise": true,
-  "CardID": 1000809,
+  "CardID": 1000808,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
     "r": 0.71324
   },
+  "CustomDeck": {
+    "10008": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10411117695929921942/DCA51134934CC442F939F954EE752C7C2EF2B564/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14186033938331096071/A8C3A27D64901B951C7FE5F4297C373C49B6A0E6/",
+      "NumHeight": 3,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "92d6c7",
+  "GUID": "2c70e2",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -283,18 +249,20 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Bucephalus",
+  "Nickname": "Chollima",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
-  "Tags": [],
+  "Tags": [
+    "Horse"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 67.475,
-    "posY": 1.495,
-    "posZ": 7.84,
+    "posX": -14.367,
+    "posY": 4.611,
+    "posZ": -70,
     "rotX": 0,
-    "rotY": 270,
+    "rotY": 180,
     "rotZ": 180,
     "scaleX": 2.4,
     "scaleY": 1,

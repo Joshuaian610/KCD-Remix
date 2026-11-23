@@ -37,7 +37,6 @@
     "ItemArmorCards.91a9ea",
     "ItemBowCards.10b82c",
     "ItemMarketCards.7c57b9",
-    "HorseTiles.6c6f42",
     "SpecialItems.645c49",
     "Deck.ff3340",
     "Deck.10203c",
@@ -358,7 +357,8 @@
     "Log.d624cf",
     "Log.5f193c",
     "Log.6e3298",
-    "Log.b7fa64"
+    "Log.b7fa64",
+    "HorseTiles.7c441e"
   ],
   "PlayArea": 0.8031858,
   "PlayerCounts": [

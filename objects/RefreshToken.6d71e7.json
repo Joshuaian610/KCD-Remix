@@ -40,6 +40,9 @@
   "Nickname": "Refresh Token",
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "refreshToken"
+  ],
   "Tooltip": true,
   "Transform": {
     "posX": 31.804,

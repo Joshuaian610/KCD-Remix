@@ -38,6 +38,9 @@
   "Nickname": "Captain Bernard",
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "Trainer"
+  ],
   "Tooltip": true,
   "Transform": {
     "posX": 25.495,

@@ -43,7 +43,7 @@
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScriptState_path": "PlagueInfection.2ba636.luascriptstate",
   "LuaScript_path": "PlagueInfection.2ba636.ttslua",
   "MaterialIndex": -1,

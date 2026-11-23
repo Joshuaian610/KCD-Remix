@@ -45,6 +45,9 @@
   "Nickname": "Portrait Tile 1",
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "PortraitTile"
+  ],
   "Tooltip": false,
   "Transform": {
     "posX": 77.788,

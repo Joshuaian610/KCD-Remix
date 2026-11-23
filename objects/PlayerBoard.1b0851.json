@@ -7,18 +7,6 @@
   "AttachedSnapPoints": [
     {
       "Position": {
-        "x": 1.968,
-        "y": 0.079,
-        "z": 0.241
-      },
-      "Rotation": {
-        "x": 0,
-        "y": 180,
-        "z": 0
-      }
-    },
-    {
-      "Position": {
         "x": 6.835,
         "y": 0.079,
         "z": -3.005
@@ -1133,6 +1121,21 @@
       },
       "Tags": [
         "WoundToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": 1.968,
+        "y": 0.079,
+        "z": 0.241
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "PortraitTile"
       ]
     }
   ],

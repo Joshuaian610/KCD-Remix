@@ -38,6 +38,9 @@
   "Nickname": "Trough Lid 03",
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "Dirt"
+  ],
   "Tooltip": true,
   "Transform": {
     "posX": 78.289,

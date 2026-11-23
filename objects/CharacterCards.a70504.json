@@ -26,7 +26,7 @@
     "ZuzanaZbyshekAConvictsOffspring.07b165",
     "AgnesAdamAChildoftheForest.e2e8a5"
   ],
-  "ContainedObjects_path": "Deck.a70504",
+  "ContainedObjects_path": "CharacterCards.a70504",
   "CustomDeck": {
     "7010": {
       "BackIsHidden": true,
@@ -69,7 +69,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Character Cards",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

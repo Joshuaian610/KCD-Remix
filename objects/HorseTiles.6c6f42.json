@@ -11,7 +11,6 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "Rocinante.9c3ed3",
     "AlBuraq.602c74",
     "Kelpie.c8fbb7",
     "Boxer.d0de31",
@@ -37,7 +36,6 @@
     }
   },
   "DeckIDs": [
-    1000802,
     1000807,
     1000803,
     1000801,
@@ -72,7 +70,7 @@
   "Tooltip": true,
   "Transform": {
     "posX": -60.689,
-    "posY": 1.645,
+    "posY": 1.64,
     "posZ": 22.085,
     "rotX": 0,
     "rotY": 180,

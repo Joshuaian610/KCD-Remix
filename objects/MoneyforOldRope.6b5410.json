@@ -56,7 +56,7 @@
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScriptState_path": "MoneyforOldRope.6b5410.luascriptstate",
   "LuaScript_path": "MoneyforOldRope.6b5410.ttslua",
   "MaterialIndex": -1,

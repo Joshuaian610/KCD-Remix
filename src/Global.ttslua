@@ -5,7 +5,7 @@ require("PlayerArea")
 
 function onLoad()
 
-  local makeNonInteractive = false
+  local makeNonInteractive = true
 
   for _, object in pairs(getObjects()) do
 
@@ -112,7 +112,7 @@ function onObjectSpawn(obj)
       obj.addContextMenuItem("Retire Card", retireCard)
     end
     if obj.hasTag("HerbTile") or obj.hasTag("AnimalTile") or
-       obj.hasTag("WoundToken") or obj.hasTag("EnemyToken") then
+       obj.hasTag("WoundToken") or obj.hasTag("EnemyTile") then
       obj.addContextMenuItem("Return Tile", returnTile)
     end
 

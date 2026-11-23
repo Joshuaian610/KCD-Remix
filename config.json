@@ -170,9 +170,9 @@
     "BlockSquare.5f6ba9",
     "BlockSquare.5c1299",
     "BlockSquare.b99dd4",
-    "SpawnCards.11315a",
-    "Deck.ed957d",
-    "Deck.908c7c",
+    "SpawnCardsSolo.11315a",
+    "SpawnCards1-2.ed957d",
+    "SpawnCards3-4.908c7c",
     "BlockSquare.c3a07d",
     "BlockSquare.2482d6",
     "BlockSquare.017db1",
@@ -192,7 +192,7 @@
     "PortraitTile1.e3131f",
     "PortraitTile3.16e65c",
     "PortraitTile4.3f96d4",
-    "Deck.a70504",
+    "CharacterCards.a70504",
     "SirRadzig.eb7c93",
     "MasterHuntsman.aa2322",
     "CaptainBernard.592cc0",
@@ -358,7 +358,8 @@
     "Log.d624cf",
     "Log.5f193c",
     "Log.6e3298",
-    "Log.b7fa64"
+    "Log.b7fa64",
+    "Rocinante.9c3ed3"
   ],
   "PlayArea": 0.8031858,
   "PlayerCounts": [

@@ -26,7 +26,7 @@
   "GUID": "3d7580",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -38,12 +38,14 @@
   "Nickname": "Herbs",
   "Snap": true,
   "Sticky": true,
-  "Tags": [],
+  "Tags": [
+    "HerbTile"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -48.47,
-    "posY": 2.34,
-    "posZ": -28.434,
+    "posX": 25.921,
+    "posY": 1.007,
+    "posZ": 31.527,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

@@ -42,7 +42,7 @@
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
-  "Locked": false,
+  "Locked": true,
   "LuaScriptState_path": "MiraclesWhileYouWait.821970.luascriptstate",
   "LuaScript_path": "MiraclesWhileYouWait.821970.ttslua",
   "MaterialIndex": -1,

@@ -61,8 +61,8 @@
       "normalized": "bed"
     },
     {
-      "displayed": "EnemyToken",
-      "normalized": "enemytoken"
+      "displayed": "EnemyTile",
+      "normalized": "EnemyTile"
     },
     {
       "displayed": "HerbTile",
@@ -97,20 +97,20 @@
       "normalized": "enemytile"
     },
     {
-      "displayed": "",
-      "normalized": ""
+      "displayed": "refreshToken",
+      "normalized": "refreshtoken"
     },
     {
-      "displayed": "",
-      "normalized": ""
+      "displayed": "HenryCard",
+      "normalized": "henrycard"
     },
     {
-      "displayed": "",
-      "normalized": ""
+      "displayed": "Story_Solo",
+      "normalized": "story_solo"
     },
     {
-      "displayed": "",
-      "normalized": ""
+      "displayed": "Dirt",
+      "normalized": "dirt"
     },
     {
       "displayed": "",

@@ -11,13 +11,13 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
-    "SpawnCard1-205.12cbe2",
-    "SpawnCard1-204.e32750",
-    "SpawnCard1-203.19af9b",
-    "SpawnCard1-202.c48d05",
-    "SpawnCard1-201.01a09d"
+    "SpawnCardS01.737c01",
+    "SpawnCardS02.5fff26",
+    "SpawnCardS03.ffc6c5",
+    "SpawnCardS04.0895ee",
+    "SpawnCardS05.200ac7"
   ],
-  "ContainedObjects_path": "Deck.ed957d",
+  "ContainedObjects_path": "SpawnCardsSolo.11315a",
   "CustomDeck": {
     "7012": {
       "BackIsHidden": true,
@@ -30,16 +30,16 @@
     }
   },
   "DeckIDs": [
-    701209,
-    701208,
-    701207,
-    701206,
-    701205
+    701215,
+    701216,
+    701217,
+    701218,
+    701219
   ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "ed957d",
+  "GUID": "11315a",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -51,13 +51,13 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
-  "SidewaysCard": true,
+  "Nickname": "Spawn Cards Solo",
+  "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tooltip": true,
   "Transform": {
-    "posX": 82.804,
+    "posX": 72.583,
     "posY": 0.653,
     "posZ": 34.8,
     "rotX": 0,

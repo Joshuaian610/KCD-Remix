@@ -26,7 +26,7 @@
   "GUID": "d2fc2d",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -38,12 +38,14 @@
   "Nickname": "Herbs",
   "Snap": true,
   "Sticky": true,
-  "Tags": [],
+  "Tags": [
+    "HerbTile"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -48.225,
-    "posY": 3.574,
-    "posZ": -28.216,
+    "posX": 12.008,
+    "posY": 1.007,
+    "posZ": 29.18,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,

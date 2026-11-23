@@ -14,7 +14,6 @@
     "r": 1
   },
   "ContainedObjects_order": [
-    "Animals.b745cf",
     "Animals.7d45c4",
     "Animals.261d3a",
     "Animals.cee27e",
@@ -43,7 +42,8 @@
     "Animals.c5aeb2",
     "Animals.e05a47",
     "Animals.4ae722",
-    "Animals.efc1ac"
+    "Animals.efc1ac",
+    "Animals.b745cf"
   ],
   "ContainedObjects_path": "AnimalTiles.140544",
   "CustomMesh": {

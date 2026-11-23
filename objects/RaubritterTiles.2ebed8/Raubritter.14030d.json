@@ -39,7 +39,7 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "EnemyToken"
+    "EnemyTile"
   ],
   "Tooltip": true,
   "Transform": {

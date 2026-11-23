@@ -26,7 +26,7 @@
   "GUID": "f6a24c",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": false,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -38,15 +38,17 @@
   "Nickname": "Herbs",
   "Snap": true,
   "Sticky": true,
-  "Tags": [],
+  "Tags": [
+    "HerbTile"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": -49.099,
-    "posY": 2.529,
-    "posZ": -27.447,
-    "rotX": 358,
+    "posX": 0.878,
+    "posY": 1.007,
+    "posZ": 31.527,
+    "rotX": 0,
     "rotY": 180,
-    "rotZ": 178,
+    "rotZ": 180,
     "scaleX": 2.5,
     "scaleY": 1,
     "scaleZ": 2.5

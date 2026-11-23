@@ -1,34 +1,6 @@
 [
   {
     "Position": {
-      "x": -18,
-      "y": 0.961,
-      "z": 29.625
-    }
-  },
-  {
-    "Position": {
-      "x": -14,
-      "y": 0.961,
-      "z": 29.625
-    }
-  },
-  {
-    "Position": {
-      "x": -26,
-      "y": 0.961,
-      "z": 29.625
-    }
-  },
-  {
-    "Position": {
-      "x": -22,
-      "y": 0.961,
-      "z": 29.625
-    }
-  },
-  {
-    "Position": {
       "x": 36.956,
       "y": 0.961,
       "z": 29.111
@@ -371,7 +343,7 @@
       "z": 0
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -386,7 +358,7 @@
       "z": 0
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -401,7 +373,7 @@
       "z": 0
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -416,7 +388,7 @@
       "z": 0
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -431,7 +403,7 @@
       "z": 0
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -446,7 +418,7 @@
       "z": 359
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -476,7 +448,7 @@
       "z": 0
     },
     "Tags": [
-      "SmallInventory"
+      "Dirt"
     ]
   },
   {
@@ -731,7 +703,7 @@
       "z": 180
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
   },
   {
@@ -746,7 +718,7 @@
       "z": 180
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
   },
   {
@@ -761,7 +733,7 @@
       "z": 180
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
   },
   {
@@ -776,7 +748,7 @@
       "z": 182
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
   },
   {
@@ -791,7 +763,7 @@
       "z": 180
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
   },
   {
@@ -806,7 +778,7 @@
       "z": 182
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
   },
   {
@@ -821,7 +793,106 @@
       "z": 180
     },
     "Tags": [
-      "EnemyToken"
+      "EnemyTile"
     ]
+  },
+  {
+    "Position": {
+      "x": 25.495,
+      "y": 0.961,
+      "z": 3.923
+    },
+    "Rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 0
+    },
+    "Tags": [
+      "Trainer"
+    ]
+  },
+  {
+    "Position": {
+      "x": 62.358,
+      "y": 0.961,
+      "z": 19.042
+    },
+    "Rotation": {
+      "x": 0,
+      "y": 135,
+      "z": 0
+    }
+  },
+  {
+    "Position": {
+      "x": 62.391,
+      "y": 0.961,
+      "z": 34.882
+    },
+    "Rotation": {
+      "x": 0,
+      "y": 225,
+      "z": 0
+    }
+  },
+  {
+    "Position": {
+      "x": 46.518,
+      "y": 0.961,
+      "z": 34.881
+    },
+    "Rotation": {
+      "x": 0,
+      "y": 135,
+      "z": 0
+    }
+  },
+  {
+    "Position": {
+      "x": -21.011,
+      "y": 0.961,
+      "z": 29.625
+    }
+  },
+  {
+    "Position": {
+      "x": -25.308,
+      "y": 0.961,
+      "z": 29.625
+    }
+  },
+  {
+    "Position": {
+      "x": -60.689,
+      "y": 1.566,
+      "z": 22.085
+    },
+    "Rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 180
+    },
+    "Tags": []
+  },
+  {
+    "Position": {
+      "x": -46.123,
+      "y": 1.566,
+      "z": 22.11
+    },
+    "Rotation": {
+      "x": 0,
+      "y": 180,
+      "z": 180
+    },
+    "Tags": []
+  },
+  {
+    "Position": {
+      "x": -43.975,
+      "y": 1.566,
+      "z": 12.614
+    },
+    "Tags": []
   }
 ]

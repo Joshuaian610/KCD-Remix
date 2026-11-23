@@ -17,7 +17,7 @@
     "SpawnCard3-402.39d9f1",
     "SpawnCard3-403.205b04"
   ],
-  "ContainedObjects_path": "Deck.908c7c",
+  "ContainedObjects_path": "SpawnCards3-4.908c7c",
   "CustomDeck": {
     "7012": {
       "BackIsHidden": true,
@@ -51,7 +51,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Spawn Cards 3-4",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

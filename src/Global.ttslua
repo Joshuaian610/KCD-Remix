@@ -185,7 +185,7 @@ function onObjectDrop(_, obj)
   -- wait a second to verify position of card, then, run actions
   Wait.time(function()
 
-    if obj ~= nil then
+    if obj ~= nil and obj.type == "Card" then
       local posObj = obj.getPosition()
       local tolerance = 0.50
 

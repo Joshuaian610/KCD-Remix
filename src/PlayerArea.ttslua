@@ -620,11 +620,14 @@ function returnToDeck(playerColor, _, obj)
 
   elseif obj.hasTag("Horse") then
     posReturn = { -60.69, 1.64, 22.09 }
+
+  elseif obj.hasTag("CharacterCard") then
+    posReturn = { 72.33, 0.68, 14.09 }
   end
 
   returnDeck = getObjectbyXandZ("Deck", posReturn[1], posReturn[3])
   if returnDeck == nil then
-    turnDeck = getObjectbyXandZ("Card", posReturn[1], posReturn[3])
+    returnDeck = getObjectbyXandZ("Card", posReturn[1], posReturn[3])
   end
 
   if returnDeck ~= nil then

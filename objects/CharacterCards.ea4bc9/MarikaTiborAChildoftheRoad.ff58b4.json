@@ -5,28 +5,12 @@
     "z": 0
   },
   "Autoraise": true,
+  "CardID": 701002,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
     "r": 0.71324
   },
-  "ContainedObjects_order": [
-    "HankaVitusAChildofLust.11a41b",
-    "BozhenaOldaABanditsDrudge.58819f",
-    "MarikaTiborAChildoftheRoad.ff58b4",
-    "JaneJosefABurghersChild.55d2b0",
-    "DorothyJoachymAChildofWar.7fe528",
-    "LuciaPeterAMonasteryFoundling.19a84a",
-    "ElishkaMartinAMillersHand.bc0754",
-    "AnnaJanekAVillageIdler.118f5e",
-    "MariannaPavelAStreetUrchin.e05906",
-    "MargaretMikeshASkalitzSurvivor.d4746a",
-    "AntoniaTondaAStablehandsBastard.44cc8c",
-    "LudmilaMatthiasAnOrphanofRovna.610ab4",
-    "ZuzanaZbyshekAConvictsOffspring.07b165",
-    "AgnesAdamAChildoftheForest.e2e8a5"
-  ],
-  "ContainedObjects_path": "CharacterCards.a70504",
   "CustomDeck": {
     "7010": {
       "BackIsHidden": true,
@@ -38,29 +22,13 @@
       "UniqueBack": false
     }
   },
-  "DeckIDs": [
-    701000,
-    701001,
-    701002,
-    701003,
-    701004,
-    701005,
-    701006,
-    701007,
-    701008,
-    701009,
-    701010,
-    701011,
-    701012,
-    701013
-  ],
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "a70504",
+  "GUID": "ff58b4",
   "Grid": true,
   "GridProjection": false,
-  "Hands": false,
+  "Hands": true,
   "HideWhenFaceDown": true,
   "IgnoreFoW": false,
   "LayoutGroupSortIndex": 0,
@@ -68,19 +36,22 @@
   "LuaScript": "",
   "LuaScriptState": "",
   "MeasureMovement": false,
-  "Name": "Deck",
-  "Nickname": "Character Cards",
+  "Name": "Card",
+  "Nickname": "Marika / Tibor – A Child of the Road",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
+  "Tags": [
+    "CharacterCard"
+  ],
   "Tooltip": true,
   "Transform": {
-    "posX": 72.31,
-    "posY": 0.696,
-    "posZ": 14.547,
+    "posX": -38.732,
+    "posY": 3.911,
+    "posZ": -70,
     "rotX": 0,
     "rotY": 180,
-    "rotZ": 180,
+    "rotZ": 203,
     "scaleX": 2.43,
     "scaleY": 1,
     "scaleZ": 2.43

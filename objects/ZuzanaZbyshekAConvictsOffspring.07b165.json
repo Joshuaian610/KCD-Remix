@@ -5,7 +5,7 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 701005,
+  "CardID": 701012,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -25,7 +25,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "19a84a",
+  "GUID": "07b165",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -37,20 +37,20 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lucia / Peter – A Monastery Foundling",
+  "Nickname": "Zuzana / Zbyshek – A Convict's Offspring",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Set13Card"
+    "CharacterCard"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -80.282,
-    "posY": 1.312,
-    "posZ": -1.387,
+    "posX": 77.24,
+    "posY": 1.408,
+    "posZ": -35.073,
     "rotX": 0,
-    "rotY": 90,
+    "rotY": 180,
     "rotZ": 0,
     "scaleX": 2.43,
     "scaleY": 1,

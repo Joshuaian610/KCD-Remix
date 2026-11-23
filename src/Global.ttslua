@@ -167,6 +167,11 @@ function onObjectSpawn(obj)
       obj.addContextMenuItem("Clean Up Unused", cleanupPlayerarea)
     end
   end
+
+  -- character card return context menu
+  if obj.hasTag("CharacterCard") then
+    obj.addContextMenuItem("Return Card", returnToDeck)
+  end
 end
 
 

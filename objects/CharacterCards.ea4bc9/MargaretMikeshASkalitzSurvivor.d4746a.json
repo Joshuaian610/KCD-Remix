@@ -42,16 +42,16 @@
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Set13Card"
+    "CharacterCard"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -80.233,
-    "posY": 1.33,
-    "posZ": -2.01,
+    "posX": -17.371,
+    "posY": 4.611,
+    "posZ": -70,
     "rotX": 0,
-    "rotY": 90,
-    "rotZ": 0,
+    "rotY": 180,
+    "rotZ": 203,
     "scaleX": 2.43,
     "scaleY": 1,
     "scaleZ": 2.43

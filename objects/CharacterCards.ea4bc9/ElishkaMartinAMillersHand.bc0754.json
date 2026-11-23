@@ -5,7 +5,7 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 701004,
+  "CardID": 701006,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -25,7 +25,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "7fe528",
+  "GUID": "bc0754",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -37,21 +37,21 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dorothy / Joachym – A Child of War",
+  "Nickname": "Elishka / Martin – A Miller's Hand",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Set13Card"
+    "CharacterCard"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -80.29,
-    "posY": 1.314,
-    "posZ": -1.815,
+    "posX": -26.526,
+    "posY": 4.311,
+    "posZ": -70,
     "rotX": 0,
-    "rotY": 90,
-    "rotZ": 0,
+    "rotY": 180,
+    "rotZ": 203,
     "scaleX": 2.43,
     "scaleY": 1,
     "scaleZ": 2.43

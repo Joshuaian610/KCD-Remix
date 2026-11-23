@@ -1135,7 +1135,8 @@
         "z": 0
       },
       "Tags": [
-        "PortraitTile"
+        "PortraitTile",
+        "CharacterCard"
       ]
     }
   ],

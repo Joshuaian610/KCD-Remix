@@ -5,7 +5,7 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 701011,
+  "CardID": 701003,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -25,7 +25,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "610ab4",
+  "GUID": "55d2b0",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -37,21 +37,21 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Ludmila / Matthias – An Orphan of Rovna",
+  "Nickname": "Jane / Josef – A Burgher's Child",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Set13Card"
+    "CharacterCard"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": 32.95,
-    "posY": 5.928,
-    "posZ": -30,
+    "posX": -35.68,
+    "posY": 4.011,
+    "posZ": -70,
     "rotX": 0,
     "rotY": 180,
-    "rotZ": 0,
+    "rotZ": 203,
     "scaleX": 2.43,
     "scaleY": 1,
     "scaleZ": 2.43

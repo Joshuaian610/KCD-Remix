@@ -5,7 +5,7 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 701006,
+  "CardID": 701000,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -25,7 +25,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "bc0754",
+  "GUID": "11a41b",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -37,21 +37,21 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Elishka / Martin – A Miller's Hand",
+  "Nickname": "Hanka / Vitus – A Child of Lust",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "Set13Card"
+    "CharacterCard"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -79.981,
-    "posY": 1.303,
-    "posZ": -0.784,
+    "posX": -44.835,
+    "posY": 3.711,
+    "posZ": -70,
     "rotX": 0,
-    "rotY": 90,
-    "rotZ": 0,
+    "rotY": 180,
+    "rotZ": 203,
     "scaleX": 2.43,
     "scaleY": 1,
     "scaleZ": 2.43

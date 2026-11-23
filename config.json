@@ -191,7 +191,6 @@
     "PortraitTile1.e3131f",
     "PortraitTile3.16e65c",
     "PortraitTile4.3f96d4",
-    "CharacterCards.a70504",
     "SirRadzig.eb7c93",
     "MasterHuntsman.aa2322",
     "CaptainBernard.592cc0",
@@ -358,7 +357,9 @@
     "Log.5f193c",
     "Log.6e3298",
     "Log.b7fa64",
-    "HorseTiles.7c441e"
+    "HorseTiles.7c441e",
+    "CharacterCards.ea4bc9",
+    "ZuzanaZbyshekAConvictsOffspring.07b165"
   ],
   "PlayArea": 0.8031858,
   "PlayerCounts": [

@@ -89,7 +89,7 @@ function onObjectSpawn(obj)
       obj.addContextMenuItem("Return Card", returnToDeck)
       obj.addContextMenuItem("Complete Quest", completeQuest)
     end
-    if obj.hasTag("StartQuest") then
+    if obj.hasTag("StartingQuest") then
       obj.addContextMenuItem("Return Card", returnToDeck)
       obj.addContextMenuItem("Complete Quest", completeQuest)
     end

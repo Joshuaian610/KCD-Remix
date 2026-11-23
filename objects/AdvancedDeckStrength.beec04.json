@@ -32,7 +32,7 @@
     "Riposte.d12c5f",
     "RelentlessDrill.f254d1"
   ],
-  "ContainedObjects_path": "Deck.beec04",
+  "ContainedObjects_path": "AdvancedDeckStrength.beec04",
   "CustomDeck": {
     "7005": {
       "BackIsHidden": true,
@@ -81,7 +81,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Advanced Deck Strength",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

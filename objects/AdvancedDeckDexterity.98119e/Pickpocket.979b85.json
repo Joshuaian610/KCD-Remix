@@ -5,17 +5,17 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 700565,
+  "CardID": 700614,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
     "r": 0.71324
   },
   "CustomDeck": {
-    "7005": {
+    "7006": {
       "BackIsHidden": true,
       "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/10504346887506248193/3DD8536B9A5E866CB2A2B0BC9361E77ACB19261F/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12076296181004724271/81AEEB5ADA017B74A652354FD292DD8B82B71594/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14504624681965396862/2E9D83C5B2DC3A8ACB75EC017E7BCE5C6717AA7F/",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
@@ -77,7 +77,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "b1100e",
+  "GUID": "979b85",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -86,21 +86,21 @@
   "LayoutGroupSortIndex": 0,
   "Locked": false,
   "LuaScript": "",
-  "LuaScriptState_path": "Deck.fea271/Low-LightVision.b1100e.luascriptstate",
+  "LuaScriptState_path": "AdvancedDeckDexterity.98119e/Pickpocket.979b85.luascriptstate",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Low-Light Vision",
+  "Nickname": "Pickpocket",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AdvancedSkill_Green"
+    "AdvancedSkill_Brown"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -68.228,
-    "posY": 2.486,
-    "posZ": -0.834,
+    "posX": -60.653,
+    "posY": 2.408,
+    "posZ": -11.377,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

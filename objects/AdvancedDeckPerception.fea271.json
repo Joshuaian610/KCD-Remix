@@ -32,7 +32,7 @@
     "EagleEye.a6f1ef",
     "WakingForest.7c7fa6"
   ],
-  "ContainedObjects_path": "Deck.fea271",
+  "ContainedObjects_path": "AdvancedDeckPerception.fea271",
   "CustomDeck": {
     "7005": {
       "BackIsHidden": true,
@@ -90,7 +90,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Advanced Deck Perception",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

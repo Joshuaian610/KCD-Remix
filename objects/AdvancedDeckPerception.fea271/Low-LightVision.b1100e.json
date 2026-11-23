@@ -5,7 +5,7 @@
     "z": 0
   },
   "Autoraise": true,
-  "CardID": 700535,
+  "CardID": 700565,
   "ColorDiffuse": {
     "b": 0.71324,
     "g": 0.71324,
@@ -77,7 +77,7 @@
   "Description": "",
   "DragSelectable": true,
   "GMNotes": "",
-  "GUID": "e629c1",
+  "GUID": "b1100e",
   "Grid": true,
   "GridProjection": false,
   "Hands": true,
@@ -86,21 +86,21 @@
   "LayoutGroupSortIndex": 0,
   "Locked": false,
   "LuaScript": "",
-  "LuaScriptState_path": "Deck.beec04/KnightinShiningArmor.e629c1.luascriptstate",
+  "LuaScriptState_path": "AdvancedDeckPerception.fea271/Low-LightVision.b1100e.luascriptstate",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Knight in Shining Armor",
+  "Nickname": "Low-Light Vision",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
   "Tags": [
-    "AdvancedSkill_Red"
+    "AdvancedSkill_Green"
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": -59.09,
-    "posY": 3.147,
-    "posZ": -29.35,
+    "posX": -68.228,
+    "posY": 2.486,
+    "posZ": -0.834,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

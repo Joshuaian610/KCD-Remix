@@ -1,0 +1,61 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "CardID": 1000714,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "10007": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17362469628639653697/58006FC17E6BB004D023B88AE6351D90D305366A/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14489299653605761642/16E7DB64C11815AAEEBC57F2CDC642C078D0293A/",
+      "NumHeight": 4,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes_path": "SpecialItems.840aba/ElixirofEase.d6ea30.gmnotes",
+  "GUID": "d6ea30",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Elixir of Ease",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "SpecialItem"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 6.783,
+    "posY": 1.846,
+    "posZ": -8.723,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

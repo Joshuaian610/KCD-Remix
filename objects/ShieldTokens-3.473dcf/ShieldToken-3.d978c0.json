@@ -1,0 +1,58 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "Autoraise": true,
+  "ColorDiffuse": {
+    "b": 1,
+    "g": 1,
+    "r": 1
+  },
+  "CustomMesh": {
+    "CastShadows": true,
+    "ColliderURL": "",
+    "Convex": true,
+    "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/16298561631874228663/2F525631E73A432C3630313E447A5CB78A81DD8D/",
+    "MaterialIndex": 3,
+    "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/13482212672898333948/526C6F5147EAB4D44B6BD0ED6C990CE8C9A9F156/",
+    "NormalURL": "",
+    "TypeIndex": 0
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes": "",
+  "GUID": "d978c0",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": false,
+  "HideWhenFaceDown": false,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Custom_Model",
+  "Nickname": "Shield Token (-3)",
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ShieldToken"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 38.543,
+    "posY": 1.539,
+    "posZ": -24.332,
+    "rotX": 0,
+    "rotY": 270,
+    "rotZ": 0,
+    "scaleX": 2.5,
+    "scaleY": 2.5,
+    "scaleZ": 2.5
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

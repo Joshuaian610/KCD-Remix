@@ -1,0 +1,85 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.523,
+        "y": 0.209,
+        "z": 0.3
+      },
+      "Tags": [
+        "Dirt"
+      ]
+    },
+    {
+      "Position": {
+        "x": 0.536,
+        "y": 0.209,
+        "z": 1.028
+      },
+      "Tags": [
+        "Dirt"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "CardID": 1002518,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "10025": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/9463506978056857188/B8A295E617A4E8041149F5F691C7A2B281EED194/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/11925584481865545100/1DDE862F101CC4D5A46B62A818D88AF8D1A2727E/",
+      "NumHeight": 5,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes_path": "ItemClothingCards.75e206/ScribesAttire.bd3a15.gmnotes",
+  "GUID": "bd3a15",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Scribe's Attire",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ItemCard",
+    "ItemClothing",
+    "SlotChest"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 8.879,
+    "posY": 1.342,
+    "posZ": -17.107,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

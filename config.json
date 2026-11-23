@@ -32,12 +32,8 @@
     "CombatSheet.0982c4",
     "ReferenceSheet.50f29d",
     "ShopBoard.d26293",
-    "ItemClothingCards.ee8bbb",
-    "ItemWeaponCards.c65b7b",
-    "ItemArmorCards.91a9ea",
     "ItemBowCards.10b82c",
     "ItemMarketCards.7c57b9",
-    "SpecialItems.645c49",
     "PotionRecipesBlue.ff3340",
     "PotionRecipesRed.10203c",
     "PotionRecipesYellow.bbfd94",
@@ -358,7 +354,11 @@
     "Log.6e3298",
     "Log.b7fa64",
     "HorseTiles.7c441e",
-    "CharacterCards.ea4bc9"
+    "CharacterCards.ea4bc9",
+    "ItemClothingCards.75e206",
+    "ItemWeaponCards.9eaf27",
+    "ItemArmorCards.82147e",
+    "SpecialItems.840aba"
   ],
   "PlayArea": 0.8031858,
   "PlayerCounts": [

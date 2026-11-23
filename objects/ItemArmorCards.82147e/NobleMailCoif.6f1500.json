@@ -1,0 +1,95 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.53,
+        "y": 0.209,
+        "z": -0.38
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ShieldToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": 0.53,
+        "y": 0.209,
+        "z": 0.342
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ShieldToken"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "CardID": 1002424,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "10024": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/14463114487767835302/62F9B8BF9C535899E644E28D2658C39835A1ECB1/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15467719503547030474/2DF7596DC67BBD8171AEB5D246C0494E48562002/",
+      "NumHeight": 5,
+      "NumWidth": 9,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes_path": "ItemArmorCards.82147e/NobleMailCoif.6f1500.gmnotes",
+  "GUID": "6f1500",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Noble Mail Coif",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ItemArmor",
+    "ItemCard",
+    "SlotHead"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": 0.309,
+    "posY": 1.966,
+    "posZ": -17.35,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

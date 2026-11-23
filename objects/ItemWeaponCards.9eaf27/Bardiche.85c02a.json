@@ -1,0 +1,80 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.528,
+        "y": 0.209,
+        "z": 0.361
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ShieldToken"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "CardID": 1002102,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "10021": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/16560745250305985846/0233DE4B07E809994610587EE138099CD49276C6/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/13816170505713010853/56ACEBFFA39419970E55FD8BDE2F5BDE077D58D8/",
+      "NumHeight": 5,
+      "NumWidth": 7,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes_path": "ItemWeaponCards.9eaf27/Bardiche.85c02a.gmnotes",
+  "GUID": "85c02a",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Bardiche",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "ItemCard",
+    "ItemWeapon",
+    "SlotWeapon"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -9.969,
+    "posY": 1.663,
+    "posZ": -6.501,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

@@ -1,0 +1,93 @@
+{
+  "AltLookAngle": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+  "AttachedSnapPoints": [
+    {
+      "Position": {
+        "x": 0.518,
+        "y": 0.209,
+        "z": -0.338
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ShieldToken"
+      ]
+    },
+    {
+      "Position": {
+        "x": 0.518,
+        "y": 0.209,
+        "z": 0.384
+      },
+      "Rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "Tags": [
+        "ShieldToken"
+      ]
+    }
+  ],
+  "Autoraise": true,
+  "CardID": 1000600,
+  "ColorDiffuse": {
+    "b": 0.71324,
+    "g": 0.71324,
+    "r": 0.71324
+  },
+  "CustomDeck": {
+    "10006": {
+      "BackIsHidden": true,
+      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/17362469628639653697/58006FC17E6BB004D023B88AE6351D90D305366A/",
+      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/14489299653605761642/16E7DB64C11815AAEEBC57F2CDC642C078D0293A/",
+      "NumHeight": 4,
+      "NumWidth": 4,
+      "Type": 0,
+      "UniqueBack": true
+    }
+  },
+  "Description": "",
+  "DragSelectable": true,
+  "GMNotes_path": "SpecialItems.840aba/QueenofShebasSword.b58fcb.gmnotes",
+  "GUID": "b58fcb",
+  "Grid": true,
+  "GridProjection": false,
+  "Hands": true,
+  "HideWhenFaceDown": true,
+  "IgnoreFoW": false,
+  "LayoutGroupSortIndex": 0,
+  "Locked": false,
+  "LuaScript": "",
+  "LuaScriptState": "",
+  "MeasureMovement": false,
+  "Name": "Card",
+  "Nickname": "Queen of Sheba's Sword",
+  "SidewaysCard": false,
+  "Snap": true,
+  "Sticky": true,
+  "Tags": [
+    "SpecialItem"
+  ],
+  "Tooltip": true,
+  "Transform": {
+    "posX": -3.625,
+    "posY": 0.824,
+    "posZ": -14.001,
+    "rotX": 0,
+    "rotY": 180,
+    "rotZ": 0,
+    "scaleX": 1.7,
+    "scaleY": 1,
+    "scaleZ": 1.7
+  },
+  "Value": 0,
+  "XmlUI": ""
+}

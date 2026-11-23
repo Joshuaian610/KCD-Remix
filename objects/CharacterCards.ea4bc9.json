@@ -11,6 +11,7 @@
     "r": 0.71324
   },
   "ContainedObjects_order": [
+    "ZuzanaZbyshekAConvictsOffspring.07b165",
     "LudmilaMatthiasAnOrphanofRovna.610ab4",
     "AntoniaTondaAStablehandsBastard.44cc8c",
     "MargaretMikeshASkalitzSurvivor.d4746a",
@@ -38,6 +39,7 @@
     }
   },
   "DeckIDs": [
+    701012,
     701011,
     701010,
     701009,
@@ -77,7 +79,7 @@
   "Tooltip": true,
   "Transform": {
     "posX": 72.334,
-    "posY": 0.691,
+    "posY": 0.696,
     "posZ": 14.091,
     "rotX": 0,
     "rotY": 180,

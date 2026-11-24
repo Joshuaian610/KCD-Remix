@@ -123,15 +123,27 @@ function onObjectSpawn(obj)
   if obj.getName() == "Herb Tiles" or obj.getName() == "Animal Tiles" then
     obj.addContextMenuItem("Refresh Tiles", refreshTiles)
   end
+  if obj.getName() == "Button Refresh Herbs" then
+    initButtonRefreshHerbs(obj)
+  end
+  if obj.getName() == "Button Refresh Animals" then
+    initButtonRefreshAnimals(obj)
+  end
 
-  -- refresh advanced cards context menu on card stand
+  -- refresh advanced cards context menu/button on card stand
   if obj.getName() == "Card Stand" then
     obj.addContextMenuItem("Refresh Cards", refreshAdvancedCards)
   end
+  if obj.getName() == "Button Refresh Cards" then
+    initButtonRefreshCards(obj)
+  end
 
-  -- refresh shop cards context menu on shop board
+  -- refresh shop cards context menu on shop board, button
   if obj.getName() == "Shop Board" then
     obj.addContextMenuItem("Refresh Cards", refreshShop)
+  end
+   if obj.getName() == "Button Refresh Shop" then
+    initButtonRefreshShop(obj)
   end
 
   -- refresh token context menus to refresh row or column
@@ -173,9 +185,12 @@ function onObjectSpawn(obj)
     obj.addContextMenuItem("Return Card", returnToDeck)
   end
 
-  -- main map shuffle context menu
+  -- main map shuffle context menu/button
   if obj.getName() == "Map Board" and not obj.hasTag("GameShuffled") then
     obj.addContextMenuItem("Setup Shuffle All", shuffleSetup)
+  end
+  if obj.getName() == "Button Setup Game" then
+    initButtonSetupGame(obj)
   end
 end
 

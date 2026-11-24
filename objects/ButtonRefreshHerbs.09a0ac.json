@@ -6,26 +6,26 @@
   },
   "Autoraise": true,
   "ColorDiffuse": {
-    "b": 0.0077,
-    "g": 0.07,
-    "r": 0.03885
+    "b": 0.09,
+    "g": 0.231,
+    "r": 0.443
   },
   "CustomImage": {
     "CustomTile": {
       "Stackable": false,
       "Stretch": true,
-      "Thickness": 0.4048613,
+      "Thickness": 1,
       "Type": 3
     },
     "ImageScalar": 1,
-    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/9630864128095890662/268CD91C1717DB21D44E8EE6815DF059D3B7E1C3/",
-    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/9630864128095890662/268CD91C1717DB21D44E8EE6815DF059D3B7E1C3/",
+    "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/12407028038280472322/1D52606A0F64BEC9EF337D2766BC9694514D78CD/",
+    "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/12407028038280472322/1D52606A0F64BEC9EF337D2766BC9694514D78CD/",
     "WidthScale": 0
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": "Green",
-  "GUID": "a10a3f",
+  "GMNotes": "",
+  "GUID": "09a0ac",
   "Grid": true,
   "GridProjection": false,
   "Hands": false,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Custom_Tile",
-  "Nickname": "Button Cleanup Test",
+  "Nickname": "Button Refresh Herbs",
   "Snap": true,
   "Sticky": true,
   "Tags": [
@@ -45,15 +45,15 @@
   ],
   "Tooltip": false,
   "Transform": {
-    "posX": -94.87,
-    "posY": 0.726,
-    "posZ": -22.5,
+    "posX": 36.97,
+    "posY": 0.608,
+    "posZ": 32,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,
-    "scaleX": 0.53,
+    "scaleX": 0.3,
     "scaleY": 1,
-    "scaleZ": 0.53
+    "scaleZ": 0.3
   },
   "Value": 0,
   "XmlUI": ""

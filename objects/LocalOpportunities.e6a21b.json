@@ -18,7 +18,7 @@
     "EyesandEars.6c1b26",
     "AWorthyStudent.2a35a0"
   ],
-  "ContainedObjects_path": "Deck.e6a21b",
+  "ContainedObjects_path": "LocalOpportunities.e6a21b",
   "CustomDeck": {
     "7001": {
       "BackIsHidden": true,
@@ -53,7 +53,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "",
+  "Nickname": "Local Opportunities",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

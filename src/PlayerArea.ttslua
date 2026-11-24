@@ -225,7 +225,7 @@ function initButtonFocusTile(buttonObj)
     width          = 1350,
     height         = 220,
     color          = { 1, 1, 1, 0 },
-    tooltip        = "Click To Flip Fous Token..",
+    tooltip        = "Click To Flip Focus Token..",
   })
 end
 
@@ -380,6 +380,7 @@ function discardTestCard(_, _, cardObj)
 
   local rotFaceup = { 0.00, 180.00, 0.00 }
   local posDiscard = posPlayerDiscard[playerColor]
+  cardObj.setLock(false)
   placeObject(cardObj, rotFaceup, posDiscard, true, false)
 
   -- broadcast
@@ -405,6 +406,7 @@ function cleanupTest(buttonObj, _, _)
     local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
 
     if foundCard then
+      foundCard.setLock(false)
       placeObject(foundCard, rotFaceup, posDiscard, true, false)
     end
   end
@@ -671,6 +673,7 @@ function retireCard(playerColor, _, obj)
   if obj ~= nil and bag ~= nil then
     local pos = bag.getPosition()
     pos.y = 2.78
+    obj.setLock(false)
     obj.setPosition(pos)
 
     local broadcastStr = string.format("%s has Retired: %s", playerStr, cardName)

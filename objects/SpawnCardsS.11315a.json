@@ -17,7 +17,7 @@
     "SpawnCardS04.0895ee",
     "SpawnCardS05.200ac7"
   ],
-  "ContainedObjects_path": "SpawnCardsSolo.11315a",
+  "ContainedObjects_path": "SpawnCardsS.11315a",
   "CustomDeck": {
     "7012": {
       "BackIsHidden": true,
@@ -51,7 +51,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Deck",
-  "Nickname": "Spawn Cards Solo",
+  "Nickname": "Spawn Cards S",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

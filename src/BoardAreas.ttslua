@@ -1,6 +1,101 @@
-function doRefreshTiles(tileType)
-  -- wrapper to call refreshTiles() by type in some future predawn scripting or something
-  local bag = tileType == "Herb" and getObjectbyName("Herb Tiles") or getObjectbyName("Animal Tiles")
+function initButtonSetupGame(buttonObj)
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "doShuffleSetup",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 1.01, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Ensure everybody is seated at a color, then, click this button to perform all generic Game Setup.\n\nAfterwards, the Story content can be found in their memory boxes by clicking Place. Memory Boxes and Opportunities deck are located on right side of table.\n\nYou may return undesired Advanced Skills, Quest, and Character Card via right click context menu.",
+  })
+end
+
+
+function initButtonRefreshHerbs(buttonObj)
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "doRefreshTiles",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 1.01, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click to refill any currently empty Herb spaces on the board."
+  })
+end
+
+
+function initButtonRefreshAnimals(buttonObj)
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "doRefreshTiles",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 1.01, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click to refill any currently empty Animal spaces on the board."
+  })
+end
+
+
+function initButtonRefreshShop(buttonObj)
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "doRefreshShop",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 1.01, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click to refill any currently empty spaces in the Shop."
+  })
+end
+
+
+function initButtonRefreshCards(buttonObj)
+  buttonObj.clearButtons()
+
+  buttonObj.createButton({
+    click_function = "doRefreshCards",
+    function_owner = self,
+    label          = "",
+    position       = { 0.00, 1.01, 0.00 },
+    rotation       = { 0.00, 180.00, 0.00 },
+    width          = 995,
+    height         = 265,
+    color          = { 1, 1, 1, 0 },
+    hover_color    = { 1, 1, 1, 0.4 },
+    scale          = { 4, 4, 4 },
+    tooltip        = "Click to refill any currently empty spaces in the Card Stand."
+  })
+end
+
+
+function doRefreshTiles(buttonObj, _, _)
+  -- wrapper to run refreshTiles via button
+  local bag = buttonObj.getName():find("Herbs") and getObjectbyName("Herb Tiles") or getObjectbyName("Animal Tiles")
   refreshTiles(_, _, bag)
 end
 
@@ -36,6 +131,12 @@ function refreshTiles(_, _, obj)
 end
 
 
+function doRefreshCards(_, _, _)
+  -- wrapper to handle button click to refresh shop
+  refreshAdvancedCards(getObjectbyName("Card Stand"))
+end
+
+
 function refreshAdvancedCards(_, _, obj)
   -- handles check of face up advanced card slots, refreshes any empty
 
@@ -64,6 +165,12 @@ function refreshAdvancedCards(_, _, obj)
 end
 
 
+function doRefreshShop(_, _, _)
+  -- wrapper to handle button click to refresh shop
+  refreshShop(getObjectbyName("Shop Board"))
+end
+
+
 function refreshShop(_, _, obj)
   -- handles check of all shop slots, refreshes any empty
 
@@ -80,8 +187,8 @@ function refreshShop(_, _, obj)
       for _, pos in ipairs(posSlots) do
         local card = getObjectbyXandZ("Card", pos[1], pos[3])
 
-        if not card then
-          local card = dealDeck.takeObject()
+        if card == nil then
+          card = dealDeck.takeObject()
           placeObject(card, rotFaceup, pos, true, false)
         end
       end
@@ -144,7 +251,16 @@ function refreshLine(_, _, obj)
   if refreshType == "Shop" then
     local shop = posShop[refreshName]
 
-    if shop["Slots"] then
+    if refreshName == "Market" then
+      for i = 1, 4 do
+        local pos = shop["Slots"][i]
+        local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
+
+        if foundCard then
+          foundCards[#foundCards + 1] = foundCard
+        end
+      end
+    elseif refreshName == "Bow" then
       for _, pos in ipairs(shop["Slots"]) do
         local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
 
@@ -152,7 +268,16 @@ function refreshLine(_, _, obj)
           foundCards[#foundCards + 1] = foundCard
         end
       end
-    elseif refreshName == "Horse" then
+
+      for i = 5, 6 do
+        local pos = posShop["Market"]["Slots"][i]
+        local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
+
+        if foundCard then
+          foundCards[#foundCards + 1] = foundCard
+        end
+      end
+    else
       for _, pos in ipairs(shop["Slots"]) do
         local foundCard = getObjectbyXandZ("Card", pos[1], pos[3])
 
@@ -183,11 +308,13 @@ function refreshLine(_, _, obj)
   end
 
   Wait.time(function()
+
     if refreshType == "Advanced" then
       refreshAdvancedCards(playerColor, _, getObjectbyName("Card Stand"))
     else
       refreshShop(_, _, getObjectbyName("Shop Board"))
     end
+
   end, 1)
 
   local rotFaceup = { 0.00, 1800.00, 0.00 }
@@ -208,6 +335,13 @@ function refreshLine(_, _, obj)
   }
   local broadcastStr = string.format("%s has refreshed the %s.", getPlayerStr(playerColor), refreshNames[refreshName])
   broadcastToAll(broadcastStr, "White")
+end
+
+
+function doShuffleSetup(buttonObj, _, _)
+  shuffleSetup(_, _, buttonObj)
+  getObjectbyName("Map Board").clearContextMenu()
+  getObjectbyName("Map Board").addTag("GameShuffled")
 end
 
 
@@ -248,11 +382,53 @@ function shuffleSetup(_, _, obj)
     getObjectbyName("Advanced Deck Perception"),
     getObjectbyName("Advanced Deck Dexterity"),
     getObjectbyName("Advanced Deck Speech"),
+    getObjectbyName("Spawn Cards S"),
+    getObjectbyName("Spawn Cards 1-2"),
+    getObjectbyName("Spawn Cards 3-4"),
   }
 
   for i = 1, #shuffleList do
     if shuffleList[i] ~= nil then
       shuffleList[i].shuffle()
     end
+  end
+
+  -- flip potion decks after shuffle
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+  for i = 7, 11 do
+    if shuffleList[i] ~= nil then
+      shuffleList[i].setRotationSmooth(rotFaceup, false, true)
+    end
+  end
+
+  -- refresh shop
+  refreshShop(_, _, getObjectbyName("Shop Board"))
+
+  -- deal 1 of each type of adv card to each seated player
+  local seatedPlayers = getSeatedPlayers()
+  for _, player in pairs(seatedPlayers) do
+    for i = 25, 28 do
+      if shuffleList[i] ~= nil then
+        shuffleList[i].deal(1, player)
+      end
+    end
+
+    -- deal 2 char cards, 2 start quests
+    local charDeck = getObjectbyName("Character Cards")
+    local questDeck = getObjectbyName("Starting Quests")
+    charDeck.deal(2, player)
+    questDeck.deal(2, player)
+  end
+
+  -- then, refresh card stand
+  refreshAdvancedCards(_, _, obj)
+
+  -- populate animals/herbs
+  refreshTiles(_, _, getObjectbyName("Herb Tiles"))
+  refreshTiles(_, _, getObjectbyName("Animal Tiles"))
+
+  -- destruct setup button if it exists
+  if getObjectbyName("Button Setup Game") ~= nil then
+    getObjectbyName("Button Setup Game").destruct()
   end
 end

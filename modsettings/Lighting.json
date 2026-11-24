@@ -9,7 +9,7 @@
     "g": 0.5,
     "r": 0.5
   },
-  "AmbientIntensity": 1.3,
+  "AmbientIntensity": 1.18226457,
   "AmbientSkyColor": {
     "b": 0.5,
     "g": 0.5,
@@ -17,12 +17,13 @@
   },
   "AmbientType": 0,
   "LightColor": {
-    "b": 0.8902,
-    "g": 0.9804,
-    "r": 1
+    "b": 0.9789517,
+    "g": 0.990315139,
+    "r": 0.992785454
   },
-  "LightIntensity": 0.54,
+  "LightIntensity": 0.5084817,
   "LutContribution": 1,
   "LutIndex": 0,
+  "LutURL": "",
   "ReflectionIntensity": 1
 }

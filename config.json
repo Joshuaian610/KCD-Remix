@@ -363,7 +363,9 @@
     "ButtonRefreshHerbs.09a0ac",
     "ButtonRefreshCards.dc4780",
     "ButtonRefreshShop.b51a0e",
-    "ButtonSetupGame.5d8d74"
+    "ButtonSetupGame.5d8d74",
+    "DisplayGoodCard.a09790",
+    "DisplayBadCard.1535a2"
   ],
   "PlayArea": 0.8031858,
   "PlayerCounts": [

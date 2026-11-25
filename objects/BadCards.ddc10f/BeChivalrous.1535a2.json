@@ -48,13 +48,13 @@
   "Transform": {
     "posX": 42.25,
     "posY": 0.963,
-    "posZ": -15.773,
+    "posZ": -15.772,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 180,
-    "scaleX": 2.3,
+    "scaleX": 2.4,
     "scaleY": 1,
-    "scaleZ": 2.3
+    "scaleZ": 2.4
   },
   "Value": 0,
   "XmlUI": ""

@@ -421,7 +421,7 @@ function shuffleSetup(_, _, obj)
   end
 
   -- then, refresh card stand
-  refreshAdvancedCards(_, _, obj)
+  Wait.time(function() refreshAdvancedCards(_, _, obj) end, 0.50)
 
   -- populate animals/herbs
   refreshTiles(_, _, getObjectbyName("Herb Tiles"))
@@ -430,5 +430,28 @@ function shuffleSetup(_, _, obj)
   -- destruct setup button if it exists
   if getObjectbyName("Button Setup Game") ~= nil then
     getObjectbyName("Button Setup Game").destruct()
+  end
+
+  -- place trough lids if required
+  if #seatedPlayers < 3 then
+    for i = 2, 3 do
+      for _, object in pairs(getObjects()) do
+        if object.getName() == "Trough Lid" and not object.hasTag("troughLidPlaced") then
+          object.addTag("troughLidPlaced")
+          placeObject(object, rotFaceup, posMapBoardTiles["Trough"][i], false, true)
+          break
+        end
+      end
+    end
+  end
+
+  if #seatedPlayers < 4 then
+    for _, object in pairs(getObjects()) do
+      if object.getName() == "Trough Lid" and not object.hasTag("troughLidPlaced") then
+        object.addTag("troughLidPlaced")
+        placeObject(object, rotFaceup, posMapBoardTiles["Trough"][1], false, true)
+        break
+      end
+    end
   end
 end

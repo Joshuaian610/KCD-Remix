@@ -35,7 +35,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Custom_Model",
-  "Nickname": "Trough Lid 01",
+  "Nickname": "Trough Lid",
   "Snap": true,
   "Sticky": true,
   "Tags": [
@@ -43,9 +43,9 @@
   ],
   "Tooltip": true,
   "Transform": {
-    "posX": 77.152,
-    "posY": 0.643,
-    "posZ": 15.569,
+    "posX": 77.79,
+    "posY": 0.782,
+    "posZ": 14.09,
     "rotX": 0,
     "rotY": 180,
     "rotZ": 0,

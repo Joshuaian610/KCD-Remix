@@ -348,18 +348,25 @@ function drawTestCard(buttonObj, _, _)
       end
 
       -- do followup stuff, as seen below, if not deckReformed
-      placeObject(dealCard, rotFaceup, posNextAvailable, false, true)
+      placeObject(dealCard, rotFaceup, posNextAvailable, false, false)
       dealCard.setGMNotes(playerColor)
       dealCard.addContextMenuItem("Discard " .. dealCard.getName(), discardTestCard)
       local broadcastStr = string.format("%s has drawn Test Card: %s", playerStr, dealCard.getName())
       broadcastToAll(broadcastStr, "White")
 
+      -- wait for card to rest before locking
+      Wait.condition(function()
+        dealCard.setLock(true)
+      end, function()
+        return dealCard.resting
+      end)
+
     end, 2.5)
   end
 
   if not deckReformed then
-    -- deal the card to position (not smoothly, locked)
-    placeObject(dealCard, rotFaceup, posNextAvailable, false, true)
+    -- deal the card to position (not smoothly, unlocked)
+    placeObject(dealCard, rotFaceup, posNextAvailable, false, false)
 
     -- add discard context menu option, set card GMNotes to playerColor
     dealCard.setGMNotes(playerColor)
@@ -368,6 +375,13 @@ function drawTestCard(buttonObj, _, _)
     -- broadcast
     local broadcastStr = string.format("%s has drawn Test Card: %s", playerStr, dealCard.getName())
     broadcastToAll(broadcastStr, "White")
+
+    -- wait for card to rest before locking
+    Wait.condition(function()
+      dealCard.setLock(true)
+    end, function()
+      return dealCard.resting
+    end)
   end
 end
 
@@ -398,8 +412,7 @@ function cleanupTest(buttonObj, _, _)
   local rotFaceup = { 0.00, 180.00, 0.00 }
   local posDiscard = posPlayerDiscard[playerColor]
   local posTestCards = posPlayerTestCards[playerColor]
-  local posInitiateCard = posPlayerInitiateTest[playerColor]
-  posInitiateCard[3] = -42.30
+  local posInitiateCard = { posPlayerInitiateTest[playerColor][1], posPlayerInitiateTest[playerColor][2], -42.30 }
 
   -- iterate through potential test card slots, discard any found
   for _, pos in ipairs(posTestCards) do

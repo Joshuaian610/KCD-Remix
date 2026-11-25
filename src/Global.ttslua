@@ -241,3 +241,24 @@ function onPlayerTurn(_, _)
   -- idempotently refresh Shop at start (end) of every player's turn
   refreshShop(_, _, getObjectbyName("Shop Board"))
 end
+
+
+function onObjectEnterZone(zone, enterObj)
+  -- handle creation of select menu options for character cards entering hand
+
+  if zone.getName() == "Handzone" and enterObj.hasTag("CharacterCard") then
+    enterObj.clearContextMenu()
+    enterObj.addContextMenuItem("Select Card", selectCharacter)
+    enterObj.addContextMenuItem("Return Card", returnToDeck)
+  end
+end
+
+
+function onObjectLeaveZone(zone, leaveObj)
+  -- handle creation of select menu options for character cards leaving hand
+
+  if zone.getName() == "Handzone" and leaveObj.hasTag("CharacterCard") then
+    leaveObj.clearContextMenu()
+    leaveObj.addContextMenuItem("Return Card", returnToDeck)
+  end
+end

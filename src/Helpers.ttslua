@@ -167,3 +167,141 @@ function pullAndPlaceObject(containerObj, objName, rotObj, posObj, isSmooth, isL
 
   return returnObj
 end
+
+
+function inventorySlotOccupied(pos, objectTypes)
+  -- check if an object of one of the specified types occupies a position
+  local tolerance = 0.25
+
+  for _, object in pairs(getObjects()) do
+    local objType = object.type
+    if objectTypes[objType] then
+      local objPos = object.getPosition()
+      if math.abs(objPos.x - pos[1]) <= tolerance and math.abs(objPos.z - pos[3]) <= tolerance then
+        return true
+      end
+    end
+  end
+
+  return false
+end
+
+
+function getNextAvailableLargeInventorySlot(playerColor)
+  -- this function will get and return the next available positional slot in a player's inventory for a large item
+
+  local board = posCharacterBoard[playerColor]
+  local largeTypes = { Card = true }
+  local mediumTypes = { Card = true, Generic = true }
+  local smallTypes = { Chip = true, Generic = true }
+
+  for i, pos in ipairs(board.LargeInv) do
+    local occupied = inventorySlotOccupied(pos, largeTypes)
+
+    -- check corresponding medium slots
+    if not occupied then
+      for j = (i - 1) * 2 + 1, (i - 1) * 2 + 2 do
+        if inventorySlotOccupied(board.MediumInv[j], mediumTypes) then
+          occupied = true
+          break
+        end
+      end
+    end
+
+    -- check corresponding small slots
+    if not occupied then
+      for j = (i - 1) * 4 + 1, (i - 1) * 4 + 4 do
+        if inventorySlotOccupied(board.SmallInv[j], smallTypes) then
+          occupied = true
+          break
+        end
+      end
+    end
+
+    if not occupied then
+      return i
+    end
+  end
+
+  local playerStr = getPlayerStr(playerColor)
+  local errorStr = string.format("%s: Inventory Full!", playerColor)
+  broadcastStr(errorStr, "Red")
+end
+
+
+function getNextAvailableMediumInventorySlot(playerColor)
+  -- this function will get and return the next available positional slot in a player's inventory for a wound, herb, animal etc
+
+  local board = posCharacterBoard[playerColor]
+  local largeTypes = { Card = true }
+  local mediumTypes = { Card = true, Generic = true }
+  local smallTypes = { Chip = true, Generic = true }
+
+  for i, pos in ipairs(board.MediumInv) do
+    local occupied = inventorySlotOccupied(pos, mediumTypes)
+
+    -- check corresponding large slot
+    if not occupied then
+      local largeIndex = math.ceil(i / 2)
+      if inventorySlotOccupied(board.LargeInv[largeIndex], largeTypes) then
+        occupied = true
+      end
+    end
+
+    -- check corresponding small slots
+    if not occupied then
+      for j = (i - 1) * 2 + 1, (i - 1) * 2 + 2 do
+        if inventorySlotOccupied(board.SmallInv[j], smallTypes) then
+          occupied = true
+          break
+        end
+      end
+    end
+
+    if not occupied then
+      return i
+    end
+  end
+
+  local playerStr = getPlayerStr(playerColor)
+  local errorStr = string.format("%s: Inventory Full!", playerColor)
+  broadcastStr(errorStr, "Red")
+end
+
+
+function getNextAvailableSmallInventorySlot(playerColor)
+  -- this function will get and return the next available positional slot in a player's inventory for a small item
+
+  local board = posCharacterBoard[playerColor]
+  local largeTypes = { Card = true }
+  local mediumTypes = { Card = true, Generic = true }
+  local smallTypes = { Chip = true, Generic = true }
+
+  for i, pos in ipairs(board.SmallInv) do
+    local occupied = inventorySlotOccupied(pos, smallTypes)
+
+    -- check corresponding medium slot
+    if not occupied then
+      local mediumIndex = math.ceil(i / 2)
+      if inventorySlotOccupied(board.MediumInv[mediumIndex], mediumTypes) then
+        occupied = true
+      end
+    end
+
+    -- check corresponding large slot
+    if not occupied then
+      local largeIndex = math.ceil(i / 4)
+      if inventorySlotOccupied(board.LargeInv[largeIndex], largeTypes) then
+        occupied = true
+      end
+    end
+
+    if not occupied then
+      return i
+    end
+  end
+
+  local playerStr = getPlayerStr(playerColor)
+  local errorStr = string.format("%s: Inventory Full!", playerColor)
+  broadcastStr(errorStr, "Red")
+end

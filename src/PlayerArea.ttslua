@@ -864,3 +864,141 @@ function cleanupPlayerarea(clickerColor, _, obj)
     end
   end
 end
+
+
+function selectCharacter(clickerColor, _, object)
+  -- handles setup of selected character stuff
+
+  local clickerStr = getPlayerStr(clickerColor)
+  local characterCard = object
+  local cardName = characterCard.getName()
+
+  -- first check player board for setup tag
+  local playerBoard = getObjectbyNameAndNotes("Player Board", clickerColor)
+  if playerBoard.hasTag("CharacterSetupFinished") then
+    object.clearContextMenu()
+    local errorStr = string.format("%s: Player Area has already been Set Up for a Character!", clickerStr)
+    broadcastToAll(errorStr, "Red")
+    return
+  end
+
+  -- hunger, movement, XP, meat, money, etc
+  local rotCube = { 0.00, 180.00, 0.00 }
+  local rotFaceup = { 0.00, 180.00, 0.00 }
+  local rotFacedown = { 0.00, 180.00, 180.00 }
+
+  -- groschen
+  local counter = getObjectbyNameAndNotes("Groschen Counter", clickerColor)
+  local groschenVal = characterStatistics[cardName]["Groschen"]
+  counter.call("setValue", groschenVal)
+
+  -- hunger (1 indexed)
+  local hungerCount = characterStatistics[cardName]["Hunger"]
+  local posHunger = posCharacterBoard[clickerColor]["Hunger"][hungerCount]
+  local cubeHunger = getObjectbyNameAndNotes("Hunger Marker", clickerColor)
+  if cubeHunger ~= nil then
+    placeObject(cubeHunger, rotCube, posHunger, false, false)
+  end
+
+  -- movement (0 indexed)
+  local movementCount = characterStatistics[cardName]["Movement"]
+  local posMovement = posCharacterBoard[clickerColor]["Movement"][movementCount + 1]
+  local cubeMovement = getObjectbyNameAndNotes("Movement Point Marker", clickerColor)
+  if cubeMovement ~= nil then
+    placeObject(cubeMovement, rotCube, posMovement, false, false)
+  end
+
+  -- gold XP (0 indexed)
+  local goldXPCount = characterStatistics[cardName]["GoldXP"]
+  local posGoldXP = posCharacterBoard[clickerColor]["Experience"]["Gold"][goldXPCount + 1]
+  local cubeGoldXP = getObjectbyNameAndNotes("Universal Experience Marker", clickerColor)
+  if cubeGoldXP ~= nil then
+    placeObject(cubeGoldXP, rotCube, posGoldXP, false, false)
+  end
+
+  -- Lucia / Peter – A Monastery Foundling 1 XP of each color
+  if cardName == "Lucia / Peter – A Monastery Foundling" then
+    local cubeRedXP = getObjectbyNameAndNotes("Strength Experience Marker", clickerColor)
+    local cubeGreenXP = getObjectbyNameAndNotes("Perception Experience Marker", clickerColor)
+    local cubeBrownXP = getObjectbyNameAndNotes("Dexterity Experience Marker", clickerColor)
+    local cubeBlueXP = getObjectbyNameAndNotes("Speech Experience Marker", clickerColor)
+    local posRed = posCharacterBoard[clickerColor]["Experience"]["Red"][3]
+    local posGreen = posCharacterBoard[clickerColor]["Experience"]["Green"][3]
+    local posBrown = posCharacterBoard[clickerColor]["Experience"]["Brown"][3]
+    local posBlue = posCharacterBoard[clickerColor]["Experience"]["Blue"][3]
+
+    placeObject(cubeRedXP, rotCube, posRed, false, false)
+    placeObject(cubeGreenXP, rotCube, posGreen, false, false)
+    placeObject(cubeBrownXP, rotCube, posBrown, false, false)
+    placeObject(cubeBlueXP, rotCube, posBlue, false, false)
+  end
+
+  -- meat (flip fresh if agnes/adam)
+  local bagMeat = getObjectbyNameAndNotes("Meat Tokens Bag", clickerColor)
+  local meatCount = characterStatistics[cardName]["Meat"]
+  for i = 1, meatCount do
+    local meatToken = bagMeat.takeObject()
+    local rotMeat = cardName:find("Agnes / Adam") and rotFaceup or rotFacedown
+    local posMeat = posCharacterBoard[clickerColor]["SmallInv"][i]
+    if posMeat == nil then
+      local errorStr = string.format("%s: Scripting Error automatically placing Meat, please do so manually!", clickerStr)
+      broadcastToAll(errorStr, "Red")
+    elseif posMeat ~= nil then
+      if meatToken ~= nil then
+        placeObject(meatToken, rotMeat, posMeat, false, false)
+      end
+    end
+  end
+
+  -- mushrooms (always just 1, if agnes/adam - wait timer is to ensure placed after meat correctly)
+  if cardName:find("Agnes / Adam") then
+    local bagMushroom = getObjectbyNameAndNotes("Mushroom Tokens Bag", clickerColor)
+    Wait.time(function()
+
+      local mushroomToken = bagMushroom.takeObject()
+      local posMushroom = posCharacterBoard[clickerColor]["SmallInv"][2]
+      if posMushroom == nil then
+        local errorStr = string.format("%s: Scripting Error automatically placing Meat, please do so manually!", clickerStr)
+        broadcastToAll(errorStr, "Red")
+      elseif posMushroom ~= nil then
+        if mushroomToken ~= nil then
+          placeObject(mushroomToken, rotFaceup, posMushroom, false, false)
+        end
+      end
+
+    end, 0.5)
+  end
+
+  -- dirt
+  local dirtCount = characterStatistics[cardName]["Dirt"]
+  if dirtCount == 1 then
+    local posDirt = posCharacterBoard[clickerColor]["Dirt"]
+    local bagDirt = getObjectbyNameAndNotes("Dirt Tokens Bag", clickerColor)
+    local dirtToken = bagDirt.takeObject()
+    placeObject(dirtToken, rotFaceup, posDirt, false, false)
+  end
+
+  -- place character card to board
+  local posCharacter = posCharacterBoard[clickerColor]["Character"]
+  placeObject(characterCard, rotFaceup, posCharacter, false, true)
+
+  -- broadcast
+  local broadcastStr = string.format("%s has selected Character: %s", clickerStr, cardName)
+  broadcastToAll(broadcastStr, "White")
+
+  -- add finished setup tag
+  playerBoard.addTag("CharacterSetupFinished")
+
+  -- wait .5 seconds then remove any remaining character cards left in hand
+  Wait.time(function()
+
+    local handzone = getObjectbyNameAndNotes("Handzone", clickerColor)
+    for _, card in pairs(handzone.getObjects()) do
+      if card.hasTag("CharacterCard") then
+        returnToDeck(clickerColor, _, card)
+      end
+    end
+
+  end, 0.50)
+
+end

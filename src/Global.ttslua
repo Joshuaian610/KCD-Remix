@@ -235,3 +235,9 @@ function onObjectLeaveContainer(container, obj)
     if obj ~= nil then obj.addTag("SpecialItem") end
   end
 end
+
+
+function onPlayerTurn(_, _)
+  -- idempotently refresh Shop at start (end) of every player's turn
+  refreshShop(_, _, getObjectbyName("Shop Board"))
+end

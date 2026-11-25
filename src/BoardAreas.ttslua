@@ -454,4 +454,7 @@ function shuffleSetup(_, _, obj)
       end
     end
   end
+
+  -- if seatedPlayers < 1, enable turns
+  if #seatedPlayers > 1 then Turns.enable = true end
 end

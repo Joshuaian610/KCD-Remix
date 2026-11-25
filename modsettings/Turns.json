@@ -2,7 +2,7 @@
   "DisableInteractions": false,
   "Enable": false,
   "PassTurns": true,
-  "Reverse": false,
+  "Reverse": true,
   "SkipEmpty": false,
   "TurnColor": "",
   "TurnOrder": [],
